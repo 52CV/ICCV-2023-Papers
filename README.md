@@ -26,6 +26,8 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
+计68+7篇。
+
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
@@ -33,6 +35,8 @@
 
 <br>:house:[project]
 <br>:star:[code]
+
+
 
 
 ## View Synthesis(视图合成)
@@ -74,6 +78,7 @@
 
 ## Human-Object Interaction(人物交互)
 * [Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction](http://arxiv.org/abs/2307.12729v1)
+* [Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection](http://arxiv.org/abs/2307.13529v1)
 
 
 ## SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
@@ -118,10 +123,16 @@
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
+  * [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](http://arxiv.org/abs/2307.13251v1)<br>:star:[code](https://github.com/VinAIResearch/GaPro)
 
 ## Reid(人员重识别/步态识别/行人检测)
 * 步态识别
   * [Hierarchical Spatio-Temporal Representation Learning for Gait Recognition](http://arxiv.org/abs/2307.09856v1)
+
+## Pose
+* 姿势迁移
+  * [Weakly-supervised 3D Pose Transfer with Keypoints](http://arxiv.org/abs/2307.13459v1)
+
 
 ## 超分辨率
 * [On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement](http://arxiv.org/abs/2307.12027v1)<br>:star:[code](https://github.com/Luciennnnnnn/DualFormer)
@@ -151,6 +162,7 @@
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
 
 ## Image Segmentation(图像分割)
+* [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
   * 半监督语义分割
@@ -159,6 +171,8 @@
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
+* VOS
+  * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
 
 ## Image Progress(低层图像处理、质量评价)
 * 图像恢复
@@ -176,7 +190,10 @@
 * 文本驱动的人脸处理
   * [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](http://arxiv.org/abs/2307.11418v1)
 
+
+
 ## Object Detection(目标检测)
+* [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
 * [Less is More: Focus Attention for Efficient DETR](http://arxiv.org/abs/2307.12612v1)<br>:star:[code](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR)<br>:house:[project](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR)
 * [Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes](http://arxiv.org/abs/2307.12101v1)<br>:star:[code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det)
 * [AlignDet: Aligning Pre-training and Fine-tuning in Object Detection](http://arxiv.org/abs/2307.11077v1)<br>:star:[code](https://liming-ai.github.io/AlignDet)
@@ -195,6 +212,7 @@
   * [LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction](http://arxiv.org/abs/2307.12194v1)
 
 ## 其它(others)
+* [Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network](http://arxiv.org/abs/2307.13254v1)
 * [Rethinking Data Distillation: Do Not Overlook Calibration](http://arxiv.org/abs/2307.12463v1)
 * [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](http://arxiv.org/abs/2307.09693v1)
 * [Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV](http://arxiv.org/abs/2307.10713v1)<br>:star:[code](https://github.com/jspenmar/slowtv_monodepth)
