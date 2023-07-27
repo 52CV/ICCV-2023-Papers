@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计68+7篇。
+计75+12篇。
 
 ## 目录
 
@@ -35,8 +35,6 @@
 
 <br>:house:[project]
 <br>:star:[code]
-
-
 
 
 ## View Synthesis(视图合成)
@@ -55,12 +53,14 @@
 ## Dataset/Benchmark
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)
+  * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
 * 基准
   * 目标检测
     * [COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts](http://arxiv.org/abs/2307.12730v1)<br>:star:[code](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o)
 
 ## Vision-Language
 * [Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?](http://arxiv.org/abs/2307.11978v1)<br>:star:[code](https://github.com/CEWu/PTNL)
+* [Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models](http://arxiv.org/abs/2307.14061v1)
 * 视觉表示学习
   * [Hallucination Improves the Performance of Unsupervised Visual Representation Learning](http://arxiv.org/abs/2307.12168v1)
 * VLN
@@ -74,6 +74,8 @@
 ## Video
 * 视频稳定
   * [Fast Full-frame Video Stabilization with Iterative Optimization](http://arxiv.org/abs/2307.12774v1)
+* Video Grounding(视频定位)
+  * [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](http://arxiv.org/abs/2307.14277v1)
 
 
 ## Human-Object Interaction(人物交互)
@@ -88,9 +90,12 @@
 ## Autonomous vehicles(自动驾驶)
 * 自动驾驶
   * [Improving Online Lane Graph Extraction by Object-Lane Clustering](http://arxiv.org/abs/2307.10947v1)
+* 轨迹预测
+  * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
 
 ## Style Transfer(风格迁移)
 * [AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](http://arxiv.org/abs/2307.09724v1)<br>:star:[code](https://github.com/Kibeom-Hong/AesPA-Net)
+* [Creative Birds: Self-Supervised Single-View 3D Style Transfer](http://arxiv.org/abs/2307.14127v1)<br>:star:[code](https://github.com/wrk226/2D-to-3D-Evolution-Transfer)
 
 ## Machine Learning(机器学习)
 * Adversarial Learning(对抗学习) 
@@ -109,6 +114,8 @@
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 量化
   * [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](http://arxiv.org/abs/2307.10554v1)
+* 轻量级网络
+  * [Adaptive Frequency Filters As Efficient Global Token Mixers](http://arxiv.org/abs/2307.14008v1)
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 域适应
@@ -157,6 +164,9 @@
   * [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](http://arxiv.org/abs/2307.10816v1)<br>:star:[code](https://github.com/Sierkinhane/BoxDiff)
 * 扩散
   * [DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport](http://arxiv.org/abs/2307.11308v1)<br>:star:[code](https://github.com/cognaclee/DPM-OT)
+* 3D形状生成
+  * [3D Semantic Subspace Traverser: Empowering 3D Generative Model with Shape Editing Capability](http://arxiv.org/abs/2307.14051v1)<br>:star:[code](https://github.com/TrepangCat/3D_Semantic_Subspace_Traverser)
+
 
 ## Image Classification(图像分类)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
@@ -185,6 +195,8 @@
   * [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906)<br>:star:[code](https://github.com/harlanhong/ICCV2023-MCNET)
 * 人脸交换
   * [BlendFace: Re-designing Identity Encoders for Face-Swapping](http://arxiv.org/abs/2307.10854v1)<br>:star:[code](https://github.com/mapooon/BlendFace)<br>:star:[code](https://mapooon.github.io/BlendFacePage/)
+* 假脸检测
+  * [Controllable Guide-Space for Generalizable Face Forgery Detection](http://arxiv.org/abs/2307.14039v1)
 * 人脸再现
   * [HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces](http://arxiv.org/abs/2307.10797v1)<br>:star:[code](https://github.com/StelaBou/HyperReenact)<br>:star:[code](https://stelabou.github.io/hyperreenact.github.io/)
 * 文本驱动的人脸处理
@@ -207,11 +219,17 @@
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
 
 ## 3D(三维重建\三维视觉)
+* [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
 * 三维重建
   * [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](http://arxiv.org/abs/2307.10984v1)<br>:star:[code](https://github.com/YvanYin/Metric3D)
   * [LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction](http://arxiv.org/abs/2307.12194v1)
+* 深度估计
+  * [MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation](http://arxiv.org/abs/2307.14336v1)
+* Stereo Matching
+  * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
 
 ## 其它(others)
+* [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
 * [Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network](http://arxiv.org/abs/2307.13254v1)
 * [Rethinking Data Distillation: Do Not Overlook Calibration](http://arxiv.org/abs/2307.12463v1)
 * [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](http://arxiv.org/abs/2307.09693v1)
