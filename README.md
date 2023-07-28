@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计75+12篇。
+计87+16篇。
 
 ## 目录
 
@@ -37,8 +37,19 @@
 <br>:star:[code]
 
 
+
+
+
+
+
+
+
+
 ## View Synthesis(视图合成)
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
+
+## Image-to-Image Translation
+* [General Image-to-Image Translation with One-Shot Image Guidance](http://arxiv.org/abs/2307.14352v1)<br>:star:[code](https://github.com/CrystalNeuro/visual-concept-translator)
 
 ## Neural Radiance Fields
 * Rendering(渲染)
@@ -54,11 +65,19 @@
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)
   * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
+  * [360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking](http://arxiv.org/abs/2307.14630v1)<br>:house:[project](https://360vot.hkustvgd.com)<br>:star:[code](https://github.com/HuajianUP/360VOT)全向视觉目标跟踪
 * 基准
   * 目标检测
     * [COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts](http://arxiv.org/abs/2307.12730v1)<br>:star:[code](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o)
 
+## Vision Transformers
+* [Pre-training Vision Transformers with Very Limited Synthesized Images](http://arxiv.org/abs/2307.14710v1)
+
+
+
+
 ## Vision-Language
+* [Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models](http://arxiv.org/abs/2307.15049v1)<br>:star:[code](https://wuw2019.github.io/RMT/)
 * [Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels?](http://arxiv.org/abs/2307.11978v1)<br>:star:[code](https://github.com/CEWu/PTNL)
 * [Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models](http://arxiv.org/abs/2307.14061v1)
 * 视觉表示学习
@@ -77,6 +96,8 @@
 * Video Grounding(视频定位)
   * [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](http://arxiv.org/abs/2307.14277v1)
 
+## 手语
+* [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](http://arxiv.org/abs/2307.14768v1)<br>:star:[code](https://github.com/zhoubenjia/GFSLT-VLP)
 
 ## Human-Object Interaction(人物交互)
 * [Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction](http://arxiv.org/abs/2307.12729v1)
@@ -124,13 +145,19 @@
   * [Flatness-Aware Minimization for Domain Generalization](http://arxiv.org/abs/2307.11108v1)
 
 
+
 ## Point Cloud(点云)
+* [Clustering based Point Cloud Representation Learning for 3D Analysis](http://arxiv.org/abs/2307.14605v1)<br>:star:[code](https://github.com/FengZicai/Cluster3Dseg/)
+* [Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models](http://arxiv.org/abs/2307.14971v1)<br>:house:[project](https://tap.ivg-research.xyz)<br>:star:[code](https://github.com/wangzy22/TAP)
 * 点云配准
   * [Density-invariant Features for Distant Point Cloud Registration](http://arxiv.org/abs/2307.09788v1)
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
   * [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](http://arxiv.org/abs/2307.13251v1)<br>:star:[code](https://github.com/VinAIResearch/GaPro)
+* 点云补全
+  * [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](http://arxiv.org/abs/2307.14726v1)<br>:star:[code](https://github.com/CuiRuikai/Partial2Complete)
+
 
 ## Reid(人员重识别/步态识别/行人检测)
 * 步态识别
@@ -140,6 +167,9 @@
 * 姿势迁移
   * [Weakly-supervised 3D Pose Transfer with Keypoints](http://arxiv.org/abs/2307.13459v1)
 
+##
+* GAN 逆映射
+  * [Diverse Inpainting and Editing with GAN Inversion](http://arxiv.org/abs/2307.15033v1)
 
 ## 超分辨率
 * [On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement](http://arxiv.org/abs/2307.12027v1)<br>:star:[code](https://github.com/Luciennnnnnn/DualFormer)
@@ -152,6 +182,7 @@
 * [OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?](http://arxiv.org/abs/2307.11636v1)
 
 ## Medical Image(医学影像)
+* [Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation](http://arxiv.org/abs/2307.14709v1)
 * 医学影像配准
   * [Towards Saner Deep Image Registration](http://arxiv.org/abs/2307.09696v1)<br>:star:[code](https://github.com/tuffr5/Saner-deep-registration)
 * 医学报告生成
@@ -175,10 +206,13 @@
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
+  * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
   * 半监督语义分割
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
 * 指代图像分割
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
+* 前景分割
+  * [Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning](http://arxiv.org/abs/2307.14786v1)
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
 * VOS
@@ -189,6 +223,8 @@
   * [Physics-Driven Turbulence Image Restoration with Stochastic Refinement](http://arxiv.org/abs/2307.10603v1)<br>:star:[code](https://github.com/VITA-Group/PiRN)
 * 图像增强
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
+* 质量评估
+  * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 
 ## Face(人脸)
 * 说话头合成
@@ -215,6 +251,7 @@
 * [Object-aware Gaze Target Detection](http://arxiv.org/abs/2307.09662v1)<br>:star:[code](https://github.com/francescotonini/object-aware-gaze-target-detection)
 * 3D OD
   * [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](http://arxiv.org/abs/2307.12637v1)<br>:star:[code](https://github.com/quotation2520/PG-RCNN)
+  * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](http://arxiv.org/abs/2307.14620v1)<br>:star:[code](https://github.com/facebookresearch/NeRF-Det)
 * 目标定位
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
 
@@ -227,6 +264,7 @@
   * [MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation](http://arxiv.org/abs/2307.14336v1)
 * Stereo Matching
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
+  * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
 
 ## 其它(others)
 * [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
@@ -237,6 +275,7 @@
 * [Towards Viewpoint-Invariant Visual Recognition via Adversarial Training](http://arxiv.org/abs/2307.10235v1)
 * [Tuning Pre-trained Model via Moment Probing](http://arxiv.org/abs/2307.11342v1)<br>:star:[code](https://github.com/mingzeG/Moment-Probing)
 * [Replay: Multi-modal Multi-view Acted Videos for Casual Holography](https://arxiv.org/abs/2307.12067)
+* [TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation](http://arxiv.org/abs/2307.14611v1)
 * 数据增强
   * [HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness](http://arxiv.org/abs/2307.11823v1)
 
