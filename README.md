@@ -37,14 +37,6 @@
 <br>:star:[code]
 
 
-
-
-
-
-
-
-
-
 ## View Synthesis(视图合成)
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
 
