@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计87+16篇。
+计87+21篇。
 
 ## 目录
 
@@ -72,7 +72,7 @@
 
 ## Vision Transformers
 * [Pre-training Vision Transformers with Very Limited Synthesized Images](http://arxiv.org/abs/2307.14710v1)
-
+* [SMMix: Self-Motivated Image Mixing for Vision Transformers](https://arxiv.org/abs/2212.12977)
 
 
 
@@ -225,6 +225,8 @@
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
+* 图像和谐化
+  * [Learning Global-aware Kernel for Image Harmonization](https://arxiv.org/pdf/2305.11676.pdf)
 
 ## Face(人脸)
 * 说话头合成
@@ -238,7 +240,9 @@
 * 文本驱动的人脸处理
   * [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](http://arxiv.org/abs/2307.11418v1)
 
-
+## Biometric Recognition(生物特征识别)
+* 掌纹识别
+  * [RPG-Palm: Realistic Pseudo-data Generation for Palmprint Recognition](https://arxiv.org/abs/2307.14016)<br>:star:[code](https://github.com/RayshenSL/RPG-PALM)
 
 ## Object Detection(目标检测)
 * [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
@@ -265,6 +269,8 @@
 * Stereo Matching
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
   * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
+* 3D形状生成
+  *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
 ## 其它(others)
 * [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
@@ -276,6 +282,7 @@
 * [Tuning Pre-trained Model via Moment Probing](http://arxiv.org/abs/2307.11342v1)<br>:star:[code](https://github.com/mingzeG/Moment-Probing)
 * [Replay: Multi-modal Multi-view Acted Videos for Casual Holography](https://arxiv.org/abs/2307.12067)
 * [TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation](http://arxiv.org/abs/2307.14611v1)
+* [Rethinking Mobile Block for Efficient Attention-based Models](https://arxiv.org/pdf/2301.01146.pdf)
 * 数据增强
   * [HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness](http://arxiv.org/abs/2307.11823v1)
 
