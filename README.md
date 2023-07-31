@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计87+21篇。
+计108+10篇。
 
 ## 目录
 
@@ -35,6 +35,12 @@
 
 <br>:house:[project]
 <br>:star:[code]
+<br>:thumbsup:
+
+
+
+
+
 
 
 ## View Synthesis(视图合成)
@@ -44,6 +50,7 @@
 * [General Image-to-Image Translation with One-Shot Image Guidance](http://arxiv.org/abs/2307.14352v1)<br>:star:[code](https://github.com/CrystalNeuro/visual-concept-translator)
 
 ## Neural Radiance Fields
+* [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields](http://arxiv.org/abs/2307.15131v1)<br>:house:[project](https://windingwind.github.io/seal-3d/)<br>:star:[code](https://github.com/windingwind/seal-3d/)
 * Rendering(渲染)
   * [DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering](https://arxiv.org/abs/2307.10173)<br>:house:[project](https://dna-rendering.github.io/)
   * [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](http://arxiv.org/abs/2307.12291v1)<br>:star:[code](https://pansanity666.github.io/TransHuman/)
@@ -55,7 +62,7 @@
 
 ## Dataset/Benchmark
 * 数据集
-  * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)
+  * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)<br>:thumbsup:[ICCV2023 首个城市级别的基于航空点云的房屋建模数据集 Building3D](https://mp.weixin.qq.com/s/gKFByZ8ud2aNlG7C7t2-2Q)
   * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
   * [360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking](http://arxiv.org/abs/2307.14630v1)<br>:house:[project](https://360vot.hkustvgd.com)<br>:star:[code](https://github.com/HuajianUP/360VOT)全向视觉目标跟踪
 * 基准
@@ -77,6 +84,7 @@
 * VLN
   * [Learning Vision-and-Language Navigation from YouTube Videos](http://arxiv.org/abs/2307.11984v1)<br>:star:[code](https://github.com/JeremyLinky/YouTube-VLN)
   * [GridMM: Grid Memory Map for Vision-and-Language Navigation](http://arxiv.org/abs/2307.12907v1)
+  * [Scaling Data Generation in Vision-and-Language Navigation](http://arxiv.org/abs/2307.15644v1)
 
 ## Vision Question Answering(视觉问答)
 * Video-QA
@@ -119,6 +127,8 @@
   * [Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery](http://arxiv.org/abs/2307.10943v1)
 * 多任务学习
   * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
+  * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
+
 * 持续学习/增量学习
   * [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](http://arxiv.org/abs/2307.11386v1)<br>:star:[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
 * Federated Learning(联邦学习)
@@ -135,7 +145,7 @@
   * [Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples](http://arxiv.org/abs/2307.10062v1)
 * 域泛化
   * [Flatness-Aware Minimization for Domain Generalization](http://arxiv.org/abs/2307.11108v1)
-
+  * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](http://arxiv.org/abs/2307.15199v1)<br>:house:[project](https://promptstyler.github.io/)
 
 
 ## Point Cloud(点云)
@@ -179,6 +189,8 @@
   * [Towards Saner Deep Image Registration](http://arxiv.org/abs/2307.09696v1)<br>:star:[code](https://github.com/tuffr5/Saner-deep-registration)
 * 医学报告生成
   * [PRIOR: Prototype Representation Joint Learning from Medical Images and Reports](http://arxiv.org/abs/2307.12577v1)<br>:star:[code](https://github.com/QtacierP/PRIOR)
+* 切片分类
+  * [Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification](http://arxiv.org/abs/2307.15254v1)<br>:star:[code](https://github.com/DearCaat/MHIM-MIL)
 
 ## Image Synthesis(图像合成)
 * 图像合成
@@ -215,6 +227,7 @@
   * [Physics-Driven Turbulence Image Restoration with Stochastic Refinement](http://arxiv.org/abs/2307.10603v1)<br>:star:[code](https://github.com/VITA-Group/PiRN)
 * 图像增强
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
+  * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -235,6 +248,12 @@
 ## Biometric Recognition(生物特征识别)
 * 掌纹识别
   * [RPG-Palm: Realistic Pseudo-data Generation for Palmprint Recognition](https://arxiv.org/abs/2307.14016)<br>:star:[code](https://github.com/RayshenSL/RPG-PALM)
+
+## Object Tracking
+* 多目标跟踪
+  * [MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking](http://arxiv.org/abs/2307.15700v1)<br>:star:[code](https://github.com/MCG-NJU/MeMOTR)
+  * [Uncertainty-aware Unsupervised Multi-Object Tracking](http://arxiv.org/abs/2307.15409v1)
+
 
 ## Object Detection(目标检测)
 * [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
@@ -265,6 +284,8 @@
   *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
 ## 其它(others)
+* [Supervised Homography Learning with Realistic Dataset Generation](http://arxiv.org/abs/2307.15353v1)<br>:star:[code](https://github.com/megvii-research/RealSH)
+* [Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF](http://arxiv.org/abs/2307.15333v1)<br>:house:[project](https://vlislab22.github.io/DOT)
 * [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
 * [Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network](http://arxiv.org/abs/2307.13254v1)
 * [Rethinking Data Distillation: Do Not Overlook Calibration](http://arxiv.org/abs/2307.12463v1)
