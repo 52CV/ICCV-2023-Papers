@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计108+10篇。
+计118+15篇。
 
 ## 目录
 
@@ -36,11 +36,6 @@
 <br>:house:[project]
 <br>:star:[code]
 <br>:thumbsup:
-
-
-
-
-
 
 
 ## View Synthesis(视图合成)
@@ -90,11 +85,19 @@
 * Video-QA
   * [Discovering Spatio-Temporal Rationales for Video Question Answering](http://arxiv.org/abs/2307.12058v1)<br>:star:[code](https://github.com/yl3800/TranSTR)
 
+## Action
+* 时序动作定位
+  * [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](http://arxiv.org/abs/2307.16415v1)<br>:star:[code](https://github.com/XiaojunTang22/ICCV2023-DDGNet)
+
 ## Video
 * 视频稳定
   * [Fast Full-frame Video Stabilization with Iterative Optimization](http://arxiv.org/abs/2307.12774v1)
 * Video Grounding(视频定位)
   * [G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory](http://arxiv.org/abs/2307.14277v1)
+  * [UniVTG: Towards Unified Video-Language Temporal Grounding](http://arxiv.org/abs/2307.16715v1)<br>:star:[code](https://github.com/showlab/UniVTG)
+* 视频分割
+  * [XMem++: Production-level Video Segmentation From Few Annotated Frames](http://arxiv.org/abs/2307.15958v1)
+
 
 ## 手语
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](http://arxiv.org/abs/2307.14768v1)<br>:star:[code](https://github.com/zhoubenjia/GFSLT-VLP)
@@ -123,6 +126,7 @@
   * [Towards Building More Robust Models with Frequency Bias](http://arxiv.org/abs/2307.09763v1)
   * 对抗样本
     * [Downstream-agnostic Adversarial Examples](http://arxiv.org/abs/2307.12280v1)
+    * [Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples](http://arxiv.org/abs/2307.16361v1)<br>:star:[code](https://github.com/qiufan319/benchmark_pc_attack.git)
 * Class Incremental Learning(类增量学习)
   * [Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery](http://arxiv.org/abs/2307.10943v1)
 * 多任务学习
@@ -165,11 +169,16 @@
 * 步态识别
   * [Hierarchical Spatio-Temporal Representation Learning for Gait Recognition](http://arxiv.org/abs/2307.09856v1)
 
-## Pose
+## Human Pose Estimation
+* 人体姿态估计
+  * [DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation](http://arxiv.org/abs/2307.16687v1)
+* 人体网格恢复
+  * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
 * 姿势迁移
   * [Weakly-supervised 3D Pose Transfer with Keypoints](http://arxiv.org/abs/2307.13459v1)
 
-##
+## Generative Adversarial Network
+* [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network](http://arxiv.org/abs/2307.15860v1)<br>:star:[code](https://github.com/AbstractTeen/gan_ownership_verification)
 * GAN 逆映射
   * [Diverse Inpainting and Editing with GAN Inversion](http://arxiv.org/abs/2307.15033v1)
 
@@ -182,6 +191,9 @@
 
 ## Image Captions(图像字幕)
 * [OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?](http://arxiv.org/abs/2307.11636v1)
+* [Transferable Decoding with Visual Entities for Zero-Shot Image Captioning](http://arxiv.org/abs/2307.16525v1)<br>:star:[code](https://github.com/FeiElysia/ViECap)
+* [Guiding Image Captioning Models Toward More Specific Captions](http://arxiv.org/abs/2307.16686v1)
+
 
 ## Medical Image(医学影像)
 * [Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation](http://arxiv.org/abs/2307.14709v1)
@@ -205,11 +217,14 @@
 
 ## Image Classification(图像分类)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
+* 多标签图像分类
+  * [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](http://arxiv.org/abs/2307.16634v1)
 
 ## Image Segmentation(图像分割)
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
+  * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
   * 半监督语义分割
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
@@ -223,11 +238,14 @@
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
 
 ## Image Progress(低层图像处理、质量评价)
+* [DRAW: Defending Camera-shooted RAW against Image Manipulation](http://arxiv.org/abs/2307.16418v1)
 * 图像恢复
   * [Physics-Driven Turbulence Image Restoration with Stochastic Refinement](http://arxiv.org/abs/2307.10603v1)<br>:star:[code](https://github.com/VITA-Group/PiRN)
 * 图像增强
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
   * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
+* 图像去噪
+  * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -284,6 +302,8 @@
   *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
 ## 其它(others)
+* [Revisiting the Parameter Efficiency of Adapters from the Perspective of Precision Redundancy](http://arxiv.org/abs/2307.16867v1)<br>:star:[code](https://github.com/JieShibo/PETL-ViT)
+* [Towards General Low-Light Raw Noise Synthesis and Modeling](http://arxiv.org/abs/2307.16508v1)<br>:star:[code](https://github.com/fengzhang427/LRD)
 * [Supervised Homography Learning with Realistic Dataset Generation](http://arxiv.org/abs/2307.15353v1)<br>:star:[code](https://github.com/megvii-research/RealSH)
 * [Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF](http://arxiv.org/abs/2307.15333v1)<br>:house:[project](https://vlislab22.github.io/DOT)
 * [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
