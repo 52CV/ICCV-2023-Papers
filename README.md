@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计118+15篇。
+计133+5篇。
 
 ## 目录
 
@@ -114,6 +114,7 @@
 ## Autonomous vehicles(自动驾驶)
 * 自动驾驶
   * [Improving Online Lane Graph Extraction by Object-Lane Clustering](http://arxiv.org/abs/2307.10947v1)
+  * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2308.00398v1)<br>:star:[code](https://github.com/OpenDriveLab/DriveAdapter)
 * 轨迹预测
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
 
@@ -135,6 +136,7 @@
 
 * 持续学习/增量学习
   * [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](http://arxiv.org/abs/2307.11386v1)<br>:star:[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
+  * [Online Prototype Learning for Online Continual Learning](http://arxiv.org/abs/2308.00301v1)<br>:star:[code](https://github.com/weilllllls/OnPro)
 * Federated Learning(联邦学习)
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
 
@@ -250,6 +252,8 @@
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
   * [Learning Global-aware Kernel for Image Harmonization](https://arxiv.org/pdf/2305.11676.pdf)
+  * [Deep Image Harmonization with Learnable Augmentation](http://arxiv.org/abs/2308.00376v1)<br>:star:[code](https://github.com/bcmi/SycoNet-Adaptive-Image-Harmonization)
+  * [Deep Image Harmonization with Globally Guided Feature Transformation and Relation Distillation](http://arxiv.org/abs/2308.00356v1)<br>:star:[code](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
 
 ## Face(人脸)
 * 说话头合成
@@ -302,6 +306,7 @@
   *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
 ## 其它(others)
+* [Improving Pixel-based MIM by Reducing Wasted Modeling Capability](http://arxiv.org/abs/2308.00261v1)<br>:star:[code](https://github.com/open-mmlab/mmpretrain)
 * [Revisiting the Parameter Efficiency of Adapters from the Perspective of Precision Redundancy](http://arxiv.org/abs/2307.16867v1)<br>:star:[code](https://github.com/JieShibo/PETL-ViT)
 * [Towards General Low-Light Raw Noise Synthesis and Modeling](http://arxiv.org/abs/2307.16508v1)<br>:star:[code](https://github.com/fengzhang427/LRD)
 * [Supervised Homography Learning with Realistic Dataset Generation](http://arxiv.org/abs/2307.15353v1)<br>:star:[code](https://github.com/megvii-research/RealSH)
