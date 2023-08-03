@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计133+5篇。
+计138+3篇。
 
 ## 目录
 
@@ -36,6 +36,8 @@
 <br>:house:[project]
 <br>:star:[code]
 <br>:thumbsup:
+
+
 
 
 ## View Synthesis(视图合成)
@@ -133,12 +135,14 @@
 * 多任务学习
   * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
   * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
-
 * 持续学习/增量学习
   * [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](http://arxiv.org/abs/2307.11386v1)<br>:star:[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
   * [Online Prototype Learning for Online Continual Learning](http://arxiv.org/abs/2308.00301v1)<br>:star:[code](https://github.com/weilllllls/OnPro)
 * Federated Learning(联邦学习)
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
+* Reinforcement Learning(强化学习)
+  * [Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation](http://arxiv.org/abs/2308.01194v1)
+
 
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 量化
@@ -178,6 +182,8 @@
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
 * 姿势迁移
   * [Weakly-supervised 3D Pose Transfer with Keypoints](http://arxiv.org/abs/2307.13459v1)
+* 三维人体重建
+  * [Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction](http://arxiv.org/abs/2308.00799v1)
 
 ## Generative Adversarial Network
 * [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Network](http://arxiv.org/abs/2307.15860v1)<br>:star:[code](https://github.com/AbstractTeen/gan_ownership_verification)
@@ -302,6 +308,7 @@
 * Stereo Matching
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
   * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
+  * [ELFNet: Evidential Local-global Fusion for Stereo Matching](http://arxiv.org/abs/2308.00728v1)<br>:star:[code](https://github.com/jimmy19991222/ELFNet)
 * 3D形状生成
   *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
