@@ -26,12 +26,14 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计138+3篇。
+计141+5篇。
 
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
+
+
 
 <br>:house:[project]
 <br>:star:[code]
@@ -60,6 +62,7 @@
 ## Dataset/Benchmark
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)<br>:thumbsup:[ICCV2023 首个城市级别的基于航空点云的房屋建模数据集 Building3D](https://mp.weixin.qq.com/s/gKFByZ8ud2aNlG7C7t2-2Q)
+  * [Efficient neural supersampling on a novel gaming dataset](http://arxiv.org/abs/2308.01483v1)
   * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
   * [360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking](http://arxiv.org/abs/2307.14630v1)<br>:house:[project](https://360vot.hkustvgd.com)<br>:star:[code](https://github.com/HuajianUP/360VOT)全向视觉目标跟踪
 * 基准
@@ -224,6 +227,7 @@
 
 
 ## Image Classification(图像分类)
+* [Get the Best of Both Worlds: Improving Accuracy and Transferability by Grassmann Class Representation](http://arxiv.org/abs/2308.01547v1)<br>:star:[code](https://github.com/innerlee/GCR)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
 * 多标签图像分类
   * [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](http://arxiv.org/abs/2307.16634v1)
@@ -238,8 +242,10 @@
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
 * 指代图像分割
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
-* 前景分割
+* 全景分割
   * [Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning](http://arxiv.org/abs/2307.14786v1)
+  * [Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport](http://arxiv.org/abs/2308.01779v1)<br>:star:[code](https://github.com/LiWentomng/Point2Mask)
+  * [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](http://arxiv.org/abs/2308.01686v1)<br>:star:[code](https://github.com/zhangzw12319/lcps.git)
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
 * VOS
@@ -284,6 +290,7 @@
 
 
 ## Object Detection(目标检测)
+* [DETR Doesn't Need Multi-Scale or Locality Design](http://arxiv.org/abs/2308.01904v1)<br>:star:[code](https://github.com/impiga/Plain-DETR)
 * [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
 * [Less is More: Focus Attention for Efficient DETR](http://arxiv.org/abs/2307.12612v1)<br>:star:[code](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR)<br>:house:[project](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR)
 * [Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes](http://arxiv.org/abs/2307.12101v1)<br>:star:[code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det)
