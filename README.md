@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计146+2篇。
+计146+14篇。
 
 ## 目录
 
@@ -40,6 +40,12 @@
 
 ## View Synthesis(视图合成)
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
+
+## Image Matching(图像匹配)
+* [OccNet: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions]未公开
+
+## Image Fusion(图像融合)
+* [MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion]未公开
 
 ## Image-to-Image Translation
 * [General Image-to-Image Translation with One-Shot Image Guidance](http://arxiv.org/abs/2307.14352v1)<br>:star:[code](https://github.com/CrystalNeuro/visual-concept-translator)
@@ -58,6 +64,7 @@
 ## Dataset/Benchmark
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)<br>:thumbsup:[ICCV2023 首个城市级别的基于航空点云的房屋建模数据集 Building3D](https://mp.weixin.qq.com/s/gKFByZ8ud2aNlG7C7t2-2Q)
+  * [Learning Optical Flow from Event Camera with Rendered Dataset](https://arxiv.org/abs/2303.11011)
   * [Efficient neural supersampling on a novel gaming dataset](http://arxiv.org/abs/2308.01483v1)
   * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
   * [360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking](http://arxiv.org/abs/2307.14630v1)<br>:house:[project](https://360vot.hkustvgd.com)<br>:star:[code](https://github.com/HuajianUP/360VOT)全向视觉目标跟踪
@@ -118,6 +125,8 @@
   * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2308.00398v1)<br>:star:[code](https://github.com/OpenDriveLab/DriveAdapter)
 * 轨迹预测
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
+* 车道线
+  * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)<br>:star:[code](https://github.com/megvii-research/PETR.git)
 
 ## Style Transfer(风格迁移)
 * [AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](http://arxiv.org/abs/2307.09724v1)<br>:star:[code](https://github.com/Kibeom-Hong/AesPA-Net)
@@ -148,6 +157,9 @@
   * [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](http://arxiv.org/abs/2307.10554v1)
 * 轻量级网络
   * [Adaptive Frequency Filters As Efficient Global Token Mixers](http://arxiv.org/abs/2307.14008v1)
+* 知识蒸馏
+  * [DOT: A Distillation-Oriented Trainer](https://arxiv.org/abs/2307.08436)
+  * [Cumulative Spatial Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2307.08500)
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 域适应
@@ -156,12 +168,16 @@
   * [Flatness-Aware Minimization for Domain Generalization](http://arxiv.org/abs/2307.11108v1)
   * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](http://arxiv.org/abs/2307.15199v1)<br>:house:[project](https://promptstyler.github.io/)
 
+## Optical Flow Estimation(光流估计)
+* [GAFlow: Incorporating Gaussian Attention into Optical Flow]未公开
+* [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
 
 ## Point Cloud(点云)
 * [Clustering based Point Cloud Representation Learning for 3D Analysis](http://arxiv.org/abs/2307.14605v1)<br>:star:[code](https://github.com/FengZicai/Cluster3Dseg/)
 * [Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models](http://arxiv.org/abs/2307.14971v1)<br>:house:[project](https://tap.ivg-research.xyz)<br>:star:[code](https://github.com/wangzy22/TAP)
 * 点云配准
   * [Density-invariant Features for Distant Point Cloud Registration](http://arxiv.org/abs/2307.09788v1)
+  * [SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration]未公开
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
@@ -247,6 +263,7 @@
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
+  * [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)<br>:star:[code](https://github.com/wudongming97/OnlineRefer)
 
 ## Image Progress(低层图像处理、质量评价)
 * [DRAW: Defending Camera-shooted RAW against Image Manipulation](http://arxiv.org/abs/2307.16418v1)
@@ -300,6 +317,8 @@
 * 3D OD
   * [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](http://arxiv.org/abs/2307.12637v1)<br>:star:[code](https://github.com/quotation2520/PG-RCNN)
   * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](http://arxiv.org/abs/2307.14620v1)<br>:star:[code](https://github.com/facebookresearch/NeRF-Det)
+  * [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)<br>:star:[code](https://github.com/exiawsh/StreamPETR)
+  * [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)<br>:star:[code](https://github.com/junjie18/CMT)
 * 目标定位
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
 
