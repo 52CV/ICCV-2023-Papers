@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计141+5篇。
+计146+2篇。
 
 ## 目录
 
@@ -229,6 +229,7 @@
   * [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](http://arxiv.org/abs/2307.16634v1)
 
 ## Image Segmentation(图像分割)
+* [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://arxiv.org/abs/2308.02097)<br>:star:[code](https://github.com/JinyuanLiu-CV/SegMiF)
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
@@ -286,6 +287,7 @@
 
 
 ## Object Detection(目标检测)
+* [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236)<br>:star:[code](https://github.com/NVlabs/FB-BEV)
 * [DETR Doesn't Need Multi-Scale or Locality Design](http://arxiv.org/abs/2308.01904v1)<br>:star:[code](https://github.com/impiga/Plain-DETR)
 * [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
 * [Less is More: Focus Attention for Efficient DETR](http://arxiv.org/abs/2307.12612v1)<br>:star:[code](https://github.com/huawei-noah/noah-research/tree/master/Focus-DETR)<br>:house:[project](https://gitee.com/mindspore/models/tree/master/research/cv/Focus-DETR)
