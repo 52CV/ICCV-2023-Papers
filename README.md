@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计146+14篇。
+计160+19篇。
 
 ## 目录
 
@@ -40,6 +40,7 @@
 
 ## View Synthesis(视图合成)
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
+* [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](http://arxiv.org/abs/2308.02840v1)<br>:star:[code](https://w-ted.github.io/publications/udc-nerf)
 
 ## Image Matching(图像匹配)
 * [OccNet: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions]未公开
@@ -49,6 +50,9 @@
 
 ## Image-to-Image Translation
 * [General Image-to-Image Translation with One-Shot Image Guidance](http://arxiv.org/abs/2307.14352v1)<br>:star:[code](https://github.com/CrystalNeuro/visual-concept-translator)
+
+## Scene Graph Generation(场景图合成)
+* [Environment-Invariant Curriculum Relation Learning for Fine-Grained Scene Graph Generation](http://arxiv.org/abs/2308.03282v1)
 
 ## Neural Radiance Fields
 * [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields](http://arxiv.org/abs/2307.15131v1)<br>:house:[project](https://windingwind.github.io/seal-3d/)<br>:star:[code](https://github.com/windingwind/seal-3d/)
@@ -71,11 +75,16 @@
 * 基准
   * 目标检测
     * [COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts](http://arxiv.org/abs/2307.12730v1)<br>:star:[code](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o)
+  * 超分辨率  
+    * [A Benchmark for Chinese-English Scene Text Image Super-resolution](http://arxiv.org/abs/2308.03262v1)<br>:star:[code](https://github.com/mjq11302010044/Real-CE)
 
 ## Vision Transformers
 * [Pre-training Vision Transformers with Very Limited Synthesized Images](http://arxiv.org/abs/2307.14710v1)
 * [SMMix: Self-Motivated Image Mixing for Vision Transformers](https://arxiv.org/abs/2212.12977)
 
+## Anomaly Detection(异常检测)
+* 图像异常检测
+  * [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](http://arxiv.org/abs/2308.02983v1)<br>:star:[code](https://github.com/xcyao00/FOD)
 
 
 ## Vision-Language
@@ -105,7 +114,8 @@
   * [UniVTG: Towards Unified Video-Language Temporal Grounding](http://arxiv.org/abs/2307.16715v1)<br>:star:[code](https://github.com/showlab/UniVTG)
 * 视频分割
   * [XMem++: Production-level Video Segmentation From Few Annotated Frames](http://arxiv.org/abs/2307.15958v1)
-
+* 视频对应
+  * [Learning Fine-Grained Features for Pixel-wise Video Correspondences](http://arxiv.org/abs/2308.03040v1)<br>:star:[code](https://github.com/qianduoduolr/FGVC)
 
 ## 手语
 * [Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining](http://arxiv.org/abs/2307.14768v1)<br>:star:[code](https://github.com/zhoubenjia/GFSLT-VLP)
@@ -135,11 +145,18 @@
 ## Machine Learning(机器学习)
 * Adversarial Learning(对抗学习) 
   * [Towards Building More Robust Models with Frequency Bias](http://arxiv.org/abs/2307.09763v1)
+  * 黑盒
+    * [CGBA: Curvature-aware Geometric Black-box Attack](https://arxiv.org/abs/2308.03163)<br>:star:[code](https://github.com/Farhamdur/CGBA)
   * 对抗样本
     * [Downstream-agnostic Adversarial Examples](http://arxiv.org/abs/2307.12280v1)
     * [Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples](http://arxiv.org/abs/2307.16361v1)<br>:star:[code](https://github.com/qiufan319/benchmark_pc_attack.git)
+  * 对抗攻击
+    * [An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability](http://arxiv.org/abs/2308.02897v1)
+  * 对抗训练  
+    * [Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning](http://arxiv.org/abs/2308.02533v1)<br>:star:[code](https://github.com/microsoft/robustlearn)  
 * Class Incremental Learning(类增量学习)
   * [Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery](http://arxiv.org/abs/2307.10943v1)
+  * [Heterogeneous Forgetting Compensation for Class-Incremental Learning](http://arxiv.org/abs/2308.03374v1)<br>:star:[code](https://github.com/JiahuaDong/HFC)
 * 多任务学习
   * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
   * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
@@ -150,7 +167,8 @@
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
 * Reinforcement Learning(强化学习)
   * [Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation](http://arxiv.org/abs/2308.01194v1)
-
+* 迁移学习
+  * [Prototypes-oriented Transductive Few-shot Learning with Conditional Transport](http://arxiv.org/abs/2308.03047v1)
 
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 量化
@@ -173,6 +191,7 @@
 * [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
 
 ## Point Cloud(点云)
+* [Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](http://arxiv.org/abs/2308.02874v1)
 * [Clustering based Point Cloud Representation Learning for 3D Analysis](http://arxiv.org/abs/2307.14605v1)<br>:star:[code](https://github.com/FengZicai/Cluster3Dseg/)
 * [Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models](http://arxiv.org/abs/2307.14971v1)<br>:house:[project](https://tap.ivg-research.xyz)<br>:star:[code](https://github.com/wangzy22/TAP)
 * 点云配准
@@ -193,6 +212,7 @@
 ## Human Pose Estimation
 * 人体姿态估计
   * [DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation](http://arxiv.org/abs/2307.16687v1)
+  * [Source-free Domain Adaptive Human Pose Estimation](http://arxiv.org/abs/2308.03202v1)
 * 人体网格恢复
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
 * 姿势迁移
@@ -207,6 +227,10 @@
 
 ## 超分辨率
 * [On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement](http://arxiv.org/abs/2307.12027v1)<br>:star:[code](https://github.com/Luciennnnnnn/DualFormer)
+* [Dual Aggregation Transformer for Image Super-Resolution](http://arxiv.org/abs/2308.03364v1)<br>:star:[code](https://github.com/zhengchen1999/DAT)
+
+##
+* [DeDrift: Robust Similarity Search under Content Drift](http://arxiv.org/abs/2308.02752v1)
 
 ## Image/Video Composition
 * 图像压缩
@@ -239,6 +263,7 @@
 
 
 ## Image Classification(图像分类)
+* [Learning Concise and Descriptive Attributes for Visual Recognition](http://arxiv.org/abs/2308.03685v1)
 * [Get the Best of Both Worlds: Improving Accuracy and Transferability by Grassmann Class Representation](http://arxiv.org/abs/2308.01547v1)<br>:star:[code](https://github.com/innerlee/GCR)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
 * 多标签图像分类
@@ -274,6 +299,7 @@
   * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
 * 图像去噪
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
+  * [Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising](http://arxiv.org/abs/2308.03448v1)<br>:star:[code](https://github.com/Srameo/LED)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -292,6 +318,9 @@
   * [HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces](http://arxiv.org/abs/2307.10797v1)<br>:star:[code](https://github.com/StelaBou/HyperReenact)<br>:star:[code](https://stelabou.github.io/hyperreenact.github.io/)
 * 文本驱动的人脸处理
   * [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](http://arxiv.org/abs/2307.11418v1)
+* 人脸表情
+  * [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](http://arxiv.org/abs/2308.03413v1)
+
 
 ## Biometric Recognition(生物特征识别)
 * 掌纹识别
@@ -304,6 +333,7 @@
 
 
 ## Object Detection(目标检测)
+* [FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision](http://arxiv.org/abs/2308.03594v1)
 * [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236)<br>:star:[code](https://github.com/NVlabs/FB-BEV)
 * [DETR Doesn't Need Multi-Scale or Locality Design](http://arxiv.org/abs/2308.01904v1)<br>:star:[code](https://github.com/impiga/Plain-DETR)
 * [RecursiveDet: End-to-End Region-based Recursive Object Detection](http://arxiv.org/abs/2307.13619v1)<br>:star:[code](https://github.com/bravezzzzzz/RecursiveDet)
@@ -336,7 +366,9 @@
 * 3D形状生成
   *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
 
+
 ## 其它(others)
+* [3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields](http://arxiv.org/abs/2308.03757v1)<br>:star:[code](https://3d-motion-magnification.github.io)
 * [Improving Pixel-based MIM by Reducing Wasted Modeling Capability](http://arxiv.org/abs/2308.00261v1)<br>:star:[code](https://github.com/open-mmlab/mmpretrain)
 * [Revisiting the Parameter Efficiency of Adapters from the Perspective of Precision Redundancy](http://arxiv.org/abs/2307.16867v1)<br>:star:[code](https://github.com/JieShibo/PETL-ViT)
 * [Towards General Low-Light Raw Noise Synthesis and Modeling](http://arxiv.org/abs/2307.16508v1)<br>:star:[code](https://github.com/fengzhang427/LRD)
