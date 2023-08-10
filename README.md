@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计179+9篇。
+计188+14篇。
 
 ## 目录
 
@@ -55,10 +55,12 @@
 
 ## Neural Radiance Fields
 * [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields](http://arxiv.org/abs/2307.15131v1)<br>:house:[project](https://windingwind.github.io/seal-3d/)<br>:star:[code](https://github.com/windingwind/seal-3d/)
+* [WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields](http://arxiv.org/abs/2308.04826v1)
 * Rendering(渲染)
   * [DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering](https://arxiv.org/abs/2307.10173)<br>:house:[project](https://dna-rendering.github.io/)
   * [TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering](http://arxiv.org/abs/2307.12291v1)<br>:star:[code](https://pansanity666.github.io/TransHuman/)
   * [Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields](http://arxiv.org/abs/2307.11335v1)<br>:star:[code](https://wbhu.github.io/projects/Tri-MipRF)
+  * [Rendering Humans from Object-Occluded Monocular Videos](http://arxiv.org/abs/2308.04622v1)<br>:house:[project](https://cs.stanford.edu/~xtiange/projects/occnerf/)
 * 新视图合成
   * [Urban Radiance Field Representation with Deformable Neural Mesh Primitives](http://arxiv.org/abs/2307.10776v1)<br>:house:[project](https://dnmp.github.io/)
 * 版权保护
@@ -97,6 +99,7 @@
   * [Learning Vision-and-Language Navigation from YouTube Videos](http://arxiv.org/abs/2307.11984v1)<br>:star:[code](https://github.com/JeremyLinky/YouTube-VLN)
   * [GridMM: Grid Memory Map for Vision-and-Language Navigation](http://arxiv.org/abs/2307.12907v1)
   * [Scaling Data Generation in Vision-and-Language Navigation](http://arxiv.org/abs/2307.15644v1)
+  * [Bird's-Eye-View Scene Graph for Vision-Language Navigation](http://arxiv.org/abs/2308.04758v1)<br>:star:[code](https://github.com/DefaultRui/BEV-Scene-Graph)
 
 ## Vision Question Answering(视觉问答)
 * Video-QA
@@ -138,6 +141,7 @@
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
 * 车道线
   * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)<br>:star:[code](https://github.com/megvii-research/PETR.git)
+  * [LATR: 3D Lane Detection from Monocular Images with Transformer](http://arxiv.org/abs/2308.04583v1)<br>:star:[code](https://github.com/JMoonr/LATR)
 
 ## Style Transfer(风格迁移)
 * [AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](http://arxiv.org/abs/2307.09724v1)<br>:star:[code](https://github.com/Kibeom-Hong/AesPA-Net)
@@ -201,6 +205,7 @@
 * 点云配准
   * [Density-invariant Features for Distant Point Cloud Registration](http://arxiv.org/abs/2307.09788v1)
   * [SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration]未公开
+  * [PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration](http://arxiv.org/abs/2308.04782v1)<br>:star:[code](https://github.com/phdymz/PointMBF)
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
@@ -232,6 +237,7 @@
 ## 超分辨率
 * [On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement](http://arxiv.org/abs/2307.12027v1)<br>:star:[code](https://github.com/Luciennnnnnn/DualFormer)
 * [Dual Aggregation Transformer for Image Super-Resolution](http://arxiv.org/abs/2308.03364v1)<br>:star:[code](https://github.com/zhengchen1999/DAT)
+* [Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution](http://arxiv.org/abs/2308.05022v1)<br>:star:[code](https://github.com/AVC2-UESTC/CRAFT-SR.git)
 
 ## Image Retrieval(图像检索)
 * [DeDrift: Robust Similarity Search under Content Drift](http://arxiv.org/abs/2308.02752v1)
@@ -257,6 +263,7 @@
   * [Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification](http://arxiv.org/abs/2307.15254v1)<br>:star:[code](https://github.com/DearCaat/MHIM-MIL)
 
 ## Image Synthesis(图像合成)
+* [Foreground Object Search by Distilling Composite Image Feature](http://arxiv.org/abs/2308.04990v1)<br>:star:[code](https://github.com/bcmi/Foreground-Object-Search-Dataset-FOSD)
 * 图像合成
   * [Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration](http://arxiv.org/abs/2307.09621v1)
 * 文本-图像合成
@@ -283,6 +290,8 @@
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
   * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
+  * 小样本语义分割
+    * [Prototypical Kernel Learning and Open-set Foreground Perception for Generalized Few-shot Semantic Segmentation](http://arxiv.org/abs/2308.04952v1)
   * 半监督语义分割
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
 * 实例分割
@@ -309,6 +318,7 @@
 * 图像去噪
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
   * [Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising](http://arxiv.org/abs/2308.03448v1)<br>:star:[code](https://github.com/Srameo/LED)
+  * [Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising](http://arxiv.org/abs/2308.04682v1)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -329,7 +339,8 @@
   * [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](http://arxiv.org/abs/2307.11418v1)
 * 人脸表情
   * [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](http://arxiv.org/abs/2308.03413v1)
-
+* 人脸识别
+  * [IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models](http://arxiv.org/abs/2308.04995v1)
 
 ## Biometric Recognition(生物特征识别)
 * 掌纹识别
@@ -356,11 +367,14 @@
 * 3D OD
   * [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](http://arxiv.org/abs/2307.12637v1)<br>:star:[code](https://github.com/quotation2520/PG-RCNN)
   * [PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection](http://arxiv.org/abs/2308.03982v1)
+  * [FocalFormer3D : Focusing on Hard Instance for 3D Object Detection](http://arxiv.org/abs/2308.04556v1)<br>:star:[code](https://github.com/NVlabs/FocalFormer3D)
   * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](http://arxiv.org/abs/2307.14620v1)<br>:star:[code](https://github.com/facebookresearch/NeRF-Det)
   * [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)<br>:star:[code](https://github.com/exiawsh/StreamPETR)
   * [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)<br>:star:[code](https://github.com/junjie18/CMT)
 * 目标定位
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
+* 视频目标检测
+  * [Objects do not disappear: Video object detection by single-frame object location anticipation](http://arxiv.org/abs/2308.04770v1)<br>:star:[code](https://github.com/L-KID/Videoobject-detection-by-location-anticipation)
 
 ## 3D(三维重建\三维视觉)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
@@ -378,6 +392,8 @@
 
 
 ## 其它(others)
+* [GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization](http://arxiv.org/abs/2308.04699v1)
+* [Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation](http://arxiv.org/abs/2308.04549v1)<br>:star:[code](https://github.com/Mark12Ding/STA)
 * [TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models](http://arxiv.org/abs/2308.03906v1)<br>:star:[code](https://github.com/SRI-CSL/TIJO)
 * [3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields](http://arxiv.org/abs/2308.03757v1)<br>:star:[code](https://3d-motion-magnification.github.io)
 * [Improving Pixel-based MIM by Reducing Wasted Modeling Capability](http://arxiv.org/abs/2308.00261v1)<br>:star:[code](https://github.com/open-mmlab/mmpretrain)
