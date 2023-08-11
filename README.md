@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计188+14篇。
+计202+14 篇。 
 
 ## 目录
 
@@ -100,6 +100,11 @@
   * [GridMM: Grid Memory Map for Vision-and-Language Navigation](http://arxiv.org/abs/2307.12907v1)
   * [Scaling Data Generation in Vision-and-Language Navigation](http://arxiv.org/abs/2307.15644v1)
   * [Bird's-Eye-View Scene Graph for Vision-Language Navigation](http://arxiv.org/abs/2308.04758v1)<br>:star:[code](https://github.com/DefaultRui/BEV-Scene-Graph)
+
+
+## Object Pose Estimation
+* 6D
+  * [Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation](http://arxiv.org/abs/2308.05438v1)
 
 ## Vision Question Answering(视觉问答)
 * Video-QA
@@ -198,6 +203,8 @@
 * [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
 
 ## Point Cloud(点云)
+* [SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data](http://arxiv.org/abs/2308.05410v1)<br>:star:[code](https://github.com/IITPAVIS/SC3K)
+* [2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds](http://arxiv.org/abs/2308.05667v1)<br>:star:[code](https://github.com/minhaolee/2D3DMATR)
 * [DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds](http://arxiv.org/abs/2308.04383v1)<br>:star:[code](https://github.com/IRMVLab/DELFlow)
 * [Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](http://arxiv.org/abs/2308.02874v1)
 * [Clustering based Point Cloud Representation Learning for 3D Analysis](http://arxiv.org/abs/2307.14605v1)<br>:star:[code](https://github.com/FengZicai/Cluster3Dseg/)
@@ -280,6 +287,8 @@
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
 * 多标签图像分类
   * [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](http://arxiv.org/abs/2307.16634v1)
+* 细粒度识别
+  * [Learning Gabor Texture Features for Fine-Grained Recognition](http://arxiv.org/abs/2308.05396v1)
 
 ## Image Segmentation(图像分割)
 * [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://arxiv.org/abs/2308.02097)<br>:star:[code](https://github.com/JinyuanLiu-CV/SegMiF)
@@ -290,11 +299,14 @@
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
   * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
+  * [Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation](http://arxiv.org/abs/2308.05493v1)
   * 小样本语义分割
     * [Prototypical Kernel Learning and Open-set Foreground Perception for Generalized Few-shot Semantic Segmentation](http://arxiv.org/abs/2308.04952v1)
   * 半监督语义分割
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
 * 实例分割
+  * 半监督实例分割
+    * [Pseudo-label Alignment for Semi-supervised Instance Segmentation](http://arxiv.org/abs/2308.05359v1)<br>:star:[code](https://github.com/hujiecpp/PAIS)
   * 开放世界实例分割
     * [Exploring Transformers for Open-world Instance Segmentation](http://arxiv.org/abs/2308.04206v1)
 * 全景分割
@@ -341,12 +353,14 @@
   * [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](http://arxiv.org/abs/2308.03413v1)
 * 人脸识别
   * [IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models](http://arxiv.org/abs/2308.04995v1)
+  * [Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach Using Synthetic Faces and Human Evaluation](http://arxiv.org/abs/2308.05441v1)
 
 ## Biometric Recognition(生物特征识别)
 * 掌纹识别
   * [RPG-Palm: Realistic Pseudo-data Generation for Palmprint Recognition](https://arxiv.org/abs/2307.14016)<br>:star:[code](https://github.com/RayshenSL/RPG-PALM)
 
 ## Object Tracking
+* [Robust Object Modeling for Visual Tracking](http://arxiv.org/abs/2308.05140v1)<br>:star:[code](https://github.com/dawnyc/ROMTrack)
 * 多目标跟踪
   * [MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking](http://arxiv.org/abs/2307.15700v1)<br>:star:[code](https://github.com/MCG-NJU/MeMOTR)
   * [Uncertainty-aware Unsupervised Multi-Object Tracking](http://arxiv.org/abs/2307.15409v1)
@@ -381,8 +395,12 @@
 * 三维重建
   * [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](http://arxiv.org/abs/2307.10984v1)<br>:star:[code](https://github.com/YvanYin/Metric3D)
   * [LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction](http://arxiv.org/abs/2307.12194v1)
+  * [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](http://arxiv.org/abs/2308.05744v1)<br>:star:[code](https://manycore-research.github.io/PlankAssembly)
+  * 三维场景重建
+    * [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](http://arxiv.org/abs/2308.05733v1)<br>:star:[code](https://aim-uofa.github.io/FrozenRecon/)
 * 深度估计
   * [MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation](http://arxiv.org/abs/2307.14336v1)
+  * [Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network](http://arxiv.org/abs/2308.05605v1)
 * Stereo Matching
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
   * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
@@ -411,6 +429,9 @@
 * [Replay: Multi-modal Multi-view Acted Videos for Casual Holography](https://arxiv.org/abs/2307.12067)
 * [TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation](http://arxiv.org/abs/2307.14611v1)
 * [Rethinking Mobile Block for Efficient Attention-based Models](https://arxiv.org/pdf/2301.01146.pdf)
+* [RLSAC: Reinforcement Learning enhanced Sample Consensus for End-to-End Robust Estimation](http://arxiv.org/abs/2308.05318v1)<br>:star:[code](https://github.com/IRMVLab/RLSAC)
+* [Cross-Domain Product Representation Learning for Rich-Content E-Commerce](http://arxiv.org/abs/2308.05550v1)
+* [Interaction-aware Joint Attention Estimation Using People Attributes](http://arxiv.org/abs/2308.05382v1)<br>:house:[project](https://anonymous.4open.science/r/anonymized_codes-ECA4)
 * 数据增强
   * [HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness](http://arxiv.org/abs/2307.11823v1)
 
