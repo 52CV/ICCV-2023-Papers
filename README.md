@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计216+27 篇。 
+计243+17 篇。 
 
 ## 目录
 
@@ -37,6 +37,9 @@
 <br>:star:[code]
 <br>:thumbsup:
 
+
+## sound
+* [DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding](http://arxiv.org/abs/2308.07787v1)
 
 ## View Synthesis(视图合成)
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
@@ -110,6 +113,7 @@
   * [Scaling Data Generation in Vision-and-Language Navigation](http://arxiv.org/abs/2307.15644v1)
   * [Bird's-Eye-View Scene Graph for Vision-Language Navigation](http://arxiv.org/abs/2308.04758v1)<br>:star:[code](https://github.com/DefaultRui/BEV-Scene-Graph)
   * [AerialVLN: Vision-and-Language Navigation for UAVs](http://arxiv.org/abs/2308.06735v1)<br>:star:[code](https://github.com/AirVLN/AirVLN)
+  * [DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation](http://arxiv.org/abs/2308.07498v1)<br>:star:[code](https://github.com/hanqingwangai/Dreamwalker)
 
 ## Object Pose Estimation
 * 6D
@@ -120,6 +124,7 @@
   * [Discovering Spatio-Temporal Rationales for Video Question Answering](http://arxiv.org/abs/2307.12058v1)<br>:star:[code](https://github.com/yl3800/TranSTR)
 
 ## Action Detection
+* [Memory-and-Anticipation Transformer for Online Action Understanding](http://arxiv.org/abs/2308.07893v1)<br>:star:[code](https://github.com/Echo0125/Memory-and-Anticipation-Transformer)
 * [Masked Motion Predictors are Strong 3D Action Representation Learners](http://arxiv.org/abs/2308.07092v1)<br>:star:[code](https://github.com/maoyunyao/MAMP)
 * 时序动作定位
   * [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](http://arxiv.org/abs/2307.16415v1)<br>:star:[code](https://github.com/XiaojunTang22/ICCV2023-DDGNet)
@@ -162,6 +167,7 @@
 ## Style Transfer(风格迁移)
 * [AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](http://arxiv.org/abs/2307.09724v1)<br>:star:[code](https://github.com/Kibeom-Hong/AesPA-Net)
 * [Creative Birds: Self-Supervised Single-View 3D Style Transfer](http://arxiv.org/abs/2307.14127v1)<br>:star:[code](https://github.com/wrk226/2D-to-3D-Evolution-Transfer)
+* [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](http://arxiv.org/abs/2308.07863v1)
 
 ## Semi-Supervised Learning
 * 半监督学习
@@ -171,6 +177,7 @@
 * Adversarial Learning(对抗学习) 
   * [ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion](http://arxiv.org/abs/2308.07009v1)<br>:star:[code](https://islab-ai.github.io/active-iccv2023/)
   * [Towards Building More Robust Models with Frequency Bias](http://arxiv.org/abs/2307.09763v1)
+  * [Backpropagation Path Search On Adversarial Transferability](http://arxiv.org/abs/2308.07625v1)
   * 黑盒
     * [CGBA: Curvature-aware Geometric Black-box Attack](https://arxiv.org/abs/2308.03163)<br>:star:[code](https://github.com/Farhamdur/CGBA)
   * 对抗样本
@@ -194,6 +201,7 @@
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
 * Reinforcement Learning(强化学习)
   * [Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation](http://arxiv.org/abs/2308.01194v1)
+  * [Learning to Identify Critical States for Reinforcement Learning from Videos](http://arxiv.org/abs/2308.07795v1)<br>:star:[code](https://github.com/AI-Initiative-KAUST/VideoRLCS)
 * 迁移学习
   * [Prototypes-oriented Transductive Few-shot Learning with Conditional Transport](http://arxiv.org/abs/2308.03047v1)
 
@@ -239,6 +247,8 @@
   * [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](http://arxiv.org/abs/2307.13251v1)<br>:star:[code](https://github.com/VinAIResearch/GaPro)
 * 点云补全
   * [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](http://arxiv.org/abs/2307.14726v1)<br>:star:[code](https://github.com/CuiRuikai/Partial2Complete)
+* 3D点云
+  * [3DHacker: Spectrum-based Decision Boundary Generation for Hard-label 3D Point Cloud Attack](http://arxiv.org/abs/2308.07546v1)
 
 
 ## Reid(人员重识别/步态识别/行人检测)
@@ -270,11 +280,15 @@
 * [Dual Aggregation Transformer for Image Super-Resolution](http://arxiv.org/abs/2308.03364v1)<br>:star:[code](https://github.com/zhengchen1999/DAT)
 * [Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution](http://arxiv.org/abs/2308.05022v1)<br>:star:[code](https://github.com/AVC2-UESTC/CRAFT-SR.git)
 
-## Image Retrieval(图像检索)
+## Image/Video Retrieval(图像检索)
 * [U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds](http://arxiv.org/abs/2308.06383v1)
 * [DeDrift: Robust Similarity Search under Content Drift](http://arxiv.org/abs/2308.02752v1)
 * [Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval](http://arxiv.org/abs/2308.04008v1)<br>:star:[code](https://github.com/bassyess/CFCD)
 * [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v1)<br>:star:[code](https://github.com/ShihaoShao-GH/SuperGlobal)
+* 文本-视频检索
+  * [Helping Hands: An Object-Aware Ego-Centric Video Recognition Model](http://arxiv.org/abs/2308.07918v1)
+  * [Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval](http://arxiv.org/abs/2308.07648v1)
+
 
 ## Image/Video Composition
 * 图像压缩
@@ -304,11 +318,16 @@
   * [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](http://arxiv.org/abs/2307.10816v1)<br>:star:[code](https://github.com/Sierkinhane/BoxDiff)
 * 扩散
   * [DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport](http://arxiv.org/abs/2307.11308v1)<br>:star:[code](https://github.com/cognaclee/DPM-OT)
+  * [DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](http://arxiv.org/abs/2308.07687v1)
 * 3D形状生成
   * [3D Semantic Subspace Traverser: Empowering 3D Generative Model with Shape Editing Capability](http://arxiv.org/abs/2307.14051v1)<br>:star:[code](https://github.com/TrepangCat/3D_Semantic_Subspace_Traverser)
+* 故事可视化
+  * [Story Visualization by Online Text Augmentation with Context Memory](http://arxiv.org/abs/2308.07575v1)
+
 
 
 ## Image Classification(图像分类)
+* [ImbSAM: A Closer Look at Sharpness-Aware Minimization in Class-Imbalanced Recognition](http://arxiv.org/abs/2308.07815v1)<br>:star:[code](https://github.com/cool-xuan/Imbalanced_SAM)
 * [Learning Concise and Descriptive Attributes for Visual Recognition](http://arxiv.org/abs/2308.03685v1)
 * [Get the Best of Both Worlds: Improving Accuracy and Transferability by Grassmann Class Representation](http://arxiv.org/abs/2308.01547v1)<br>:star:[code](https://github.com/innerlee/GCR)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
@@ -424,6 +443,7 @@
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
 * 视频目标检测
   * [Objects do not disappear: Video object detection by single-frame object location anticipation](http://arxiv.org/abs/2308.04770v1)<br>:star:[code](https://github.com/L-KID/Videoobject-detection-by-location-anticipation)
+  * [Identity-Consistent Aggregation for Video Object Detection](http://arxiv.org/abs/2308.07737v1)
 
 ## 3D(三维重建\三维视觉)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
@@ -445,6 +465,10 @@
 
 
 ## 其它(others)
+* [ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces](http://arxiv.org/abs/2308.07868v1)<br>:star:[code](https://qianyiwu.github.io/objectsdf++)<br>:star:[code](https://github.com/QianyiWu/objectsdf_plus)
+* [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](http://arxiv.org/abs/2308.07732v1)<br>:star:[code](https://github.com/Haiyang-W/UniTR)
+* [PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects](http://arxiv.org/abs/2308.07391v1)<br>:star:[code](https://3dlg-hcvc.github.io/paris/)<br>:house:[project](https://youtu.be/tDSrROPCgUc)
+* [Boosting Multi-modal Model Performance with Adaptive Gradient Modulation](http://arxiv.org/abs/2308.07686v1)<br>:star:[code](https://github.com/lihong2303/AGM_ICCV2023)
 * [Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization](http://arxiv.org/abs/2308.06879v1)
 * [RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks](http://arxiv.org/abs/2308.06787v1)
 * [Estimator Meets Equilibrium Perspective: A Rectified Straight Through Estimator for Binary Neural Networks Training](http://arxiv.org/abs/2308.06689v1)
