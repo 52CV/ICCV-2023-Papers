@@ -35,7 +35,7 @@
 |[1.其它(others)](#1)|[2.3D(三维重建\三维视觉)](#2)|[3.Object Detection(目标检测)](#3)|[4.Object Tracking(目标跟踪)](#4)|
 |[5.Biometric Recognition(生物特征识别)](#5)|[6.Face(人脸)](#6)|[7.Image Progress(低层图像处理、质量评价)](#7)|[8.Image Segmentation(图像分割)](#8)|
 |[9.Image Classification(图像分类)](#9)|[10.Image Synthesis(图像合成)](#10)|[11.Image/Video Editing(图像/视频编辑)](#11)|[12.Medical Image(医学影像)](#12)|
-|[13.Image Captions(图像字幕)](#13)|[14.Image/Video Composition(图像/视频压缩)](#14)|[15.Image/Video Retrieval(图像/视频检索)](#15)[16.Super-Resolution(超分辨率)](#16)|
+|[13.Image Captions(图像字幕)](#13)|[14.Image/Video Composition(图像/视频压缩)](#14)|[15.Image/Video Retrieval(图像/视频检索)](#15)|[16.Super-Resolution(超分辨率)](#16)|
 |[17.GAN](#17)|[18.Pose](#18)|[19.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#19)|[20.Reid](#20)|
 |[21.Point Cloud(点云)](#21)|[22.OCR](#22)|[23.Optical Flow Estimation(光流估计)](#23)|[24.Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)](#24)|
 |[25.Model Compression/KD/Pruning(模型压缩/知识蒸馏/剪枝)](#25)|[26.ML(机器学习)](#26)|[27.Self/Semi-Supervised Learning](#27)|[28.Style Transfer(风格迁移)](#28)|
