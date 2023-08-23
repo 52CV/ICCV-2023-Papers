@@ -48,10 +48,42 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
+## 💥💥💥8月23日新增34篇。
+* [Delving into Motion-Aware Matching for Monocular 3D Object Tracking](http://arxiv.org/abs/2308.11607v1)<br>:star:[code](https://github.com/kuanchihhuang/MoMA-M3T)
+* [SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation](http://arxiv.org/abs/2308.11568v1)<br>:star:[code](https://doranlyong.github.io/projects/spanet/)
+* [Multi-event Video-Text Retrieval](http://arxiv.org/abs/2308.11551v1)<br>:star:[code](https://github.com/gengyuanmax/MeVTR)
+* [TrackFlow: Multi-Object Tracking with Normalizing Flows](http://arxiv.org/abs/2308.11513v1)
+* [Learning from Semantic Alignment between Unpaired Multiviews for Egocentric Video Recognition](http://arxiv.org/abs/2308.11489v1)<br>:star:[code](https://github.com/wqtwjt1996/SUM-L)
+* [Learning a More Continuous Zero Level Set in Unsigned Distance Fields through Level Set Projection](http://arxiv.org/abs/2308.11441v1)<br>:star:[code](https://github.com/junshengzhou/LevelSetUDF)
+* [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](http://arxiv.org/abs/2308.11417v1)<br>:house:[project](https://youtu.be/E6P9e2r6M8I)<br>:star:[code](https://cy94.github.io/scannetpp/)
+* [How Much Temporal Long-Term Context is Needed for Action Segmentation?](http://arxiv.org/abs/2308.11358v1)
+* [Exemplar-Free Continual Transformer with Convolutions](http://arxiv.org/abs/2308.11357v1)
+* [GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](http://arxiv.org/abs/2308.11331v1)
+* [CiteTracker: Correlating Image and Text for Visual Tracking](http://arxiv.org/abs/2308.11322v1)
+* [CNN based Cuneiform Sign Detection Learned from Annotated 3D Renderings and Mapped Photographs with Illumination Augmentation](http://arxiv.org/abs/2308.11277v1)<br>:house:[project](https://gigamesh.eu)
+* [HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations](http://arxiv.org/abs/2308.11261v1)
+* [LDP-Feat: Image Features with Local Differential Privacy](http://arxiv.org/abs/2308.11223v1)
+* [DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment](http://arxiv.org/abs/2308.11206v1)
+* [ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data](http://arxiv.org/abs/2308.11194v1)
+* [Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models](http://arxiv.org/abs/2308.11186v1)
+* [MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](http://arxiv.org/abs/2308.11185v1)
+* [ReFit: Recurrent Fitting Network for 3D Human Recovery](http://arxiv.org/abs/2308.11184v1)<br>:star:[code](https://yufu-wang.github.io/refit_humans/)
+* [Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2308.11166v1)<br>:star:[code](https://github.com/SmiletoE/HPAL)
+* [Domain Generalization via Rationale Invariance](http://arxiv.org/abs/2308.11158v1)<br>:star:[code](https://github.com/liangchen527/RIDG)
+* [Efficient View Synthesis with Neural Radiance Distribution Field](http://arxiv.org/abs/2308.11130v1)
+* [LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction](http://arxiv.org/abs/2308.11116v1)
+* [CAME: Contrastive Automated Model Evaluation](http://arxiv.org/abs/2308.11111v1)
+* [Recursive Video Lane Detection](http://arxiv.org/abs/2308.11106v1)<br>:star:[code](https://github.com/dongkwonjin/RVLD)
+* [Video OWL-ViT: Temporally-consistent open-world localization in video](http://arxiv.org/abs/2308.11093v1)
+* [Audio-Visual Class-Incremental Learning](http://arxiv.org/abs/2308.11073v1)<br>:star:[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)
+* [TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection](http://arxiv.org/abs/2308.11072v1)<br>:star:[code](https://joefioresi718.github.io/TeD-SPAD_webpage/)
+* [MetaGCD: Learning to Continually Learn in Generalized Category Discovery](http://arxiv.org/abs/2308.11063v1)
+* [UnLoc: A Unified Framework for Video Localization Tasks](http://arxiv.org/abs/2308.11062v1)<br>:star:[code](https://github.com/google-research/scenic)
+* [Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction](http://arxiv.org/abs/2308.11025v1)<br>:star:[code](https://github.com/MachinePerceptionLab/CQ-NIR)
+* [Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images](http://arxiv.org/abs/2308.11015v1)
+* [Diffusion Model as Representation Learner](http://arxiv.org/abs/2308.10916v1)<br>:star:[code](https://github.com/Adamdad/Repfusion)
+* [MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers](http://arxiv.org/abs/2308.11096v1)
 
-<br>:house:[project]
-<br>:star:[code]
-<br>:thumbsup:
 
 <a name="55"/>
 
