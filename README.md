@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计416+18 篇。 
+计434+17 篇。 
 
 ## 目录
 
@@ -48,25 +48,24 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月24日新增18篇。
-* [CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images](http://arxiv.org/abs/2308.12288v1)<br>:star:[code](https://jellyheadandrew.github.io/projects/chorus)
-* [SG-Former: Self-guided Transformer with Evolving Token Reallocation](http://arxiv.org/abs/2308.12216v1)<br>:star:[code](https://github.com/OliverRensu/SG-Former)
-* [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](http://arxiv.org/abs/2308.12213v1)<br>:star:[code](https://github.com/xmed-lab/CLIPN)
-* [Sign Language Translation with Iterative Prototype](http://arxiv.org/abs/2308.12191v1)
-* [SILT: Shadow-aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels](http://arxiv.org/abs/2308.12064v1)
-* [DR-Tune: Improving Fine-tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration](http://arxiv.org/abs/2308.12058v1)<br>:star:[code](https://github.com/weeknan/DR-Tune)
-* [RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D](http://arxiv.org/abs/2308.12035v1)
-* [RankMixup: Ranking-Based Mixup Training for Network Calibration](http://arxiv.org/abs/2308.11990v1)
-* [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](http://arxiv.org/abs/2308.11974v1)
-* [LFS-GAN: Lifelong Few-Shot Image Generation](http://arxiv.org/abs/2308.11917v1)
-* [ACLS: Adaptive and Conditional Label Smoothing for Network Calibration](http://arxiv.org/abs/2308.11911v1)
-* [Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification](http://arxiv.org/abs/2308.11901v1)
-* [SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets](http://arxiv.org/abs/2308.11880v1)<br>:star:[code](https://github.com/csimo005/SUMMIT)
-* [Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch](http://arxiv.org/abs/2308.11874v1)<br>:star:[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)
-* [Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts](http://arxiv.org/abs/2308.11793v1)<br>:star:[code](https://github.com/VITA-Group/GNT-MOVE)
-* [Efficient Controllable Multi-Task Architectures](http://arxiv.org/abs/2308.11744v1)
-* [Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack](http://arxiv.org/abs/2308.11894v1)
-* [Understanding Hessian Alignment for Domain Generalization](http://arxiv.org/abs/2308.11778v1)<br>:star:[code](https://github.com/huawei-noah/Federated-Learning/tree/main/HessianAlignment)
+## 💥💥💥8月25日新增17篇。
+* [Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation](http://arxiv.org/abs/2308.12968v1)<br>:star:[code](https://github.com/Yuxinn-J/Scenimefy)<br>:star:[code](https://yuxinn-j.github.io/projects/Scenimefy.html)
+* [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](http://arxiv.org/abs/2308.12967v1)<br>:star:[code](https://zubair-irshad.github.io/projects/neo360.html)
+* [Dense Text-to-Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1)<br>:star:[code](https://github.com/naver-ai/DenseDiffusion)
+* [Motion-Guided Masking for Spatiotemporal Representation Learning](http://arxiv.org/abs/2308.12962v1)
+* [LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition](http://arxiv.org/abs/2308.12774v1)
+* [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
+* [Logic-induced Diagnostic Reasoning for Semi-supervised Semantic Segmentation](http://arxiv.org/abs/2308.12595v1)<br>:star:[code](https://github.com/leonnnop/LogicDiag)
+* [Self-supervised Learning of Implicit Shape Representation with Dense Correspondence for Deformable Objects](http://arxiv.org/abs/2308.12590v1)<br>:star:[code](https://iscas3dv.github.io/deformshape)
+* [Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation](http://arxiv.org/abs/2308.12587v1)
+* [Hyperbolic Audio-visual Zero-shot Learning](http://arxiv.org/abs/2308.12558v1)
+* [Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking](http://arxiv.org/abs/2308.12549v1)
+* [Masked Autoencoders are Efficient Class Incremental Learners](http://arxiv.org/abs/2308.12510v1)<br>:star:[code](https://github.com/scok30/MAE-CIL)
+* [With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning](http://arxiv.org/abs/2308.12383v1)<br>:star:[code](https://github.com/aimagelab/PMA-Net)
+* [Vision Transformer Adapters for Generalizable Multitask Learning](http://arxiv.org/abs/2308.12372v1)<br>:star:[code](https://ivrl.github.io/VTAGML)
+* [AdVerb: Visually Guided Audio Dereverberation](http://arxiv.org/abs/2308.12370v1)<br>:house:[project](https://gamma.umd.edu/researchdirections/speech/adverb)
+* [Continual Zero-Shot Learning through Semantically Guided Generative Random Walks](http://arxiv.org/abs/2308.12366v1)<br>:star:[code](https://github.com/wx-zhang/IGCZSL)
+* [Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation](http://arxiv.org/abs/2308.12350v1)
 
 
 <a name="55"/>
@@ -74,6 +73,8 @@
 ## 55.sound(语音)
 * [DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding](http://arxiv.org/abs/2308.07787v1)
 * [Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation](http://arxiv.org/abs/2308.10306v1)
+* 去混响
+  * [AdVerb: Visually Guided Audio Dereverberation](http://arxiv.org/abs/2308.12370v1)<br>:house:[project](https://gamma.umd.edu/researchdirections/speech/adverb)
 * 唇语识别
   * [Lip Reading for Low-resource Languages by Learning and Combining General Speech Knowledge and Language-specific Knowledge](http://arxiv.org/abs/2308.09311v1)
 
@@ -93,6 +94,7 @@
 * [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](http://arxiv.org/abs/2307.12217v1)
 * [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](http://arxiv.org/abs/2308.02840v1)<br>:star:[code](https://w-ted.github.io/publications/udc-nerf)
 * [Efficient View Synthesis with Neural Radiance Distribution Field](http://arxiv.org/abs/2308.11130v1)
+* [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](http://arxiv.org/abs/2308.12967v1)<br>:star:[code](https://zubair-irshad.github.io/projects/neo360.html)
 
 <a name="51"/>
 
@@ -119,6 +121,7 @@
 
 ## 47.Image-to-Image Translation
 * [General Image-to-Image Translation with One-Shot Image Guidance](http://arxiv.org/abs/2307.14352v1)<br>:star:[code](https://github.com/CrystalNeuro/visual-concept-translator)
+* [Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation](http://arxiv.org/abs/2308.12968v1)<br>:star:[code](https://github.com/Yuxinn-J/Scenimefy)<br>:star:[code](https://yuxinn-j.github.io/projects/Scenimefy.html)
 
 <a name="46"/>
 
@@ -220,6 +223,7 @@
   * [DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation](http://arxiv.org/abs/2308.07498v1)<br>:star:[code](https://github.com/hanqingwangai/Dreamwalker)
   * [VLN-PETL: Parameter-Efficient Transfer Learning for Vision-and-Language Navigation](http://arxiv.org/abs/2308.10172v1)
   * [March in Chat: Interactive Prompting for Remote Embodied Referring Expression](http://arxiv.org/abs/2308.10141v1)
+  * [Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation](http://arxiv.org/abs/2308.12587v1)
 
 <a name="37"/>
 
@@ -371,11 +375,13 @@
 * Class Incremental Learning(类增量学习)
   * [Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery](http://arxiv.org/abs/2307.10943v1)
   * [Audio-Visual Class-Incremental Learning](http://arxiv.org/abs/2308.11073v1)<br>:star:[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)
+  * [Masked Autoencoders are Efficient Class Incremental Learners](http://arxiv.org/abs/2308.12510v1)<br>:star:[code](https://github.com/scok30/MAE-CIL)
   * [Heterogeneous Forgetting Compensation for Class-Incremental Learning](http://arxiv.org/abs/2308.03374v1)<br>:star:[code](https://github.com/JiahuaDong/HFC)
 * 多任务学习
-  * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
-  * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
   * [Efficient Controllable Multi-Task Architectures](http://arxiv.org/abs/2308.11744v1)
+  * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
+  * [Vision Transformer Adapters for Generalizable Multitask Learning](http://arxiv.org/abs/2308.12372v1)<br>:star:[code](https://ivrl.github.io/VTAGML)
+  * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
 * 持续学习
   * [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](http://arxiv.org/abs/2307.11386v1)<br>:star:[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
   * [Exemplar-Free Continual Transformer with Convolutions](http://arxiv.org/abs/2308.11357v1)
@@ -428,6 +434,8 @@
   * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](http://arxiv.org/abs/2307.15199v1)<br>:house:[project](https://promptstyler.github.io/)
   * [Generalizable Decision Boundaries: Dualistic Meta-Learning for Open Set Domain Generalization](http://arxiv.org/abs/2308.09391v1)<br>:star:[code](https://github.com/zzwdx/MEDIC)
 * 零样本学习
+  * [Hyperbolic Audio-visual Zero-shot Learning](http://arxiv.org/abs/2308.12558v1)
+  * [Continual Zero-Shot Learning through Semantically Guided Generative Random Walks](http://arxiv.org/abs/2308.12366v1)<br>:star:[code](https://github.com/wx-zhang/IGCZSL)
   * [Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning](http://arxiv.org/abs/2308.04016v1)<br>:star:[code](https://github.com/HanjaeKim98/CoT)
 * 小样本学习
   * [Prototypes-oriented Transductive Few-shot Learning with Conditional Transport](http://arxiv.org/abs/2308.03047v1)
@@ -443,6 +451,8 @@
 ## 22.OCR
 * [CNN based Cuneiform Sign Detection Learned from Annotated 3D Renderings and Mapped Photographs with Illumination Augmentation](http://arxiv.org/abs/2308.11277v1)<br>:house:[project](https://gigamesh.eu)
 * [ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer](http://arxiv.org/abs/2308.10147v1)<br>:star:[code](https://github.com/mxin262/ESTextSpotter)
+* 场景文本识别
+  * [LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition](http://arxiv.org/abs/2308.12774v1)
 
 <a name="21"/>
 
@@ -560,10 +570,11 @@
 <a name="13"/>
 
 ## 13.Image Captions(图像字幕)
+* [Guiding Image Captioning Models Toward More Specific Captions](http://arxiv.org/abs/2307.16686v1)
 * [OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?](http://arxiv.org/abs/2307.11636v1)
 * [Transferable Decoding with Visual Entities for Zero-Shot Image Captioning](http://arxiv.org/abs/2307.16525v1)<br>:star:[code](https://github.com/FeiElysia/ViECap)
-* [Guiding Image Captioning Models Toward More Specific Captions](http://arxiv.org/abs/2307.16686v1)
 * [Explore and Tell: Embodied Visual Captioning in 3D Environments](http://arxiv.org/abs/2308.10447v1)<br>:star:[code](https://aim3-ruc.github.io/ExploreAndTell)
+* [With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning](http://arxiv.org/abs/2308.12383v1)<br>:star:[code](https://github.com/aimagelab/PMA-Net)
 
 <a name="12"/>
 
@@ -593,6 +604,7 @@
 * 图像合成
   * [Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration](http://arxiv.org/abs/2307.09621v1)
 * 文本-图像合成
+  * [Dense Text-to-Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1)<br>:star:[code](https://github.com/naver-ai/DenseDiffusion)
   * [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](http://arxiv.org/abs/2307.10816v1)<br>:star:[code](https://github.com/Sierkinhane/BoxDiff)
    * [Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis](http://arxiv.org/abs/2308.08157v1)<br>:star:[code](https://pmh9960.github.io/research/GCDP)
 * 扩散
@@ -643,6 +655,9 @@
     * [Prototypical Kernel Learning and Open-set Foreground Perception for Generalized Few-shot Semantic Segmentation](http://arxiv.org/abs/2308.04952v1)
   * 半监督语义分割
     * [Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation](http://arxiv.org/abs/2307.09755v1)
+    * [Logic-induced Diagnostic Reasoning for Semi-supervised Semantic Segmentation](http://arxiv.org/abs/2308.12595v1)<br>:star:[code](https://github.com/leonnnop/LogicDiag)
+  * 域适应语义分割
+    * [Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation](http://arxiv.org/abs/2308.12350v1)
   * 3D 语义分割
     * [BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation](http://arxiv.org/abs/2308.06530v1)
 * 实例分割
@@ -731,6 +746,7 @@
   * [Robust Object Modeling for Visual Tracking](http://arxiv.org/abs/2308.05140v1)<br>:star:[code](https://github.com/dawnyc/ROMTrack)
 * 3D目标跟踪
   * [Delving into Motion-Aware Matching for Monocular 3D Object Tracking](http://arxiv.org/abs/2308.11607v1)<br>:star:[code](https://github.com/kuanchihhuang/MoMA-M3T)
+  * [Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking](http://arxiv.org/abs/2308.12549v1)
 
 <a name="3"/>
 
@@ -799,6 +815,9 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Motion-Guided Masking for Spatiotemporal Representation Learning](http://arxiv.org/abs/2308.12962v1)
+* [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
+* [Self-supervised Learning of Implicit Shape Representation with Dense Correspondence for Deformable Objects](http://arxiv.org/abs/2308.12590v1)<br>:star:[code](https://iscas3dv.github.io/deformshape)
 * [SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets](http://arxiv.org/abs/2308.11880v1)<br>:star:[code](https://github.com/csimo005/SUMMIT)
 * [DR-Tune: Improving Fine-tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration](http://arxiv.org/abs/2308.12058v1)<br>:star:[code](https://github.com/weeknan/DR-Tune)
 * [RankMixup: Ranking-Based Mixup Training for Network Calibration](http://arxiv.org/abs/2308.11990v1)
