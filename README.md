@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计434+17 篇。 
+计451+12 篇。 
 
 ## 目录
 
@@ -48,24 +48,19 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月25日新增17篇。
-* [Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation](http://arxiv.org/abs/2308.12968v1)<br>:star:[code](https://github.com/Yuxinn-J/Scenimefy)<br>:star:[code](https://yuxinn-j.github.io/projects/Scenimefy.html)
-* [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](http://arxiv.org/abs/2308.12967v1)<br>:star:[code](https://zubair-irshad.github.io/projects/neo360.html)
-* [Dense Text-to-Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1)<br>:star:[code](https://github.com/naver-ai/DenseDiffusion)
-* [Motion-Guided Masking for Spatiotemporal Representation Learning](http://arxiv.org/abs/2308.12962v1)
-* [LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition](http://arxiv.org/abs/2308.12774v1)
-* [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
-* [Logic-induced Diagnostic Reasoning for Semi-supervised Semantic Segmentation](http://arxiv.org/abs/2308.12595v1)<br>:star:[code](https://github.com/leonnnop/LogicDiag)
-* [Self-supervised Learning of Implicit Shape Representation with Dense Correspondence for Deformable Objects](http://arxiv.org/abs/2308.12590v1)<br>:star:[code](https://iscas3dv.github.io/deformshape)
-* [Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation](http://arxiv.org/abs/2308.12587v1)
-* [Hyperbolic Audio-visual Zero-shot Learning](http://arxiv.org/abs/2308.12558v1)
-* [Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking](http://arxiv.org/abs/2308.12549v1)
-* [Masked Autoencoders are Efficient Class Incremental Learners](http://arxiv.org/abs/2308.12510v1)<br>:star:[code](https://github.com/scok30/MAE-CIL)
-* [With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning](http://arxiv.org/abs/2308.12383v1)<br>:star:[code](https://github.com/aimagelab/PMA-Net)
-* [Vision Transformer Adapters for Generalizable Multitask Learning](http://arxiv.org/abs/2308.12372v1)<br>:star:[code](https://ivrl.github.io/VTAGML)
-* [AdVerb: Visually Guided Audio Dereverberation](http://arxiv.org/abs/2308.12370v1)<br>:house:[project](https://gamma.umd.edu/researchdirections/speech/adverb)
-* [Continual Zero-Shot Learning through Semantically Guided Generative Random Walks](http://arxiv.org/abs/2308.12366v1)<br>:star:[code](https://github.com/wx-zhang/IGCZSL)
-* [Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation](http://arxiv.org/abs/2308.12350v1)
+## 💥💥💥8月28日新增12篇。
+* [Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers](http://arxiv.org/abs/2308.13494v1)
+* [Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning](http://arxiv.org/abs/2308.13411v1)<br>:house:[project](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000)
+* [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
+* [ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis](http://arxiv.org/abs/2308.13324v1)
+* [SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation](http://arxiv.org/abs/2308.13323v1)
+* [Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation](http://arxiv.org/abs/2308.13266v1)<br>:star:[code](https://github.com/yoxu515/MITS)
+* [Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](http://arxiv.org/abs/2308.13236v1)
+* [ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking](http://arxiv.org/abs/2308.13229v1)
+* [GridPull: Towards Scalability in Learning Implicit Representations from 3D Point Clouds](http://arxiv.org/abs/2308.13175v1)<br>:star:[code](https://github.com/chenchao15/GridPull)
+* [IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization](http://arxiv.org/abs/2308.13168v1)<br>:star:[code](https://github.com/nukezil/IOMatch)
+* [Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model](http://arxiv.org/abs/2308.13164v1)
+* [Preserving Modality Structure Improves Multi-Modal Learning](http://arxiv.org/abs/2308.13077v1)<br>:star:[code](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)
 
 
 <a name="55"/>
@@ -169,6 +164,7 @@
   * [Efficient neural supersampling on a novel gaming dataset](http://arxiv.org/abs/2308.01483v1)
   * [AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception](http://arxiv.org/abs/2307.13933v1)<br>:star:[code](https://github.com/ydk122024/AIDE)
   * [360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking](http://arxiv.org/abs/2307.14630v1)<br>:house:[project](https://360vot.hkustvgd.com)<br>:star:[code](https://github.com/HuajianUP/360VOT)全向视觉目标跟踪
+  * [Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning](http://arxiv.org/abs/2308.13411v1)<br>:house:[project](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000)
 * 基准
   * [From Sky to the Ground: A Large-scale Benchmark and Simple Baseline Towards Real Rain Removal](http://arxiv.org/abs/2308.03867v1)
   * 目标检测
@@ -185,6 +181,7 @@
 * [SMMix: Self-Motivated Image Mixing for Vision Transformers](https://arxiv.org/abs/2212.12977)
 * [Revisiting Vision Transformer from the View of Path Ensemble](http://arxiv.org/abs/2308.06548v1)
 * [SwinLSTM:Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM](http://arxiv.org/abs/2308.09891v1)<br>:star:[code](https://github.com/SongTang-x/SwinLSTM)
+* [Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers](http://arxiv.org/abs/2308.13494v1)
 
 <a name="40"/>
 
@@ -355,6 +352,7 @@
   * [Towards Semi-supervised Learning with Non-random Missing Labels](http://arxiv.org/abs/2308.08872v1)<br>:star:[code](https://github.com/NJUyued/PRG4SSL-MNAR)
   * [Diverse Cotraining Makes Strong Semi-Supervised Segmentor](http://arxiv.org/abs/2308.09281v1)<br>:star:[code](https://github.com/williamium3000/diverse-cotraining)
   * [Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch](http://arxiv.org/abs/2308.11874v1)<br>:star:[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)
+  * [IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization](http://arxiv.org/abs/2308.13168v1)<br>:star:[code](https://github.com/nukezil/IOMatch)
 
 <a name="26"/>
 
@@ -402,6 +400,8 @@
   * [Meta-ZSDETR: Zero-shot DETR with Meta-learning](http://arxiv.org/abs/2308.09540v1)
 * 度量学习
   * [Generalized Sum Pooling for Metric Learning](http://arxiv.org/abs/2308.09228v1)
+* 多模态学习
+  * [Preserving Modality Structure Improves Multi-Modal Learning](http://arxiv.org/abs/2308.13077v1)<br>:star:[code](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)
 
 <a name="25"/>
 
@@ -426,6 +426,7 @@
   * [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](http://arxiv.org/abs/2308.09139v1)<br>:star:[code](https://github.com/giaczara/dallv)
   * [DomainAdaptor: A Novel Approach to Test-time Adaptation](http://arxiv.org/abs/2308.10297v1)<br>:star:[code](https://github.com/koncle/DomainAdaptor)
   * [GeT: Generative Target Structure Debiasing for Domain Adaptation](http://arxiv.org/abs/2308.10205v1)<br>:star:[code](https://lulusindazc.github.io/getproject/)
+  * [Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](http://arxiv.org/abs/2308.13236v1)
 * 域泛化
   * [Flatness-Aware Minimization for Domain Generalization](http://arxiv.org/abs/2307.11108v1)
   * [DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](http://arxiv.org/abs/2308.10285v1)<br>:star:[code](https://github.com/lingeringlight/DomainDrop)
@@ -478,6 +479,7 @@
   * [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](http://arxiv.org/abs/2307.14726v1)<br>:star:[code](https://github.com/CuiRuikai/Partial2Complete)
 * 3D点云
   * [3DHacker: Spectrum-based Decision Boundary Generation for Hard-label 3D Point Cloud Attack](http://arxiv.org/abs/2308.07546v1)
+  * [GridPull: Towards Scalability in Learning Implicit Representations from 3D Point Clouds](http://arxiv.org/abs/2308.13175v1)<br>:star:[code](https://github.com/chenchao15/GridPull)
 
 <a name="20"/>
 
@@ -510,6 +512,7 @@
   * [Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video](http://arxiv.org/abs/2308.10305v1)<br>:star:[code](https://kasvii.github.io/PMCE)<br>:star:[code](https://github.com/kasvii/PMCE)
 * 人体网格恢复
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
+  * [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
 * 多人网格恢复
   * [Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos](http://arxiv.org/abs/2308.10334v1)<br>:star:[code](https://github.com/Li-Hao-yuan/CoordFormer)
 * 3D人体恢复
@@ -582,6 +585,7 @@
 * [Learning to Distill Global Representation for Sparse-View CT](http://arxiv.org/abs/2308.08463v1)<br>:star:[code](https://github.com/longzilicart/GloReDi)
 * [Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation](http://arxiv.org/abs/2307.14709v1)
 * [Dual Meta-Learning with Longitudinally Generalized Regularization for One-Shot Brain Tissue Segmentation Across the Human Lifespan](http://arxiv.org/abs/2308.06774v1)<br>:star:[code](https://github.com/ladderlab-xjtu/DuMeta)
+* [ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis](http://arxiv.org/abs/2308.13324v1)
 * 医学影像配准
   * [Towards Saner Deep Image Registration](http://arxiv.org/abs/2307.09696v1)<br>:star:[code](https://github.com/tuffr5/Saner-deep-registration)
 * 医学报告生成
@@ -649,6 +653,7 @@
   * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
   * [Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation](http://arxiv.org/abs/2308.05493v1)
+  * [SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation](http://arxiv.org/abs/2308.13323v1)
   * 点云语义分割
     * [Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation](http://arxiv.org/abs/2308.09314v1)<br>:star:[code](https://github.com/AllenXiangX/Retro-FPN)
   * 小样本语义分割
@@ -690,6 +695,7 @@
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
   * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
   * [Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network](http://arxiv.org/abs/2308.08220v1)
+  * [Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model](http://arxiv.org/abs/2308.13164v1)
 * 图像去噪
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
   * [Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising](http://arxiv.org/abs/2308.03448v1)<br>:star:[code](https://github.com/Srameo/LED)
@@ -740,10 +746,12 @@
   * [Uncertainty-aware Unsupervised Multi-Object Tracking](http://arxiv.org/abs/2307.15409v1)
   * [TrackFlow: Multi-Object Tracking with Normalizing Flows](http://arxiv.org/abs/2308.11513v1)
   * [3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking](http://arxiv.org/abs/2308.06635v1)<br>:star:[code](https://github.com/dsx0511/3DMOTFormer)
+  * [ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking](http://arxiv.org/abs/2308.13229v1)
 * 视觉跟踪
   * [Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking](http://arxiv.org/abs/2308.06904v1)
   * [CiteTracker: Correlating Image and Text for Visual Tracking](http://arxiv.org/abs/2308.11322v1)
   * [Robust Object Modeling for Visual Tracking](http://arxiv.org/abs/2308.05140v1)<br>:star:[code](https://github.com/dawnyc/ROMTrack)
+  * [Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation](http://arxiv.org/abs/2308.13266v1)<br>:star:[code](https://github.com/yoxu515/MITS)
 * 3D目标跟踪
   * [Delving into Motion-Aware Matching for Monocular 3D Object Tracking](http://arxiv.org/abs/2308.11607v1)<br>:star:[code](https://github.com/kuanchihhuang/MoMA-M3T)
   * [Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking](http://arxiv.org/abs/2308.12549v1)
