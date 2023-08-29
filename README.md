@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计451+12 篇。 
+计463+24 篇。 
 
 ## 目录
 
@@ -48,19 +48,32 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月28日新增12篇。
-* [Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers](http://arxiv.org/abs/2308.13494v1)
-* [Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning](http://arxiv.org/abs/2308.13411v1)<br>:house:[project](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000)
-* [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
-* [ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis](http://arxiv.org/abs/2308.13324v1)
-* [SVQNet: Sparse Voxel-Adjacent Query Network for 4D Spatio-Temporal LiDAR Semantic Segmentation](http://arxiv.org/abs/2308.13323v1)
-* [Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation](http://arxiv.org/abs/2308.13266v1)<br>:star:[code](https://github.com/yoxu515/MITS)
-* [Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](http://arxiv.org/abs/2308.13236v1)
-* [ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking](http://arxiv.org/abs/2308.13229v1)
-* [GridPull: Towards Scalability in Learning Implicit Representations from 3D Point Clouds](http://arxiv.org/abs/2308.13175v1)<br>:star:[code](https://github.com/chenchao15/GridPull)
-* [IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization](http://arxiv.org/abs/2308.13168v1)<br>:star:[code](https://github.com/nukezil/IOMatch)
-* [Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model](http://arxiv.org/abs/2308.13164v1)
-* [Preserving Modality Structure Improves Multi-Modal Learning](http://arxiv.org/abs/2308.13077v1)<br>:star:[code](https://github.com/Swetha5/Multi_Sinkhorn_Knopp)
+## 💥💥💥8月28日新增24篇。
+* [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
+* [R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras](http://arxiv.org/abs/2308.14713v1)<br>:house:[project](https://www.vis.xyz/pub/r3d3/)
+* [S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](http://arxiv.org/abs/2308.14598v1)
+* [Referring Image Segmentation Using Text Supervision](http://arxiv.org/abs/2308.14575v1)<br>:star:[code](https://github.com/fawnliu/TRIS)
+* [LAC -- Latent Action Composition for Skeleton-based Action Segmentation](http://arxiv.org/abs/2308.14500v1)
+* [Priority-Centric Human Motion Generation in Discrete Latent Space](http://arxiv.org/abs/2308.14480v1)
+* [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
+* [Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection](http://arxiv.org/abs/2308.14286v1)<br>:star:[code](https://github.com/TinyTigerPan/BCKD)
+* [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
+* [Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks](http://arxiv.org/abs/2308.14153v1)
+* [Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers](http://arxiv.org/abs/2308.14152v1)
+* [4D Myocardium Reconstruction with Decoupled Motion and Shape Model](http://arxiv.org/abs/2308.14083v1)
+* [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](http://arxiv.org/abs/2308.14082v1)<br>:star:[code](https://github.com/binghui-z/InterPrior_pytorch)
+* [Nonrigid Object Contact Estimation With Regional Unwrapping Transformer](http://arxiv.org/abs/2308.14074v1)
+* [Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection](http://arxiv.org/abs/2308.14061v1)<br>:star:[code](https://github.com/xyfJASON/HCL)
+* [Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation](http://arxiv.org/abs/2308.14023v1)<br>:house:[project](http://val.cds.iisc.ac.in/DSiT-SFDA)
+* [Calibrating Panoramic Depth Estimation for Practical Localization and Mapping](http://arxiv.org/abs/2308.14005v1)
+* [LDL: Line Distance Functions for Panoramic Localization](http://arxiv.org/abs/2308.13989v1)<br>:star:[code](https://github.com/82magnolia/panoramic-localization)
+* [Prior-guided Source-free Domain Adaptation for Human Pose Estimation](http://arxiv.org/abs/2308.13954v1)
+* [Beyond One-to-One: Rethinking the Referring Image Segmentation](http://arxiv.org/abs/2308.13853v1)<br>:star:[code](https://github.com/toggle1995/RIS-DMMI)
+* [Point-Query Quadtree for Crowd Counting, Localization, and More](http://arxiv.org/abs/2308.13814v1)<br>:star:[code](https://github.com/cxliu0/PET)
+* [Generalized Lightness Adaptation with Channel Selective Normalization](http://arxiv.org/abs/2308.13783v1)<br>:star:[code](https://github.com/mdyao/CSNorm/)<br>:star:[code](https://github.com/mdyao/CSNorm)
+* [MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree](http://arxiv.org/abs/2308.13735v1)
+* [Late Stopping: Avoiding Confidently Learning from Mislabeled Examples](http://arxiv.org/abs/2308.13862v1)
+
 
 
 <a name="55"/>
@@ -143,6 +156,7 @@
 <a name="43"/>
 
 ## 43.Neural Radiance Fields
+* [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
 * [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](http://arxiv.org/abs/2308.11974v1)
 * [Strata-NeRF : Neural Radiance Fields for Stratified Scenes](http://arxiv.org/abs/2308.10337v1)<br>:star:[code](https://ankitatiisc.github.io/Strata-NeRF/)
 * [DReg-NeRF: Deep Registration for Neural Radiance Fields](http://arxiv.org/abs/2308.09386v1)<br>:star:[code](https://github.com/AIBluefisher/DReg-NeRF)
@@ -225,6 +239,7 @@
 <a name="37"/>
 
 ## 37.Object Pose Estimation(物体姿势估计)
+* [Nonrigid Object Contact Estimation With Regional Unwrapping Transformer](http://arxiv.org/abs/2308.14074v1)
 * 6D
   * [Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation](http://arxiv.org/abs/2308.05438v1)
   * [Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation](http://arxiv.org/abs/2308.10016v1)
@@ -245,12 +260,16 @@
 ## 35.Human Motion Prediction(人体运动预测)
 * [Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction](http://arxiv.org/abs/2308.08942v1)<br>:star:[code](https://github.com/MediaBrain-SJTU/AuxFormer)
 * [Forecast-MAE: Self-supervised Pre-training for Motion Forecasting with Masked Autoencoders](http://arxiv.org/abs/2308.09882v1)<br>:star:[code](https://github.com/jchengai/forecast-mae)
+* [Priority-Centric Human Motion Generation in Discrete Latent Space](http://arxiv.org/abs/2308.14480v1)
+
 
 <a name="34"/>
 
 ## 34.Action Detection
 * [Memory-and-Anticipation Transformer for Online Action Understanding](http://arxiv.org/abs/2308.07893v1)<br>:star:[code](https://github.com/Echo0125/Memory-and-Anticipation-Transformer)
 * [Masked Motion Predictors are Strong 3D Action Representation Learners](http://arxiv.org/abs/2308.07092v1)<br>:star:[code](https://github.com/maoyunyao/MAMP)
+* 基于骨架的动作识别
+  * [LAC -- Latent Action Composition for Skeleton-based Action Segmentation](http://arxiv.org/abs/2308.14500v1)
 * 时序动作定位
   * [DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](http://arxiv.org/abs/2307.16415v1)<br>:star:[code](https://github.com/XiaojunTang22/ICCV2023-DDGNet)
   * [Self-Feedback DETR for Temporal Action Detection](http://arxiv.org/abs/2308.10570v1)
@@ -424,6 +443,7 @@
   * [Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples](http://arxiv.org/abs/2307.10062v1)
   * [Unsupervised Domain Adaptive Detection with Network Stability Analysis](http://arxiv.org/abs/2308.08182v1)<br>:star:[code](https://github.com/tiankongzhang/NSA)
   * [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](http://arxiv.org/abs/2308.09139v1)<br>:star:[code](https://github.com/giaczara/dallv)
+  * [Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation](http://arxiv.org/abs/2308.14023v1)<br>:house:[project](http://val.cds.iisc.ac.in/DSiT-SFDA)
   * [DomainAdaptor: A Novel Approach to Test-time Adaptation](http://arxiv.org/abs/2308.10297v1)<br>:star:[code](https://github.com/koncle/DomainAdaptor)
   * [GeT: Generative Target Structure Debiasing for Domain Adaptation](http://arxiv.org/abs/2308.10205v1)<br>:star:[code](https://lulusindazc.github.io/getproject/)
   * [Black-box Unsupervised Domain Adaptation with Bi-directional Atkinson-Shiffrin Memory](http://arxiv.org/abs/2308.13236v1)
@@ -492,6 +512,7 @@
   * [Hierarchical Spatio-Temporal Representation Learning for Gait Recognition](http://arxiv.org/abs/2307.09856v1)
 * 人群计数
   * [Calibrating Uncertainty for Semi-Supervised Crowd Counting](http://arxiv.org/abs/2308.09887v1)
+  * [Point-Query Quadtree for Crowd Counting, Localization, and More](http://arxiv.org/abs/2308.13814v1)<br>:star:[code](https://github.com/cxliu0/PET)
 
 <a name="19"/>
 
@@ -505,6 +526,7 @@
 * 人体姿态估计
   * [DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation](http://arxiv.org/abs/2307.16687v1)
   * [Source-free Domain Adaptive Human Pose Estimation](http://arxiv.org/abs/2308.03202v1)
+  * [Prior-guided Source-free Domain Adaptation for Human Pose Estimation](http://arxiv.org/abs/2308.13954v1)
 * 多人姿态估计
   * [Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation](http://arxiv.org/abs/2308.07313v1)<br>:star:[code](https://github.com/Michel-liu/GroupPose-Paddle)<br>:star:[code](https://github.com/Michel-liu/GroupPose)
 * 3D人体姿态估计
@@ -527,6 +549,7 @@
   * [OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision](http://arxiv.org/abs/2308.10146v1)
 * 手-物建模
   * [CHORD: Category-level Hand-held Object Reconstruction via Shape Deformation](http://arxiv.org/abs/2308.10574v1)<br>:star:[code](https://kailinli.github.io/CHORD)
+  * [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](http://arxiv.org/abs/2308.14082v1)<br>:star:[code](https://github.com/binghui-z/InterPrior_pytorch)
 * 手部重建
   * [Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images](http://arxiv.org/abs/2308.11015v1)
 
@@ -646,6 +669,8 @@
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
 * 指代图像分割
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
+  * [Beyond One-to-One: Rethinking the Referring Image Segmentation](http://arxiv.org/abs/2308.13853v1)<br>:star:[code](https://github.com/toggle1995/RIS-DMMI)
+  * [Referring Image Segmentation Using Text Supervision](http://arxiv.org/abs/2308.14575v1)<br>:star:[code](https://github.com/fawnliu/TRIS)
 * 小样本分割
   * [Self-Calibrated Cross Attention Network for Few-Shot Segmentation](http://arxiv.org/abs/2308.09294v1)<br>:star:[code](https://github.com/Sam1224/SCCAN)
 * 语义分割
@@ -696,6 +721,8 @@
   * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
   * [Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network](http://arxiv.org/abs/2308.08220v1)
   * [Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model](http://arxiv.org/abs/2308.13164v1)
+* 图像去雨
+  * [Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks](http://arxiv.org/abs/2308.14153v1)
 * 图像去噪
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
   * [Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising](http://arxiv.org/abs/2308.03448v1)<br>:star:[code](https://github.com/Srameo/LED)
@@ -759,6 +786,7 @@
 <a name="3"/>
 
 ## 3.Object Detection(目标检测)
+* [Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection](http://arxiv.org/abs/2308.14286v1)<br>:star:[code](https://github.com/TinyTigerPan/BCKD)
 * [ASAG: Building Strong One-Decoder-Layer Sparse Detectors via Adaptive Sparse Anchor Generation](http://arxiv.org/abs/2308.09242v1)<br>:star:[code](https://github.com/iSEE-Laboratory/ASAG)
 * [FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond Under Low-Light Vision](http://arxiv.org/abs/2308.03594v1)
 * [FB-BEV: BEV Representation from Forward-Backward View Transformations](https://arxiv.org/abs/2308.02236)<br>:star:[code](https://github.com/NVlabs/FB-BEV)
@@ -797,6 +825,7 @@
 <a name="2"/>
 
 ## 2.3D(三维重建\三维视觉)
+* [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
 * 三维重建
   * [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](http://arxiv.org/abs/2307.10984v1)<br>:star:[code](https://github.com/YvanYin/Metric3D)
@@ -806,6 +835,7 @@
   * [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](http://arxiv.org/abs/2308.05744v1)<br>:star:[code](https://manycore-research.github.io/PlankAssembly)
   * [Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction](http://arxiv.org/abs/2308.11025v1)<br>:star:[code](https://github.com/MachinePerceptionLab/CQ-NIR)
   * [Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos](http://arxiv.org/abs/2308.10089v1)<br>:star:[code](https://rpd-share.github.io)
+  * [R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras](http://arxiv.org/abs/2308.14713v1)<br>:house:[project](https://www.vis.xyz/pub/r3d3/)
   * 三维场景重建
     * [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](http://arxiv.org/abs/2308.05733v1)<br>:star:[code](https://aim-uofa.github.io/FrozenRecon/)
 * 深度估计
@@ -813,6 +843,7 @@
   * [V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints](http://arxiv.org/abs/2308.08715v1)
   * [Robust Monocular Depth Estimation under Challenging Conditions](http://arxiv.org/abs/2308.09711v1)<br>:star:[code](https://md4all.github.io)
   * [Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network](http://arxiv.org/abs/2308.05605v1)
+  * [Calibrating Panoramic Depth Estimation for Practical Localization and Mapping](http://arxiv.org/abs/2308.14005v1)
 * Stereo Matching
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
   * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
@@ -823,6 +854,15 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
+* [S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](http://arxiv.org/abs/2308.14598v1)
+* [Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers](http://arxiv.org/abs/2308.14152v1)
+* [4D Myocardium Reconstruction with Decoupled Motion and Shape Model](http://arxiv.org/abs/2308.14083v1)
+* [Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection](http://arxiv.org/abs/2308.14061v1)<br>:star:[code](https://github.com/xyfJASON/HCL)
+* [LDL: Line Distance Functions for Panoramic Localization](http://arxiv.org/abs/2308.13989v1)<br>:star:[code](https://github.com/82magnolia/panoramic-localization)
+* [Generalized Lightness Adaptation with Channel Selective Normalization](http://arxiv.org/abs/2308.13783v1)<br>:star:[code](https://github.com/mdyao/CSNorm/)<br>:star:[code](https://github.com/mdyao/CSNorm)
+* [MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree](http://arxiv.org/abs/2308.13735v1)
+* [Late Stopping: Avoiding Confidently Learning from Mislabeled Examples](http://arxiv.org/abs/2308.13862v1)
 * [Motion-Guided Masking for Spatiotemporal Representation Learning](http://arxiv.org/abs/2308.12962v1)
 * [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
 * [Self-supervised Learning of Implicit Shape Representation with Dense Correspondence for Deformable Objects](http://arxiv.org/abs/2308.12590v1)<br>:star:[code](https://iscas3dv.github.io/deformshape)
