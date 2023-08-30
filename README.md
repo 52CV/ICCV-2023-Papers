@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计463+24 篇。 
+计487+11 篇。 
 
 ## 目录
 
@@ -48,31 +48,18 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月28日新增24篇。
-* [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
-* [R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras](http://arxiv.org/abs/2308.14713v1)<br>:house:[project](https://www.vis.xyz/pub/r3d3/)
-* [S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](http://arxiv.org/abs/2308.14598v1)
-* [Referring Image Segmentation Using Text Supervision](http://arxiv.org/abs/2308.14575v1)<br>:star:[code](https://github.com/fawnliu/TRIS)
-* [LAC -- Latent Action Composition for Skeleton-based Action Segmentation](http://arxiv.org/abs/2308.14500v1)
-* [Priority-Centric Human Motion Generation in Discrete Latent Space](http://arxiv.org/abs/2308.14480v1)
-* [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
-* [Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection](http://arxiv.org/abs/2308.14286v1)<br>:star:[code](https://github.com/TinyTigerPan/BCKD)
-* [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
-* [Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks](http://arxiv.org/abs/2308.14153v1)
-* [Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers](http://arxiv.org/abs/2308.14152v1)
-* [4D Myocardium Reconstruction with Decoupled Motion and Shape Model](http://arxiv.org/abs/2308.14083v1)
-* [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](http://arxiv.org/abs/2308.14082v1)<br>:star:[code](https://github.com/binghui-z/InterPrior_pytorch)
-* [Nonrigid Object Contact Estimation With Regional Unwrapping Transformer](http://arxiv.org/abs/2308.14074v1)
-* [Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection](http://arxiv.org/abs/2308.14061v1)<br>:star:[code](https://github.com/xyfJASON/HCL)
-* [Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation](http://arxiv.org/abs/2308.14023v1)<br>:house:[project](http://val.cds.iisc.ac.in/DSiT-SFDA)
-* [Calibrating Panoramic Depth Estimation for Practical Localization and Mapping](http://arxiv.org/abs/2308.14005v1)
-* [LDL: Line Distance Functions for Panoramic Localization](http://arxiv.org/abs/2308.13989v1)<br>:star:[code](https://github.com/82magnolia/panoramic-localization)
-* [Prior-guided Source-free Domain Adaptation for Human Pose Estimation](http://arxiv.org/abs/2308.13954v1)
-* [Beyond One-to-One: Rethinking the Referring Image Segmentation](http://arxiv.org/abs/2308.13853v1)<br>:star:[code](https://github.com/toggle1995/RIS-DMMI)
-* [Point-Query Quadtree for Crowd Counting, Localization, and More](http://arxiv.org/abs/2308.13814v1)<br>:star:[code](https://github.com/cxliu0/PET)
-* [Generalized Lightness Adaptation with Channel Selective Normalization](http://arxiv.org/abs/2308.13783v1)<br>:star:[code](https://github.com/mdyao/CSNorm/)<br>:star:[code](https://github.com/mdyao/CSNorm)
-* [MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree](http://arxiv.org/abs/2308.13735v1)
-* [Late Stopping: Avoiding Confidently Learning from Mislabeled Examples](http://arxiv.org/abs/2308.13862v1)
+## 💥💥💥8月28日新增11篇。
+* [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
+* [Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation](http://arxiv.org/abs/2308.15367v1)
+* [CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation](http://arxiv.org/abs/2308.15226v1)
+* [Learning to Upsample by Learning to Sample](http://arxiv.org/abs/2308.15085v1)<br>:star:[code](https://github.com/tiny-smart/dysample)
+* [Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2308.15081v1)<br>:star:[code](https://github.com/Hengwei-Zhao96/T-HOneCls)
+* [Exploring Model Transferability through the Lens of Potential Energy](http://arxiv.org/abs/2308.15074v1)<br>:star:[code](https://github.com/lixiaotong97/PED)
+* [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
+* [Vision Grid Transformer for Document Layout Analysis](http://arxiv.org/abs/2308.14978v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
+* [Read-only Prompt Optimization for Vision-Language Few-shot Learning](http://arxiv.org/abs/2308.14960v1)<br>:star:[code](https://github.com/mlvlab/RPO)
+* [NSF: Neural Surface Fields for Human Modeling from Monocular Depth](http://arxiv.org/abs/2308.14847v1)<br>:house:[project](https://yuxuan-xue.com/nsf)
+* [CLNeRF: Continual Learning Meets NeRF](http://arxiv.org/abs/2308.14816v1)<br>:star:[code](https://github.com/IntelLabs/CLNeRF)<br>:house:[project](https://youtu.be/nLRt6OoDGq0?si=8yD6k-8MMBJInQPs)
 
 
 
@@ -156,6 +143,8 @@
 <a name="43"/>
 
 ## 43.Neural Radiance Fields
+* [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
+* [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
 * [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
 * [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](http://arxiv.org/abs/2308.11974v1)
 * [Strata-NeRF : Neural Radiance Fields for Stratified Scenes](http://arxiv.org/abs/2308.10337v1)<br>:star:[code](https://ankitatiisc.github.io/Strata-NeRF/)
@@ -214,6 +203,7 @@
 <a name="38"/>
 
 ## 38.Vision-Language(视觉语言)
+* [CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation](http://arxiv.org/abs/2308.15226v1)
 * [GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](http://arxiv.org/abs/2308.11331v1)
 * [RLIPv2: Fast Scaling of Relational Language-Image Pre-training](http://arxiv.org/abs/2308.09351v1)<br>:star:[code](https://github.com/JacobYuan7/RLIPv2)
 * [Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models](http://arxiv.org/abs/2307.15049v1)<br>:star:[code](https://wuw2019.github.io/RMT/)
@@ -333,6 +323,7 @@
 ## 30.SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * 虚拟人物生成
   * [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](http://arxiv.org/abs/2307.10008v1)
+  * [NSF: Neural Surface Fields for Human Modeling from Monocular Depth](http://arxiv.org/abs/2308.14847v1)<br>:house:[project](https://yuxuan-xue.com/nsf)
 * AR/VR
   * [HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations](http://arxiv.org/abs/2308.11261v1)
 
@@ -401,6 +392,7 @@
   * [TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts](http://arxiv.org/abs/2307.15324v1)<br>:star:[code](https://github.com/prismformore/Multi-Task-Transformer)
 * 持续学习
   * [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](http://arxiv.org/abs/2307.11386v1)<br>:star:[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
+  * [CLNeRF: Continual Learning Meets NeRF](http://arxiv.org/abs/2308.14816v1)<br>:star:[code](https://github.com/IntelLabs/CLNeRF)<br>:house:[project](https://youtu.be/nLRt6OoDGq0?si=8yD6k-8MMBJInQPs)
   * [Exemplar-Free Continual Transformer with Convolutions](http://arxiv.org/abs/2308.11357v1)
   * [Online Prototype Learning for Online Continual Learning](http://arxiv.org/abs/2308.00301v1)<br>:star:[code](https://github.com/weilllllls/OnPro)
   * [CBA: Improving Online Continual Learning via Continual Bias Adaptor](http://arxiv.org/abs/2308.06925v1)
@@ -409,12 +401,14 @@
   * [When Prompt-based Incremental Learning Does Not Meet Strong Pretraining](http://arxiv.org/abs/2308.10445v1)<br>:star:[code](https://github.com/TOM-tym/APG)
 * Federated Learning(联邦学习)
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
+  * [Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation](http://arxiv.org/abs/2308.15367v1)
   * [FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning](http://arxiv.org/abs/2308.09160v1)
 * Reinforcement Learning(强化学习)
   * [Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation](http://arxiv.org/abs/2308.01194v1)
   * [Learning to Identify Critical States for Reinforcement Learning from Videos](http://arxiv.org/abs/2308.07795v1)<br>:star:[code](https://github.com/AI-Initiative-KAUST/VideoRLCS)
 * 迁移学习
   * [Disposable Transfer Learning for Selective Source Task Unlearning](http://arxiv.org/abs/2308.09971v1)
+  * [Exploring Model Transferability through the Lens of Potential Energy](http://arxiv.org/abs/2308.15074v1)<br>:star:[code](https://github.com/lixiaotong97/PED)
 * 元学习
   * [Meta-ZSDETR: Zero-shot DETR with Meta-learning](http://arxiv.org/abs/2308.09540v1)
 * 度量学习
@@ -460,6 +454,7 @@
   * [Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning](http://arxiv.org/abs/2308.04016v1)<br>:star:[code](https://github.com/HanjaeKim98/CoT)
 * 小样本学习
   * [Prototypes-oriented Transductive Few-shot Learning with Conditional Transport](http://arxiv.org/abs/2308.03047v1)
+  * [Read-only Prompt Optimization for Vision-Language Few-shot Learning](http://arxiv.org/abs/2308.14960v1)<br>:star:[code](https://github.com/mlvlab/RPO)
 
 <a name="23"/>
 
@@ -470,6 +465,7 @@
 <a name="22"/>
 
 ## 22.OCR
+* [Vision Grid Transformer for Document Layout Analysis](http://arxiv.org/abs/2308.14978v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 * [CNN based Cuneiform Sign Detection Learned from Annotated 3D Renderings and Mapped Photographs with Illumination Augmentation](http://arxiv.org/abs/2308.11277v1)<br>:house:[project](https://gigamesh.eu)
 * [ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer](http://arxiv.org/abs/2308.10147v1)<br>:star:[code](https://github.com/mxin262/ESTextSpotter)
 * 场景文本识别
@@ -518,7 +514,7 @@
 
 ## 19.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [View Consistent Purification for Accurate Cross-View Localization](http://arxiv.org/abs/2308.08110v1)
-
+* [Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2308.15081v1)<br>:star:[code](https://github.com/Hengwei-Zhao96/T-HOneCls)
 
 <a name="18"/>
 
@@ -854,6 +850,7 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Learning to Upsample by Learning to Sample](http://arxiv.org/abs/2308.15085v1)<br>:star:[code](https://github.com/tiny-smart/dysample)
 * [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
 * [S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](http://arxiv.org/abs/2308.14598v1)
 * [Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers](http://arxiv.org/abs/2308.14152v1)
