@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计487+11 篇。 
+计498+5 篇。 
 
 ## 目录
 
@@ -48,20 +48,12 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月28日新增11篇。
-* [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
-* [Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation](http://arxiv.org/abs/2308.15367v1)
-* [CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation](http://arxiv.org/abs/2308.15226v1)
-* [Learning to Upsample by Learning to Sample](http://arxiv.org/abs/2308.15085v1)<br>:star:[code](https://github.com/tiny-smart/dysample)
-* [Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2308.15081v1)<br>:star:[code](https://github.com/Hengwei-Zhao96/T-HOneCls)
-* [Exploring Model Transferability through the Lens of Potential Energy](http://arxiv.org/abs/2308.15074v1)<br>:star:[code](https://github.com/lixiaotong97/PED)
-* [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
-* [Vision Grid Transformer for Document Layout Analysis](http://arxiv.org/abs/2308.14978v1)<br>:star:[code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
-* [Read-only Prompt Optimization for Vision-Language Few-shot Learning](http://arxiv.org/abs/2308.14960v1)<br>:star:[code](https://github.com/mlvlab/RPO)
-* [NSF: Neural Surface Fields for Human Modeling from Monocular Depth](http://arxiv.org/abs/2308.14847v1)<br>:house:[project](https://yuxuan-xue.com/nsf)
-* [CLNeRF: Continual Learning Meets NeRF](http://arxiv.org/abs/2308.14816v1)<br>:star:[code](https://github.com/IntelLabs/CLNeRF)<br>:house:[project](https://youtu.be/nLRt6OoDGq0?si=8yD6k-8MMBJInQPs)
-
-
+## 💥💥💥8月28日新增5篇。
+* [MMVP: Motion-Matrix-based Video Prediction](http://arxiv.org/abs/2308.16154v1)<br>:star:[code](https://github.com/Kay1794/MMVP-motion-matrix-based-video-prediction)
+* [Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion](http://arxiv.org/abs/2308.16083v1)<br>:star:[code](https://manman1995.github.io/)
+* [Reconstructing Groups of People with Hypergraph Relational Reasoning](http://arxiv.org/abs/2308.15844v1)<br>:star:[code](https://github.com/boycehbz/GroupRec)
+* [Introducing Language Guidance in Prompt-based Continual Learning](http://arxiv.org/abs/2308.15827v1)
+* [Shatter and Gather: Learning Referring Image Segmentation with Text Supervision](http://arxiv.org/abs/2308.15512v1)
 
 <a name="55"/>
 
@@ -106,6 +98,7 @@
 
 ## 49.Image Fusion(图像融合)
 * [MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion]未公开
+* [Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion](http://arxiv.org/abs/2308.16083v1)<br>:star:[code](https://manman1995.github.io/)
 
 <a name="48"/>
 
@@ -271,6 +264,7 @@
 <a name="33"/>
 
 ## 33.Video
+* [MMVP: Motion-Matrix-based Video Prediction](http://arxiv.org/abs/2308.16154v1)<br>:star:[code](https://github.com/Kay1794/MMVP-motion-matrix-based-video-prediction)
 * [D3G: Exploring Gaussian Prior for Temporal Sentence Grounding with Glance Annotation](http://arxiv.org/abs/2308.04197v1)<br>:star:[code](https://github.com/solicucu/D3G)
 * [LAN-HDR: Luminance-based Alignment Network for High Dynamic Range Video Reconstruction](http://arxiv.org/abs/2308.11116v1)
 * 视频理解
@@ -396,6 +390,7 @@
   * [Exemplar-Free Continual Transformer with Convolutions](http://arxiv.org/abs/2308.11357v1)
   * [Online Prototype Learning for Online Continual Learning](http://arxiv.org/abs/2308.00301v1)<br>:star:[code](https://github.com/weilllllls/OnPro)
   * [CBA: Improving Online Continual Learning via Continual Bias Adaptor](http://arxiv.org/abs/2308.06925v1)
+  * [Introducing Language Guidance in Prompt-based Continual Learning](http://arxiv.org/abs/2308.15827v1)
   * [NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning](http://arxiv.org/abs/2308.09297v1)<br>:star:[code](https://github.com/TamashaM/NAPA-VQ.git)
 * 增量学习 
   * [When Prompt-based Incremental Learning Does Not Meet Strong Pretraining](http://arxiv.org/abs/2308.10445v1)<br>:star:[code](https://github.com/TOM-tym/APG)
@@ -667,6 +662,7 @@
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
   * [Beyond One-to-One: Rethinking the Referring Image Segmentation](http://arxiv.org/abs/2308.13853v1)<br>:star:[code](https://github.com/toggle1995/RIS-DMMI)
   * [Referring Image Segmentation Using Text Supervision](http://arxiv.org/abs/2308.14575v1)<br>:star:[code](https://github.com/fawnliu/TRIS)
+  * [Shatter and Gather: Learning Referring Image Segmentation with Text Supervision](http://arxiv.org/abs/2308.15512v1)
 * 小样本分割
   * [Self-Calibrated Cross Attention Network for Few-Shot Segmentation](http://arxiv.org/abs/2308.09294v1)<br>:star:[code](https://github.com/Sam1224/SCCAN)
 * 语义分割
@@ -850,6 +846,7 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Reconstructing Groups of People with Hypergraph Relational Reasoning](http://arxiv.org/abs/2308.15844v1)<br>:star:[code](https://github.com/boycehbz/GroupRec)
 * [Learning to Upsample by Learning to Sample](http://arxiv.org/abs/2308.15085v1)<br>:star:[code](https://github.com/tiny-smart/dysample)
 * [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
 * [S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](http://arxiv.org/abs/2308.14598v1)
