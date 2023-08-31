@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计498+5 篇。 
+计500+5 篇。 
 
 ## 目录
 
@@ -218,6 +218,7 @@
   * [VLN-PETL: Parameter-Efficient Transfer Learning for Vision-and-Language Navigation](http://arxiv.org/abs/2308.10172v1)
   * [March in Chat: Interactive Prompting for Remote Embodied Referring Expression](http://arxiv.org/abs/2308.10141v1)
   * [Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation](http://arxiv.org/abs/2308.12587v1)
+  * [BEVBert: Multimodal Map Pre-training for Language-guided Navigation](https://arxiv.org/pdf/2212.04385.pdf)<br>:star:[code](https://github.com/MarSaKi/VLN-BEVBert)
 
 <a name="37"/>
 
@@ -693,6 +694,7 @@
   * [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](http://arxiv.org/abs/2308.01686v1)<br>:star:[code](https://github.com/zhangzw12319/lcps.git)
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
+  * [DVIS: Decoupled Video Instance Segmentation Framework](https://arxiv.org/pdf/2306.03413.pdf)<br>:star:[code](https://github.com/zhang-tao-whu/DVIS)<br>:thumbsup:[ICCV 2023 | 发挥offline方法的潜力，武大&快手提出解耦合的视频实例分割框架DVIS](https://mp.weixin.qq.com/s/_MlryCfg_rRMZMfgINPwXw)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
   * [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)<br>:star:[code](https://github.com/wudongming97/OnlineRefer)
