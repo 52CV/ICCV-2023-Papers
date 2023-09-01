@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计500+5 篇。 
+计505+9 篇。 
 
 ## 目录
 
@@ -48,12 +48,17 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥8月28日新增5篇。
-* [MMVP: Motion-Matrix-based Video Prediction](http://arxiv.org/abs/2308.16154v1)<br>:star:[code](https://github.com/Kay1794/MMVP-motion-matrix-based-video-prediction)
-* [Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion](http://arxiv.org/abs/2308.16083v1)<br>:star:[code](https://manman1995.github.io/)
-* [Reconstructing Groups of People with Hypergraph Relational Reasoning](http://arxiv.org/abs/2308.15844v1)<br>:star:[code](https://github.com/boycehbz/GroupRec)
-* [Introducing Language Guidance in Prompt-based Continual Learning](http://arxiv.org/abs/2308.15827v1)
-* [Shatter and Gather: Learning Referring Image Segmentation with Text Supervision](http://arxiv.org/abs/2308.15512v1)
+## 💥💥💥9月1日新增9篇。
+* [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](http://arxiv.org/abs/2308.16909v1)<br>:house:[project](https://www.mmlab-ntu.com/project/styleinv/index.html)<br>:star:[code](https://github.com/johannwyh/StyleInV)
+* [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](http://arxiv.org/abs/2308.16905v1)<br>:star:[code](https://sirui-xu.github.io/InterDiff/)
+* [EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild](http://arxiv.org/abs/2308.16894v1)<br>:house:[project](https://ait.ethz.ch/emdb)
+* [Coarse-to-Fine Amodal Segmentation with Shape Prior](http://arxiv.org/abs/2308.16825v1)<br>:star:[code](http://jianxgao.github.io/C2F-Seg)
+* [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://arxiv.org/abs/2308.16758v1)
+* [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](http://arxiv.org/abs/2308.16477v1)
+* [Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2308.16454v1)
+* [Active Neural Mapping](http://arxiv.org/abs/2308.16246v1)<br>:star:[code](https://zikeyan.github.io/active-INR/index.html)
+* [Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery](http://arxiv.org/abs/2308.16460v1)
+
 
 <a name="55"/>
 
@@ -271,6 +276,8 @@
 * 视频理解
   * [Long-range Multimodal Pretraining for Movie Understanding](http://arxiv.org/abs/2308.09775v1)
   * [RefEgo: Referring Expression Comprehension Dataset from First-Person Perception of Ego4D](http://arxiv.org/abs/2308.12035v1)
+* 视频合成
+  * [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](http://arxiv.org/abs/2308.16909v1)<br>:house:[project](https://www.mmlab-ntu.com/project/styleinv/index.html)<br>:star:[code](https://github.com/johannwyh/StyleInV)
 * 视频稳定
   * [Fast Full-frame Video Stabilization with Iterative Optimization](http://arxiv.org/abs/2307.12774v1)
 * Video Grounding(视频定位)
@@ -312,6 +319,7 @@
 * [Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction](http://arxiv.org/abs/2307.12729v1)
 * [Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection](http://arxiv.org/abs/2307.13529v1)
 * [Agglomerative Transformer for Human-Object Interaction Detection](http://arxiv.org/abs/2308.08370v1)
+* [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](http://arxiv.org/abs/2308.16905v1)<br>:star:[code](https://sirui-xu.github.io/InterDiff/)
 
 <a name="30"/>
 
@@ -375,6 +383,7 @@
     * [An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability](http://arxiv.org/abs/2308.02897v1)
   * 对抗训练  
     * [Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning](http://arxiv.org/abs/2308.02533v1)<br>:star:[code](https://github.com/microsoft/robustlearn)  
+    * [Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2308.16454v1)
 * Class Incremental Learning(类增量学习)
   * [Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery](http://arxiv.org/abs/2307.10943v1)
   * [Audio-Visual Class-Incremental Learning](http://arxiv.org/abs/2308.11073v1)<br>:star:[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)
@@ -524,6 +533,7 @@
 * 3D人体姿态估计
   * [3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation](http://arxiv.org/abs/2308.10123v1)<br>:star:[code](https://github.com/edz-o/3DNBF)<br>:star:[code](https://3dnbf.github.io/)
   * [Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video](http://arxiv.org/abs/2308.10305v1)<br>:star:[code](https://kasvii.github.io/PMCE)<br>:star:[code](https://github.com/kasvii/PMCE)
+  * [EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild](http://arxiv.org/abs/2308.16894v1)<br>:house:[project](https://ait.ethz.ch/emdb)
 * 人体网格恢复
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
   * [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
@@ -656,6 +666,7 @@
 <a name="8"/>
 
 ## 8.Image Segmentation(图像分割)
+* [Coarse-to-Fine Amodal Segmentation with Shape Prior](http://arxiv.org/abs/2308.16825v1)<br>:star:[code](http://jianxgao.github.io/C2F-Seg)
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](http://arxiv.org/abs/2308.06531v1)<br>:star:[code](https://github.com/aim-uofa/SegPrompt)
 * [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://arxiv.org/abs/2308.02097)<br>:star:[code](https://github.com/JinyuanLiu-CV/SegMiF)
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
@@ -707,6 +718,7 @@
 
 ## 7.Image Progress(低层图像处理、质量评价)
 * [DRAW: Defending Camera-shooted RAW against Image Manipulation](http://arxiv.org/abs/2307.16418v1)
+* [Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery](http://arxiv.org/abs/2308.16460v1)
 * 图像恢复
   * [Physics-Driven Turbulence Image Restoration with Stochastic Refinement](http://arxiv.org/abs/2307.10603v1)<br>:star:[code](https://github.com/VITA-Group/PiRN)
   * [Under-Display Camera Image Restoration with Scattering Effect](http://arxiv.org/abs/2308.04163v1)<br>:star:[code](https://github.com/NamecantbeNULL/SRUDC)
@@ -752,6 +764,8 @@
   * [Benchmarking Algorithmic Bias in Face Recognition: An Experimental Approach Using Synthetic Faces and Human Evaluation](http://arxiv.org/abs/2308.05441v1)
   * [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](http://arxiv.org/abs/2308.10133v1)<br>:star:[code](https://github.com/DanJun6737/TransFace)
   * [Privacy-Preserving Face Recognition Using Random Frequency Components](http://arxiv.org/abs/2308.10461v1)<br>:star:[code](https://github.com/Tencent/TFace)
+* 3D人脸合成
+  * [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://arxiv.org/abs/2308.16758v1)
 
 <a name="5"/>
 
@@ -848,6 +862,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](http://arxiv.org/abs/2308.16477v1)
+* [Active Neural Mapping](http://arxiv.org/abs/2308.16246v1)<br>:star:[code](https://zikeyan.github.io/active-INR/index.html)
 * [Reconstructing Groups of People with Hypergraph Relational Reasoning](http://arxiv.org/abs/2308.15844v1)<br>:star:[code](https://github.com/boycehbz/GroupRec)
 * [Learning to Upsample by Learning to Sample](http://arxiv.org/abs/2308.15085v1)<br>:star:[code](https://github.com/tiny-smart/dysample)
 * [Efficient Discovery and Effective Evaluation of Visual Perceptual Similarity: A Benchmark and Beyond](http://arxiv.org/abs/2308.14753v1)
