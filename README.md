@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计505+9 篇。 
+计514+3 篇。 
 
 ## 目录
 
@@ -48,16 +48,10 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月1日新增9篇。
-* [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](http://arxiv.org/abs/2308.16909v1)<br>:house:[project](https://www.mmlab-ntu.com/project/styleinv/index.html)<br>:star:[code](https://github.com/johannwyh/StyleInV)
-* [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](http://arxiv.org/abs/2308.16905v1)<br>:star:[code](https://sirui-xu.github.io/InterDiff/)
-* [EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild](http://arxiv.org/abs/2308.16894v1)<br>:house:[project](https://ait.ethz.ch/emdb)
-* [Coarse-to-Fine Amodal Segmentation with Shape Prior](http://arxiv.org/abs/2308.16825v1)<br>:star:[code](http://jianxgao.github.io/C2F-Seg)
-* [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://arxiv.org/abs/2308.16758v1)
-* [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](http://arxiv.org/abs/2308.16477v1)
-* [Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2308.16454v1)
-* [Active Neural Mapping](http://arxiv.org/abs/2308.16246v1)<br>:star:[code](https://zikeyan.github.io/active-INR/index.html)
-* [Improving Lens Flare Removal with General Purpose Pipeline and Multiple Light Sources Recovery](http://arxiv.org/abs/2308.16460v1)
+## 💥💥💥9月4日新增3篇。
+* [Object-Centric Multiple Object Tracking](http://arxiv.org/abs/2309.00233v1)
+* [Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation](http://arxiv.org/abs/2309.00216v1)<br>:star:[code](https://github.com/AiArt-HDU/HIDA)
+* [SoDaCam: Software-defined Cameras via Single-Photon Imaging](http://arxiv.org/abs/2309.00066v1)<br>:house:[project](https://wisionlab.com/project/sodacam/)
 
 
 <a name="55"/>
@@ -746,6 +740,7 @@
 <a name="6"/>
 
 ## 6.Face(人脸)
+* [Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation](http://arxiv.org/abs/2309.00216v1)<br>:star:[code](https://github.com/AiArt-HDU/HIDA)
 * [Can Language Models Learn to Listen?](http://arxiv.org/abs/2308.10897v1)<br>:house:[project](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)
 * 说话头合成
   * [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906)<br>:star:[code](https://github.com/harlanhong/ICCV2023-MCNET)
@@ -782,6 +777,7 @@
   * [TrackFlow: Multi-Object Tracking with Normalizing Flows](http://arxiv.org/abs/2308.11513v1)
   * [3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking](http://arxiv.org/abs/2308.06635v1)<br>:star:[code](https://github.com/dsx0511/3DMOTFormer)
   * [ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking](http://arxiv.org/abs/2308.13229v1)
+  * [Object-Centric Multiple Object Tracking](http://arxiv.org/abs/2309.00233v1)
 * 视觉跟踪
   * [Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking](http://arxiv.org/abs/2308.06904v1)
   * [CiteTracker: Correlating Image and Text for Visual Tracking](http://arxiv.org/abs/2308.11322v1)
@@ -862,6 +858,7 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [SoDaCam: Software-defined Cameras via Single-Photon Imaging](http://arxiv.org/abs/2309.00066v1)<br>:house:[project](https://wisionlab.com/project/sodacam/)
 * [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](http://arxiv.org/abs/2308.16477v1)
 * [Active Neural Mapping](http://arxiv.org/abs/2308.16246v1)<br>:star:[code](https://zikeyan.github.io/active-INR/index.html)
 * [Reconstructing Groups of People with Hypergraph Relational Reasoning](http://arxiv.org/abs/2308.15844v1)<br>:star:[code](https://github.com/boycehbz/GroupRec)
