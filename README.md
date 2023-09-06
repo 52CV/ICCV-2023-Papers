@@ -360,7 +360,8 @@
   * [NSF: Neural Surface Fields for Human Modeling from Monocular Depth](http://arxiv.org/abs/2308.14847v1)<br>:house:[project](https://yuxuan-xue.com/nsf)
 * AR/VR
   * [HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations](http://arxiv.org/abs/2308.11261v1)
-
+* SLAM
+  * [GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction](http://arxiv.org/abs/2309.02436v1)<br>:star:[code](https://youmi-zym.github.io/projects/GO-SLAM/)<br>:star:[code](https://github.com/youmi-zym/GO-SLAM)
 
 <a name="29"/>
 
@@ -897,7 +898,6 @@
   * [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](http://arxiv.org/abs/2308.05744v1)<br>:star:[code](https://manycore-research.github.io/PlankAssembly)
   * [Coordinate Quantized Neural Implicit Representations for Multi-view Reconstruction](http://arxiv.org/abs/2308.11025v1)<br>:star:[code](https://github.com/MachinePerceptionLab/CQ-NIR)
   * [Root Pose Decomposition Towards Generic Non-rigid 3D Reconstruction with Monocular Videos](http://arxiv.org/abs/2308.10089v1)<br>:star:[code](https://rpd-share.github.io)
-  * [GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction](http://arxiv.org/abs/2309.02436v1)<br>:star:[code](https://youmi-zym.github.io/projects/GO-SLAM/)<br>:star:[code](https://github.com/youmi-zym/GO-SLAM)
   * [R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras](http://arxiv.org/abs/2308.14713v1)<br>:house:[project](https://www.vis.xyz/pub/r3d3/)
   * 三维场景重建
     * [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](http://arxiv.org/abs/2308.05733v1)<br>:star:[code](https://aim-uofa.github.io/FrozenRecon/)
