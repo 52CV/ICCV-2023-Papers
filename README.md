@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计517+27 篇。 
+计544+2 篇。 
 
 ## 目录
 
@@ -48,35 +48,9 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月6日新增27篇。
-* [GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction](http://arxiv.org/abs/2309.02436v1)<br>:star:[code](https://youmi-zym.github.io/projects/GO-SLAM/)<br>:star:[code](https://github.com/youmi-zym/GO-SLAM)
-* [Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach](http://arxiv.org/abs/2309.02429v1)
-* [EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding](http://arxiv.org/abs/2309.02423v1)<br>:house:[project](https://mvig-rhos.com/ego_pca)
-* [Doppelgangers: Learning to Disambiguate Images of Similar Structures](http://arxiv.org/abs/2309.02420v1)<br>:star:[code](http://doppelgangers-3d.github.io/)
-* [Generating Realistic Images from In-the-wild Sounds](http://arxiv.org/abs/2309.02405v1)
-* [Prototype-based Dataset Comparison](http://arxiv.org/abs/2309.02401v1)<br>:star:[code](https://github.com/Nanne/ProtoSim)
-* [Multi-label affordance mapping from egocentric vision](http://arxiv.org/abs/2309.02120v1)
-* [Iterative Superquadric Recomposition of 3D Objects from Multiple Views](http://arxiv.org/abs/2309.02102v1)<br>:star:[code](https://github.com/ExplainableML/ISCO)
-* [Learning Cross-Modal Affinity for Referring Video Object Segmentation Targeting Limited Samples](http://arxiv.org/abs/2309.02041v1)<br>:star:[code](https://github.com/hengliusky/Few_shot_RVOS)
-* [Empowering Low-Light Image Enhancer through Customized Learnable Priors](http://arxiv.org/abs/2309.01958v1)<br>:star:[code](https://github.com/zheng980629/CUE)
-* [Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge for Generic Image Representations](http://arxiv.org/abs/2309.01858v1)<br>:house:[project](https://cmp.felk.cvut.cz/univ_emb/)
-* [Mask-Attention-Free Transformer for 3D Instance Segmentation](http://arxiv.org/abs/2309.01692v1)<br>:star:[code](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
-* [AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion](http://arxiv.org/abs/2309.01624v1)
-* [Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification](http://arxiv.org/abs/2309.01420v1)
-* [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
-* [SOAR: Scene-debiasing Open-set Action Recognition](http://arxiv.org/abs/2309.01265v1)<br>:star:[code](https://github.com/yhZhai/SOAR)
-* [Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning](http://arxiv.org/abs/2309.01246v1)<br>:star:[code](https://github.com/yhZhai/WSCL)
-* [LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models](http://arxiv.org/abs/2309.01155v1)<br>:star:[code](https://chengshiest.github.io/logo)
-* [EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](http://arxiv.org/abs/2309.01151v1)<br>:star:[code](https://chengshiest.github.io/edadet)
-* [Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration](http://arxiv.org/abs/2309.01131v1)
-* [CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection](http://arxiv.org/abs/2309.01093v1)
-* [Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning](http://arxiv.org/abs/2309.01083v1)<br>:star:[code](https://github.com/FudanVI/FudanOCR/tree/main/image-ids-CTR)
-* [Two-in-One Depth: Bridging the Gap Between Monocular and Binocular Self-supervised Depth Estimation](http://arxiv.org/abs/2309.00933v1)<br>:star:[code](https://github.com/ZM-Zhou/TiO-Depth_pytorch)
-* [Domain Generalization via Balancing Training Difficulty and Model Capability](http://arxiv.org/abs/2309.00844v1)
-* [Few shot font generation via transferring similarity guided global style and quantization local style](http://arxiv.org/abs/2309.00827v1)<br>:star:[code](https://github.com/awei669/VQ-Font)
-* [Contrastive Feature Masking Open-Vocabulary Vision Transformer](http://arxiv.org/abs/2309.00775v1)
-* [RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image](http://arxiv.org/abs/2309.02020v1)
-
+## 💥💥💥9月6日新增2篇。
+* [Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction](http://arxiv.org/abs/2309.02965v1)
+* [A skeletonization algorithm for gradient-based optimization](http://arxiv.org/abs/2309.02527v1)
 
 ## scene flow estimation
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
@@ -592,6 +566,7 @@
   * [OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision](http://arxiv.org/abs/2308.10146v1)
 * 手-物建模
   * [CHORD: Category-level Hand-held Object Reconstruction via Shape Deformation](http://arxiv.org/abs/2308.10574v1)<br>:star:[code](https://kailinli.github.io/CHORD)
+  * [Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction](http://arxiv.org/abs/2309.02965v1)
   * [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](http://arxiv.org/abs/2308.14082v1)<br>:star:[code](https://github.com/binghui-z/InterPrior_pytorch)
 * 手部重建
   * [Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images](http://arxiv.org/abs/2308.11015v1)
@@ -648,6 +623,7 @@
 <a name="12"/>
 
 ## 12.Medical Image(医学影像)
+* [A skeletonization algorithm for gradient-based optimization](http://arxiv.org/abs/2309.02527v1)
 * [Learning to Distill Global Representation for Sparse-View CT](http://arxiv.org/abs/2308.08463v1)<br>:star:[code](https://github.com/longzilicart/GloReDi)
 * [Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation](http://arxiv.org/abs/2307.14709v1)
 * [Dual Meta-Learning with Longitudinally Generalized Regularization for One-Shot Brain Tissue Segmentation Across the Human Lifespan](http://arxiv.org/abs/2308.06774v1)<br>:star:[code](https://github.com/ladderlab-xjtu/DuMeta)
