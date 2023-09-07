@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计544+2 篇。 
+计544+4 篇。 
 
 ## 目录
 
@@ -48,9 +48,12 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月6日新增2篇。
+## 💥💥💥9月6日新增4篇。
 * [Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction](http://arxiv.org/abs/2309.02965v1)
 * [A skeletonization algorithm for gradient-based optimization](http://arxiv.org/abs/2309.02527v1)
+* [VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)<br>:star:[code](https://github.com/XiaoyuShi97/VideoFlow)<br>:thumbsup:[ICCV2023|港中文MMLab提出多帧光流估计模型VideoFlow，充分挖掘时序线索，Sintel与KITTI榜单排名第一](https://mp.weixin.qq.com/s/jsHDk055nSCmkJ8TXch_Lg)
+ * [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/pdf/2304.01116.pdf)<br>:house:[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)<br>:thumbsup:[ICCV 2023|重塑人体动作生成，融合扩散模型与检索策略的新范式ReMoDiffuse来了](https://mp.weixin.qq.com/s/IOuqsd0e6tj_qFnxpRPaEA)
+
 
 ## scene flow estimation
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
@@ -474,6 +477,7 @@
 ## 23.Optical Flow Estimation(光流估计)
 * [GAFlow: Incorporating Gaussian Attention into Optical Flow]未公开
 * [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
+* [VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)<br>:star:[code](https://github.com/XiaoyuShi97/VideoFlow)<br>:thumbsup:[ICCV2023|港中文MMLab提出多帧光流估计模型VideoFlow，充分挖掘时序线索，Sintel与KITTI榜单排名第一](https://mp.weixin.qq.com/s/jsHDk055nSCmkJ8TXch_Lg)
 
 <a name="22"/>
 
@@ -664,6 +668,8 @@
   * [3D Semantic Subspace Traverser: Empowering 3D Generative Model with Shape Editing Capability](http://arxiv.org/abs/2307.14051v1)<br>:star:[code](https://github.com/TrepangCat/3D_Semantic_Subspace_Traverser)
 * 故事可视化
   * [Story Visualization by Online Text Augmentation with Context Memory](http://arxiv.org/abs/2308.07575v1)
+* AIGC
+  * [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/pdf/2304.01116.pdf)<br>:house:[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)<br>:thumbsup:[ICCV 2023|重塑人体动作生成，融合扩散模型与检索策略的新范式ReMoDiffuse来了](https://mp.weixin.qq.com/s/IOuqsd0e6tj_qFnxpRPaEA)
 
 <a name="9"/>
 
