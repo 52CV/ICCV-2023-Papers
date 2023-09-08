@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计544+4 篇。 
+计548+10 篇。 
 
 ## 目录
 
@@ -48,12 +48,17 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月6日新增4篇。
-* [Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction](http://arxiv.org/abs/2309.02965v1)
-* [A skeletonization algorithm for gradient-based optimization](http://arxiv.org/abs/2309.02527v1)
-* [VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)<br>:star:[code](https://github.com/XiaoyuShi97/VideoFlow)<br>:thumbsup:[ICCV2023|港中文MMLab提出多帧光流估计模型VideoFlow，充分挖掘时序线索，Sintel与KITTI榜单排名第一](https://mp.weixin.qq.com/s/jsHDk055nSCmkJ8TXch_Lg)
- * [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/pdf/2304.01116.pdf)<br>:house:[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)<br>:thumbsup:[ICCV 2023|重塑人体动作生成，融合扩散模型与检索策略的新范式ReMoDiffuse来了](https://mp.weixin.qq.com/s/IOuqsd0e6tj_qFnxpRPaEA)
-
+## 💥💥💥9月8日新增10篇。
+* [Tracking Anything with Decoupled Video Segmentation](http://arxiv.org/abs/2309.03903v1)<br>:star:[code](https://hkchengrex.github.io/Tracking-Anything-with-DEVA)
+* [The Making and Breaking of Camouflage](http://arxiv.org/abs/2309.03899v1)
+* [ProPainter: Improving Propagation and Transformer for Video Inpainting](http://arxiv.org/abs/2309.03897v1)<br>:star:[code](https://github.com/sczhou/ProPainter)
+* [Panoramas from Photons](http://arxiv.org/abs/2309.03811v1)<br>:house:[project](https://wisionlab.com/project/panoramas-from-photons/)
+* [SimNP: Learning Self-Similarity Priors Between Neural Points](http://arxiv.org/abs/2309.03809v1)
+* [Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption](http://arxiv.org/abs/2309.03729v1)<br>:star:[code](https://github.com/sjtuplayer/few-shot-diffusion)
+* [Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning](http://arxiv.org/abs/2309.03598v1)
+* [Temporal Collection and Distribution for Referring Video Object Segmentation](http://arxiv.org/abs/2309.03473v1)<br>:star:[code](https://toneyaya.github.io/tempcd/)
+* [Distribution-Aware Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2309.03406v1)<br>:star:[code](https://github.com/mlvlab/DAPT)
+* [Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction](http://arxiv.org/abs/2309.03900v1)<br>:star:[code](https://skchen1993.github.io/CEVR_web/)
 
 ## scene flow estimation
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
@@ -109,6 +114,7 @@
 ## 48.Image Reconstruction
 * [Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction](http://arxiv.org/abs/2308.10820v1)<br>:star:[code](https://github.com/MyuLi/PADUT)
 * [RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image](http://arxiv.org/abs/2309.02020v1)
+* [Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction](http://arxiv.org/abs/2309.03900v1)<br>:star:[code](https://skchen1993.github.io/CEVR_web/)
 
 <a name="47"/>
 
@@ -204,6 +210,7 @@
 <a name="38"/>
 
 ## 38.Vision-Language(视觉语言)
+* [Distribution-Aware Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2309.03406v1)<br>:star:[code](https://github.com/mlvlab/DAPT)
 * [LoGoPrompt: Synthetic Text Images Can Be Good Visual Prompts for Vision-Language Models](http://arxiv.org/abs/2309.01155v1)<br>:star:[code](https://chengshiest.github.io/logo)
 * [CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation](http://arxiv.org/abs/2308.15226v1)
 * [GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training](http://arxiv.org/abs/2308.11331v1)
@@ -294,6 +301,8 @@
   * [XMem++: Production-level Video Segmentation From Few Annotated Frames](http://arxiv.org/abs/2307.15958v1)
   * [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](http://arxiv.org/abs/2308.08544v1)<br>:star:[code](https://henghuiding.github.io/MeViS)<br>:star:[code](https://henghuiding.github.io/MeViS/)
   * [MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](http://arxiv.org/abs/2308.11185v1)
+  * [Tracking Anything with Decoupled Video Segmentation](http://arxiv.org/abs/2309.03903v1)<br>:star:[code](https://hkchengrex.github.io/Tracking-Anything-with-DEVA)
+  * [The Making and Breaking of Camouflage](http://arxiv.org/abs/2309.03899v1)
 * 视频对应
   * [Learning Fine-Grained Features for Pixel-wise Video Correspondences](http://arxiv.org/abs/2308.03040v1)<br>:star:[code](https://github.com/qianduoduolr/FGVC)
 * 视频感知
@@ -301,6 +310,8 @@
 * 视频识别
   * [Audio-Visual Glance Network for Efficient Video Recognition](http://arxiv.org/abs/2308.09322v1)
   * [Learning from Semantic Alignment between Unpaired Multiviews for Egocentric Video Recognition](http://arxiv.org/abs/2308.11489v1)<br>:star:[code](https://github.com/wqtwjt1996/SUM-L)
+* 视频修补
+  * [ProPainter: Improving Propagation and Transformer for Video Inpainting](http://arxiv.org/abs/2309.03897v1)<br>:star:[code](https://github.com/sczhou/ProPainter)
 * 视频表示学习
   * [MGMAE: Motion Guided Masking for Video Masked Autoencoding](http://arxiv.org/abs/2308.10794v1)
 * VAD
@@ -371,6 +382,7 @@
   * [Semantics Meets Temporal Correspondence: Self-supervised Object-centric Learning in Videos](http://arxiv.org/abs/2308.09951v1)<br>:star:[code](https://github.com/shvdiwnkozbw/SMTC)
 * 半监督学习
   * [Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning](http://arxiv.org/abs/2308.06777v1)<br>:star:[code](https://github.com/LiheYoung/ShrinkMatch)
+  * [Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning](http://arxiv.org/abs/2309.03598v1)
   * [Towards Semi-supervised Learning with Non-random Missing Labels](http://arxiv.org/abs/2308.08872v1)<br>:star:[code](https://github.com/NJUyued/PRG4SSL-MNAR)
   * [Diverse Cotraining Makes Strong Semi-Supervised Segmentor](http://arxiv.org/abs/2308.09281v1)<br>:star:[code](https://github.com/williamium3000/diverse-cotraining)
   * [Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch](http://arxiv.org/abs/2308.11874v1)<br>:star:[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)
@@ -661,6 +673,7 @@
   * [Generating Realistic Images from In-the-wild Sounds](http://arxiv.org/abs/2309.02405v1)
 * 扩散
   * [DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport](http://arxiv.org/abs/2307.11308v1)<br>:star:[code](https://github.com/cognaclee/DPM-OT)
+  * [Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption](http://arxiv.org/abs/2309.03729v1)<br>:star:[code](https://github.com/sjtuplayer/few-shot-diffusion)
   * [DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](http://arxiv.org/abs/2308.07687v1)
   * [DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability](http://arxiv.org/abs/2308.09306v1)
   * [Texture Generation on 3D Meshes with Point-UV Diffusion](http://arxiv.org/abs/2308.10490v1)<br>:star:[code](https://cvmi-lab.github.io/Point-UV-Diffusion)
@@ -734,6 +747,7 @@
   * [DVIS: Decoupled Video Instance Segmentation Framework](https://arxiv.org/pdf/2306.03413.pdf)<br>:star:[code](https://github.com/zhang-tao-whu/DVIS)<br>:thumbsup:[ICCV 2023 | 发挥offline方法的潜力，武大&快手提出解耦合的视频实例分割框架DVIS](https://mp.weixin.qq.com/s/_MlryCfg_rRMZMfgINPwXw)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
+  * [Temporal Collection and Distribution for Referring Video Object Segmentation](http://arxiv.org/abs/2309.03473v1)<br>:star:[code](https://toneyaya.github.io/tempcd/)
   * [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)<br>:star:[code](https://github.com/wudongming97/OnlineRefer)
   * [Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation](http://arxiv.org/abs/2308.06693v1)<br>:star:[code](https://github.com/DLUT-yyc/Isomer)
   * [Scalable Video Object Segmentation with Simplified Framework](http://arxiv.org/abs/2308.09903v1)
@@ -902,6 +916,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Panoramas from Photons](http://arxiv.org/abs/2309.03811v1)<br>:house:[project](https://wisionlab.com/project/panoramas-from-photons/)
+* [SimNP: Learning Self-Similarity Priors Between Neural Points](http://arxiv.org/abs/2309.03809v1)
 * [Multi-label affordance mapping from egocentric vision](http://arxiv.org/abs/2309.02120v1)
 * [SoDaCam: Software-defined Cameras via Single-Photon Imaging](http://arxiv.org/abs/2309.00066v1)<br>:house:[project](https://wisionlab.com/project/sodacam/)
 * [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](http://arxiv.org/abs/2308.16477v1)
