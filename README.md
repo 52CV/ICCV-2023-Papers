@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计548+10 篇。 
+计558+4 篇。 
 
 ## 目录
 
@@ -48,17 +48,11 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月8日新增10篇。
-* [Tracking Anything with Decoupled Video Segmentation](http://arxiv.org/abs/2309.03903v1)<br>:star:[code](https://hkchengrex.github.io/Tracking-Anything-with-DEVA)
-* [The Making and Breaking of Camouflage](http://arxiv.org/abs/2309.03899v1)
-* [ProPainter: Improving Propagation and Transformer for Video Inpainting](http://arxiv.org/abs/2309.03897v1)<br>:star:[code](https://github.com/sczhou/ProPainter)
-* [Panoramas from Photons](http://arxiv.org/abs/2309.03811v1)<br>:house:[project](https://wisionlab.com/project/panoramas-from-photons/)
-* [SimNP: Learning Self-Similarity Priors Between Neural Points](http://arxiv.org/abs/2309.03809v1)
-* [Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption](http://arxiv.org/abs/2309.03729v1)<br>:star:[code](https://github.com/sjtuplayer/few-shot-diffusion)
-* [Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning](http://arxiv.org/abs/2309.03598v1)
-* [Temporal Collection and Distribution for Referring Video Object Segmentation](http://arxiv.org/abs/2309.03473v1)<br>:star:[code](https://toneyaya.github.io/tempcd/)
-* [Distribution-Aware Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2309.03406v1)<br>:star:[code](https://github.com/mlvlab/DAPT)
-* [Learning Continuous Exposure Value Representations for Single-Image HDR Reconstruction](http://arxiv.org/abs/2309.03900v1)<br>:star:[code](https://skchen1993.github.io/CEVR_web/)
+## 💥💥💥9月11日新增4篇。
+* [Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving](http://arxiv.org/abs/2309.04422v1)<br>:house:[project](https://www.vis.xyz/pub/vtd)
+* [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
+* [Unsupervised Object Localization with Representer Point Selection](http://arxiv.org/abs/2309.04172v1)
+* [CDFSL-V: Cross-Domain Few-Shot Learning for Videos](http://arxiv.org/abs/2309.03989v1)<br>:star:[code](https://github.com/Sarinda251/CDFSL-V)
 
 ## scene flow estimation
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
@@ -147,6 +141,7 @@
 <a name="43"/>
 
 ## 43.Neural Radiance Fields
+* [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
 * [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
 * [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
 * [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
@@ -357,6 +352,7 @@
 * 自动驾驶
   * [Improving Online Lane Graph Extraction by Object-Lane Clustering](http://arxiv.org/abs/2307.10947v1)
   * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2308.00398v1)<br>:star:[code](https://github.com/OpenDriveLab/DriveAdapter)
+  * [Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving](http://arxiv.org/abs/2309.04422v1)<br>:house:[project](https://www.vis.xyz/pub/vtd)
   * [Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack](http://arxiv.org/abs/2308.11894v1)
 * 轨迹预测
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
@@ -482,6 +478,7 @@
   * [Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning](http://arxiv.org/abs/2308.04016v1)<br>:star:[code](https://github.com/HanjaeKim98/CoT)
 * 小样本学习
   * [Prototypes-oriented Transductive Few-shot Learning with Conditional Transport](http://arxiv.org/abs/2308.03047v1)
+  * [CDFSL-V: Cross-Domain Few-Shot Learning for Videos](http://arxiv.org/abs/2309.03989v1)<br>:star:[code](https://github.com/Sarinda251/CDFSL-V)
   * [Read-only Prompt Optimization for Vision-Language Few-shot Learning](http://arxiv.org/abs/2308.14960v1)<br>:star:[code](https://github.com/mlvlab/RPO)
 
 <a name="23"/>
@@ -876,6 +873,7 @@
   * [Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning](http://arxiv.org/abs/2308.09534v1)<br>:star:[code](https://github.com/shaunyuan22/CFINet)
 * 目标定位
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
+  * [Unsupervised Object Localization with Representer Point Selection](http://arxiv.org/abs/2309.04172v1)
 * 影子检测
   * [SILT: Shadow-aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels](http://arxiv.org/abs/2308.12064v1)
 
