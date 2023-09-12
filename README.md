@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计558+4 篇。 
+计562+16 篇。 
 
 ## 目录
 
@@ -48,13 +48,29 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月11日新增4篇。
-* [Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving](http://arxiv.org/abs/2309.04422v1)<br>:house:[project](https://www.vis.xyz/pub/vtd)
-* [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
-* [Unsupervised Object Localization with Representer Point Selection](http://arxiv.org/abs/2309.04172v1)
-* [CDFSL-V: Cross-Domain Few-Shot Learning for Videos](http://arxiv.org/abs/2309.03989v1)<br>:star:[code](https://github.com/Sarinda251/CDFSL-V)
+## 💥💥💥9月12日新增16篇。
+* [Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips](http://arxiv.org/abs/2309.05663v1)<br>:star:[code](https://judyye.github.io/diffhoi-www/)
+* [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](http://arxiv.org/abs/2309.05573v1)<br>:star:[code](https://github.com/PJLab-ADG/PCSeg)
+* [ITI-GEN: Inclusive Text-to-Image Generation](http://arxiv.org/abs/2309.05569v1)<br>:star:[code](https://czhang0528.github.io/iti-gen)
+* [Class-Incremental Grouping Network for Continual Audio-Visual Learning](http://arxiv.org/abs/2309.05281v1)<br>:star:[code](https://github.com/stoneMo/CIGN)
+* [Multi3DRefer: Grounding Text Description to Multiple 3D Objects](http://arxiv.org/abs/2309.05251v1)
+* [Towards Viewpoint Robustness in Bird's Eye View Segmentation](http://arxiv.org/abs/2309.05192v1)<br>:star:[code](https://nvlabs.github.io/viewpoint-robustness)
+* [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](http://arxiv.org/abs/2309.05148v1)
+* [3D Implicit Transporter for Temporally Consistent Keypoint Discovery](http://arxiv.org/abs/2309.05098v1)<br>:star:[code](https://github.com/zhongcl-thu/3D-Implicit-Transporter)
+* [Multi-view Self-supervised Disentanglement for General Image Denoising](http://arxiv.org/abs/2309.05049v1)
+* [Effective Real Image Editing with Accelerated Iterative Diffusion Inversion](http://arxiv.org/abs/2309.04907v1)
+* [Towards Real-World Burst Image Super-Resolution: Benchmark and Method](http://arxiv.org/abs/2309.04803v1)<br>:star:[code](https://github.com/yjsunnn/FBANet)
+* [Examining Autoexposure for Challenging Scenes](http://arxiv.org/abs/2309.04542v1)
+* [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](http://arxiv.org/abs/2309.04946v1)<br>:star:[code](https://yuangan.github.io/eat/)
+* [Towards Robust Model Watermark via Reducing Parametric Vulnerability](http://arxiv.org/abs/2309.04777v1)<br>:star:[code](https://github.com/GuanhaoGan/robust-model-watermarking)
+* [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
+* [The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion](http://arxiv.org/abs/2309.04509v1)<br>:star:[code](https://ku-vai.github.io/TPoS/)
 
-## scene flow estimation
+
+## Copyright Protection(版权保护/信息安全)
+* [Towards Robust Model Watermark via Reducing Parametric Vulnerability](http://arxiv.org/abs/2309.04777v1)<br>:star:[code](https://github.com/GuanhaoGan/robust-model-watermarking)
+
+## scene flow estimation(场景流估计)
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
 
 
@@ -67,6 +83,8 @@
   * [AdVerb: Visually Guided Audio Dereverberation](http://arxiv.org/abs/2308.12370v1)<br>:house:[project](https://gamma.umd.edu/researchdirections/speech/adverb)
 * 唇语识别
   * [Lip Reading for Low-resource Languages by Learning and Combining General Speech Knowledge and Language-specific Knowledge](http://arxiv.org/abs/2308.09311v1)
+* 音频-视频生成
+  * [The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion](http://arxiv.org/abs/2309.04509v1)<br>:star:[code](https://ku-vai.github.io/TPoS/)
 
 <a name="54"/>
 
@@ -76,6 +94,7 @@
 <a name="53"/>
 
 ## 53.Computed Imaging(计算成像，如光学、几何、光场成像等)
+* [Examining Autoexposure for Challenging Scenes](http://arxiv.org/abs/2309.04542v1)
 * [Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction](http://arxiv.org/abs/2308.10694v1)<br>:star:[code](https://github.com/cvg/VP-Estimation-with-Prior-Gravity)
 
 <a name="52"/>
@@ -141,6 +160,7 @@
 <a name="43"/>
 
 ## 43.Neural Radiance Fields
+* [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
 * [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
 * [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
 * [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
@@ -174,6 +194,7 @@
     * [COCO-O: A Benchmark for Object Detectors under Natural Distribution Shifts](http://arxiv.org/abs/2307.12730v1)<br>:star:[code](https://github.com/alibaba/easyrobust/tree/main/benchmarks/coco_o)
   * 超分辨率  
     * [A Benchmark for Chinese-English Scene Text Image Super-resolution](http://arxiv.org/abs/2308.03262v1)<br>:star:[code](https://github.com/mjq11302010044/Real-CE)
+    * [Towards Real-World Burst Image Super-Resolution: Benchmark and Method](http://arxiv.org/abs/2309.04803v1)<br>:star:[code](https://github.com/yjsunnn/FBANet)
 * 方法
   * [Prototype-based Dataset Comparison](http://arxiv.org/abs/2309.02401v1)<br>:star:[code](https://github.com/Nanne/ProtoSim)
 
@@ -201,6 +222,7 @@
 
 ## 39.Keypoint Detection(关键点检测)
 * [Neural Interactive Keypoint Detection](http://arxiv.org/abs/2308.10174v1)<br>:star:[code](https://github.com/IDEA-Research/Click-Pose)
+* [3D Implicit Transporter for Temporally Consistent Keypoint Discovery](http://arxiv.org/abs/2309.05098v1)<br>:star:[code](https://github.com/zhongcl-thu/3D-Implicit-Transporter)
 
 <a name="38"/>
 
@@ -334,6 +356,7 @@
 * [InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](http://arxiv.org/abs/2308.16905v1)<br>:star:[code](https://sirui-xu.github.io/InterDiff/)
 * 手物交互
   * [EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding](http://arxiv.org/abs/2309.02423v1)<br>:house:[project](https://mvig-rhos.com/ego_pca)
+  * [Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips](http://arxiv.org/abs/2309.05663v1)<br>:star:[code](https://judyye.github.io/diffhoi-www/)
 
 <a name="30"/>
 
@@ -354,6 +377,7 @@
   * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2308.00398v1)<br>:star:[code](https://github.com/OpenDriveLab/DriveAdapter)
   * [Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving](http://arxiv.org/abs/2309.04422v1)<br>:house:[project](https://www.vis.xyz/pub/vtd)
   * [Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack](http://arxiv.org/abs/2308.11894v1)
+  * [Towards Viewpoint Robustness in Bird's Eye View Segmentation](http://arxiv.org/abs/2309.05192v1)<br>:star:[code](https://nvlabs.github.io/viewpoint-robustness)
 * 轨迹预测
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
   * [Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction](http://arxiv.org/abs/2308.08824v1)<br>:star:[code](https://github.com/meaten/FlowChain-ICCV2023)
@@ -406,6 +430,7 @@
   * [Audio-Visual Class-Incremental Learning](http://arxiv.org/abs/2308.11073v1)<br>:star:[code](https://github.com/weiguoPian/AV-CIL_ICCV2023)
   * [Masked Autoencoders are Efficient Class Incremental Learners](http://arxiv.org/abs/2308.12510v1)<br>:star:[code](https://github.com/scok30/MAE-CIL)
   * [Heterogeneous Forgetting Compensation for Class-Incremental Learning](http://arxiv.org/abs/2308.03374v1)<br>:star:[code](https://github.com/JiahuaDong/HFC)
+  * [Class-Incremental Grouping Network for Continual Audio-Visual Learning](http://arxiv.org/abs/2309.05281v1)<br>:star:[code](https://github.com/stoneMo/CIGN)
 * 多任务学习
   * [Efficient Controllable Multi-Task Architectures](http://arxiv.org/abs/2308.11744v1)
   * [MAS: Towards Resource-Efficient Federated Multiple-Task Learning](http://arxiv.org/abs/2307.11285v1)
@@ -651,6 +676,8 @@
 <a name="11"/>
 
 ## 11.Image/Video Editing(图像/视频编辑)
+* 图像编辑
+  * [Effective Real Image Editing with Accelerated Iterative Diffusion Inversion](http://arxiv.org/abs/2309.04907v1)
 * 视频编辑
   * [StableVideo: Text-driven Consistency-aware Diffusion Video Editing](http://arxiv.org/abs/2308.09592v1)<br>:star:[code](https://github.com/rese1f/StableVideo)
 
@@ -664,6 +691,7 @@
   * [Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration](http://arxiv.org/abs/2307.09621v1)
 * 文本-图像合成
   * [Dense Text-to-Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1)<br>:star:[code](https://github.com/naver-ai/DenseDiffusion)
+  * [ITI-GEN: Inclusive Text-to-Image Generation](http://arxiv.org/abs/2309.05569v1)<br>:star:[code](https://czhang0528.github.io/iti-gen)
   * [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](http://arxiv.org/abs/2307.10816v1)<br>:star:[code](https://github.com/Sierkinhane/BoxDiff)
    * [Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis](http://arxiv.org/abs/2308.08157v1)<br>:star:[code](https://pmh9960.github.io/research/GCDP)
 * 音频驱动的图像生成
@@ -705,6 +733,7 @@
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](http://arxiv.org/abs/2308.06531v1)<br>:star:[code](https://github.com/aim-uofa/SegPrompt)
 * [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://arxiv.org/abs/2308.02097)<br>:star:[code](https://github.com/JinyuanLiu-CV/SegMiF)
 * [Unmasking Anomalies in Road-Scene Segmentation](http://arxiv.org/abs/2307.13316v1)<br>:star:[code](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation)
+* [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](http://arxiv.org/abs/2309.05573v1)<br>:star:[code](https://github.com/PJLab-ADG/PCSeg)
 * 指代图像分割
   * [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](http://arxiv.org/abs/2307.11545v1)<br>:star:[code](https://github.com/kkakkkka/ETRIS)
   * [Beyond One-to-One: Rethinking the Referring Image Segmentation](http://arxiv.org/abs/2308.13853v1)<br>:star:[code](https://github.com/toggle1995/RIS-DMMI)
@@ -774,6 +803,7 @@
   * [Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising](http://arxiv.org/abs/2308.03448v1)<br>:star:[code](https://github.com/Srameo/LED)
   * [Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising](http://arxiv.org/abs/2308.04682v1)
   * [Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches](http://arxiv.org/abs/2308.06776v1)
+  * [Multi-view Self-supervised Disentanglement for General Image Denoising](http://arxiv.org/abs/2309.05049v1)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -790,6 +820,7 @@
 * [Can Language Models Learn to Listen?](http://arxiv.org/abs/2308.10897v1)<br>:house:[project](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)
 * 说话头合成
   * [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906)<br>:star:[code](https://github.com/harlanhong/ICCV2023-MCNET)
+  * [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](http://arxiv.org/abs/2309.04946v1)<br>:star:[code](https://yuangan.github.io/eat/)
 * 人脸交换
   * [BlendFace: Re-designing Identity Encoders for Face-Swapping](http://arxiv.org/abs/2307.10854v1)<br>:star:[code](https://github.com/mapooon/BlendFace)<br>:star:[code](https://mapooon.github.io/BlendFacePage/)
 * 假脸检测
@@ -914,6 +945,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](http://arxiv.org/abs/2309.05148v1)
+* [Multi3DRefer: Grounding Text Description to Multiple 3D Objects](http://arxiv.org/abs/2309.05251v1)
 * [Panoramas from Photons](http://arxiv.org/abs/2309.03811v1)<br>:house:[project](https://wisionlab.com/project/panoramas-from-photons/)
 * [SimNP: Learning Self-Similarity Priors Between Neural Points](http://arxiv.org/abs/2309.03809v1)
 * [Multi-label affordance mapping from egocentric vision](http://arxiv.org/abs/2309.02120v1)
