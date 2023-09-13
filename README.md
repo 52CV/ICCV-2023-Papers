@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计562+16 篇。 
+计578+2 篇。 
 
 ## 目录
 
@@ -48,23 +48,9 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月12日新增16篇。
-* [Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips](http://arxiv.org/abs/2309.05663v1)<br>:star:[code](https://judyye.github.io/diffhoi-www/)
-* [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](http://arxiv.org/abs/2309.05573v1)<br>:star:[code](https://github.com/PJLab-ADG/PCSeg)
-* [ITI-GEN: Inclusive Text-to-Image Generation](http://arxiv.org/abs/2309.05569v1)<br>:star:[code](https://czhang0528.github.io/iti-gen)
-* [Class-Incremental Grouping Network for Continual Audio-Visual Learning](http://arxiv.org/abs/2309.05281v1)<br>:star:[code](https://github.com/stoneMo/CIGN)
-* [Multi3DRefer: Grounding Text Description to Multiple 3D Objects](http://arxiv.org/abs/2309.05251v1)
-* [Towards Viewpoint Robustness in Bird's Eye View Segmentation](http://arxiv.org/abs/2309.05192v1)<br>:star:[code](https://nvlabs.github.io/viewpoint-robustness)
-* [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](http://arxiv.org/abs/2309.05148v1)
-* [3D Implicit Transporter for Temporally Consistent Keypoint Discovery](http://arxiv.org/abs/2309.05098v1)<br>:star:[code](https://github.com/zhongcl-thu/3D-Implicit-Transporter)
-* [Multi-view Self-supervised Disentanglement for General Image Denoising](http://arxiv.org/abs/2309.05049v1)
-* [Effective Real Image Editing with Accelerated Iterative Diffusion Inversion](http://arxiv.org/abs/2309.04907v1)
-* [Towards Real-World Burst Image Super-Resolution: Benchmark and Method](http://arxiv.org/abs/2309.04803v1)<br>:star:[code](https://github.com/yjsunnn/FBANet)
-* [Examining Autoexposure for Challenging Scenes](http://arxiv.org/abs/2309.04542v1)
-* [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](http://arxiv.org/abs/2309.04946v1)<br>:star:[code](https://yuangan.github.io/eat/)
-* [Towards Robust Model Watermark via Reducing Parametric Vulnerability](http://arxiv.org/abs/2309.04777v1)<br>:star:[code](https://github.com/GuanhaoGan/robust-model-watermarking)
-* [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
-* [The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion](http://arxiv.org/abs/2309.04509v1)<br>:star:[code](https://ku-vai.github.io/TPoS/)
+## 💥💥💥9月13日新增2篇。
+* [Modality Unifying Network for Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2309.06262v1)
+* [SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors](http://arxiv.org/abs/2309.05810v1)
 
 
 ## Copyright Protection(版权保护/信息安全)
@@ -562,6 +548,8 @@
   * [Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification](http://arxiv.org/abs/2309.01420v1)
   * [Camera-Driven Representation Learning for Unsupervised Domain Adaptive Person Re-identification](http://arxiv.org/abs/2308.11901v1)
   * [Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification](http://arxiv.org/abs/2308.10658v1)
+  * 可见光红外重识别
+    * [Modality Unifying Network for Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2309.06262v1)
 * 步态识别
   * [Hierarchical Spatio-Temporal Representation Learning for Gait Recognition](http://arxiv.org/abs/2307.09856v1)
 * 人群计数
@@ -883,6 +871,7 @@
 * 3D OD
   * [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](http://arxiv.org/abs/2307.12637v1)<br>:star:[code](https://github.com/quotation2520/PG-RCNN)
   * [PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection](http://arxiv.org/abs/2308.03982v1)
+  * [SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors](http://arxiv.org/abs/2309.05810v1)
   * [ImGeoNet: Image-induced Geometry-aware Voxel Representation for Multi-view 3D Object Detection](http://arxiv.org/abs/2308.09098v1)<br>:star:[code](https://ttaoretw.github.io/imgeonet/)
   * [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](http://arxiv.org/abs/2308.09421v1)<br>:star:[code](https://github.com/cskkxjk/MonoNeRD)
   * [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](http://arxiv.org/abs/2308.09244v1)<br>:star:[code](https://github.com/MCG-NJU/SparseBEV)
