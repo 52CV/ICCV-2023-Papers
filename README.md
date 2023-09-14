@@ -57,8 +57,6 @@
 * [VLSlice: Interactive Vision-and-Language Slice Discovery](http://arxiv.org/abs/2309.06703v1)<br>:house:[project](https://ericslyman.com/vlslice/)
 * [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
 
-
-
 ## Copyright Protection(版权保护/信息安全)
 * [Towards Robust Model Watermark via Reducing Parametric Vulnerability](http://arxiv.org/abs/2309.04777v1)<br>:star:[code](https://github.com/GuanhaoGan/robust-model-watermarking)
 
