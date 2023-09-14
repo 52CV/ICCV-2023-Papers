@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计578+2 篇。 
+计580+7 篇。 
 
 ## 目录
 
@@ -48,9 +48,15 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月13日新增2篇。
-* [Modality Unifying Network for Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2309.06262v1)
-* [SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors](http://arxiv.org/abs/2309.05810v1)
+## 💥💥💥9月14日新增7篇。
+* [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
+* [SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection](http://arxiv.org/abs/2309.07084v1)
+* [Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?](http://arxiv.org/abs/2309.06891v1)<br>:star:[code](https://github.com/billpsomas/simpool)
+* [Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly](http://arxiv.org/abs/2309.06810v1)<br>:star:[code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>:star:[code](https://crtie.github.io/SE-3-part-assembly/)
+* [MPI-Flow: Learning Realistic Optical Flow with Multiplane Images](http://arxiv.org/abs/2309.06714v1)<br>:star:[code](https://github.com/Sharpiless/MPI-Flow)
+* [VLSlice: Interactive Vision-and-Language Slice Discovery](http://arxiv.org/abs/2309.06703v1)<br>:house:[project](https://ericslyman.com/vlslice/)
+* [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
+
 
 
 ## Copyright Protection(版权保护/信息安全)
@@ -147,6 +153,7 @@
 
 ## 43.Neural Radiance Fields
 * [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
+* [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
 * [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
 * [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
 * [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
@@ -224,6 +231,7 @@
 * [CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](http://arxiv.org/abs/2308.07146v1)<br>:star:[code](https://github.com/KevinLight831/CTP)
 * [VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control](http://arxiv.org/abs/2308.09804v1)<br>:star:[code](https://github.com/HenryHZY/VL-PET)
 * [Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models](http://arxiv.org/abs/2308.11186v1)
+* [VLSlice: Interactive Vision-and-Language Slice Discovery](http://arxiv.org/abs/2309.06703v1)<br>:house:[project](https://ericslyman.com/vlslice/)
 * 视觉表示学习
   * [Hallucination Improves the Performance of Unsupervised Visual Representation Learning](http://arxiv.org/abs/2307.12168v1)
   * [ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data](http://arxiv.org/abs/2308.11194v1)
@@ -350,6 +358,8 @@
 * 虚拟人物生成
   * [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](http://arxiv.org/abs/2307.10008v1)
   * [NSF: Neural Surface Fields for Human Modeling from Monocular Depth](http://arxiv.org/abs/2308.14847v1)<br>:house:[project](https://yuxuan-xue.com/nsf)
+* 机器人
+  * [Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly](http://arxiv.org/abs/2309.06810v1)<br>:star:[code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>:star:[code](https://crtie.github.io/SE-3-part-assembly/)
 * AR/VR
   * [HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations](http://arxiv.org/abs/2308.11261v1)
 * SLAM
@@ -498,6 +508,7 @@
 * [GAFlow: Incorporating Gaussian Attention into Optical Flow]未公开
 * [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
 * [VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)<br>:star:[code](https://github.com/XiaoyuShi97/VideoFlow)<br>:thumbsup:[ICCV2023|港中文MMLab提出多帧光流估计模型VideoFlow，充分挖掘时序线索，Sintel与KITTI榜单排名第一](https://mp.weixin.qq.com/s/jsHDk055nSCmkJ8TXch_Lg)
+* [MPI-Flow: Learning Realistic Optical Flow with Multiplane Images](http://arxiv.org/abs/2309.06714v1)<br>:star:[code](https://github.com/Sharpiless/MPI-Flow)
 
 <a name="22"/>
 
@@ -870,6 +881,7 @@
 * [Object-aware Gaze Target Detection](http://arxiv.org/abs/2307.09662v1)<br>:star:[code](https://github.com/francescotonini/object-aware-gaze-target-detection)
 * 3D OD
   * [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](http://arxiv.org/abs/2307.12637v1)<br>:star:[code](https://github.com/quotation2520/PG-RCNN)
+  * [SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection](http://arxiv.org/abs/2309.07084v1)
   * [PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection](http://arxiv.org/abs/2308.03982v1)
   * [SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors](http://arxiv.org/abs/2309.05810v1)
   * [ImGeoNet: Image-induced Geometry-aware Voxel Representation for Multi-view 3D Object Detection](http://arxiv.org/abs/2308.09098v1)<br>:star:[code](https://ttaoretw.github.io/imgeonet/)
@@ -934,6 +946,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
+* [Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?](http://arxiv.org/abs/2309.06891v1)<br>:star:[code](https://github.com/billpsomas/simpool)
 * [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](http://arxiv.org/abs/2309.05148v1)
 * [Multi3DRefer: Grounding Text Description to Multiple 3D Objects](http://arxiv.org/abs/2309.05251v1)
 * [Panoramas from Photons](http://arxiv.org/abs/2309.03811v1)<br>:house:[project](https://wisionlab.com/project/panoramas-from-photons/)
