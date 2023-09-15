@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计580+7 篇。 
+计587+6 篇。 
 
 ## 目录
 
@@ -48,14 +48,18 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月14日新增7篇。
-* [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
-* [SupFusion: Supervised LiDAR-Camera Fusion for 3D Object Detection](http://arxiv.org/abs/2309.07084v1)
-* [Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?](http://arxiv.org/abs/2309.06891v1)<br>:star:[code](https://github.com/billpsomas/simpool)
-* [Leveraging SE(3) Equivariance for Learning 3D Geometric Shape Assembly](http://arxiv.org/abs/2309.06810v1)<br>:star:[code](https://github.com/crtie/Leveraging-SE-3-Equivariance-for-Learning-3D-Geometric-Shape-Assembly)<br>:star:[code](https://crtie.github.io/SE-3-part-assembly/)
-* [MPI-Flow: Learning Realistic Optical Flow with Multiplane Images](http://arxiv.org/abs/2309.06714v1)<br>:star:[code](https://github.com/Sharpiless/MPI-Flow)
-* [VLSlice: Interactive Vision-and-Language Slice Discovery](http://arxiv.org/abs/2309.06703v1)<br>:house:[project](https://ericslyman.com/vlslice/)
-* [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
+## 💥💥💥9月15日新增6篇。
+* [ALWOD: Active Learning for Weakly-Supervised Object Detection](http://arxiv.org/abs/2309.07914v1)<br>:star:[code](https://github.com/seqam-lab/ALWOD)
+* [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911v1)<br>:star:[code](https://github.com/alibaba-mmai-research/DiST)
+* [TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting](http://arxiv.org/abs/2309.07910v1)
+* [OmnimatteRF: Robust Omnimatte with 3D Background Modeling](http://arxiv.org/abs/2309.07749v1)<br>:star:[code](https://omnimatte-rf.github.io/)
+* [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](http://arxiv.org/abs/2309.07471v1)
+* [Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance](http://arxiv.org/abs/2309.07403v1)
+
+
+## Visual Localization
+* [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](http://arxiv.org/abs/2309.07471v1)
+* [Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance](http://arxiv.org/abs/2309.07403v1)
 
 ## Copyright Protection(版权保护/信息安全)
 * [Towards Robust Model Watermark via Reducing Parametric Vulnerability](http://arxiv.org/abs/2309.04777v1)<br>:star:[code](https://github.com/GuanhaoGan/robust-model-watermarking)
@@ -451,6 +455,7 @@
   * [Disposable Transfer Learning for Selective Source Task Unlearning](http://arxiv.org/abs/2308.09971v1)
   * [Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach](http://arxiv.org/abs/2309.02429v1)
   * [Exploring Model Transferability through the Lens of Potential Energy](http://arxiv.org/abs/2308.15074v1)<br>:star:[code](https://github.com/lixiaotong97/PED)
+  * [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911v1)<br>:star:[code](https://github.com/alibaba-mmai-research/DiST)
 * 元学习
   * [Meta-ZSDETR: Zero-shot DETR with Meta-learning](http://arxiv.org/abs/2308.09540v1)
 * 度量学习
@@ -578,6 +583,7 @@
   * [DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation](http://arxiv.org/abs/2307.16687v1)
   * [Source-free Domain Adaptive Human Pose Estimation](http://arxiv.org/abs/2308.03202v1)
   * [Prior-guided Source-free Domain Adaptation for Human Pose Estimation](http://arxiv.org/abs/2308.13954v1)
+  * [TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting](http://arxiv.org/abs/2309.07910v1)
 * 多人姿态估计
   * [Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation](http://arxiv.org/abs/2308.07313v1)<br>:star:[code](https://github.com/Michel-liu/GroupPose-Paddle)<br>:star:[code](https://github.com/Michel-liu/GroupPose)
 * 3D人体姿态估计
@@ -894,6 +900,8 @@
   * [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)<br>:star:[code](https://github.com/junjie18/CMT)
 * 开放词汇目标检测
   * [EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](http://arxiv.org/abs/2309.01151v1)<br>:star:[code](https://chengshiest.github.io/edadet)
+* 弱监督目标检测
+  * [ALWOD: Active Learning for Weakly-Supervised Object Detection](http://arxiv.org/abs/2309.07914v1)<br>:star:[code](https://github.com/seqam-lab/ALWOD)
 * 密集目标检测
   * [Bridging Cross-task Protocol Inconsistency for Distillation in Dense Object Detection](http://arxiv.org/abs/2308.14286v1)<br>:star:[code](https://github.com/TinyTigerPan/BCKD)
 * 视频目标检测
@@ -912,6 +920,7 @@
 ## 2.3D(三维重建\三维视觉)
 * [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
+* [OmnimatteRF: Robust Omnimatte with 3D Background Modeling](http://arxiv.org/abs/2309.07749v1)<br>:star:[code](https://omnimatte-rf.github.io/)
 * 三维重建
   * [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](http://arxiv.org/abs/2307.10984v1)<br>:star:[code](https://github.com/YvanYin/Metric3D)
   * [LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction](http://arxiv.org/abs/2307.12194v1)
