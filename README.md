@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计587+6 篇。 
+计593+5 篇。 
 
 ## 目录
 
@@ -48,14 +48,12 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月15日新增6篇。
-* [ALWOD: Active Learning for Weakly-Supervised Object Detection](http://arxiv.org/abs/2309.07914v1)<br>:star:[code](https://github.com/seqam-lab/ALWOD)
-* [Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning](http://arxiv.org/abs/2309.07911v1)<br>:star:[code](https://github.com/alibaba-mmai-research/DiST)
-* [TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting](http://arxiv.org/abs/2309.07910v1)
-* [OmnimatteRF: Robust Omnimatte with 3D Background Modeling](http://arxiv.org/abs/2309.07749v1)<br>:star:[code](https://omnimatte-rf.github.io/)
-* [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](http://arxiv.org/abs/2309.07471v1)
-* [Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance](http://arxiv.org/abs/2309.07403v1)
-
+## 💥💥💥9月18日新增5篇。
+* [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](http://arxiv.org/abs/2309.08596v1)<br>:star:[code](https://wengflow.github.io/robust-e-nerf)
+* [Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes](http://arxiv.org/abs/2309.08588v1)<br>:house:[project](https://fabiendelattre.com/robust-rotation-estimation)
+* [PoseFix: Correcting 3D Human Poses with Natural Language](http://arxiv.org/abs/2309.08480v1)
+* [MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces](http://arxiv.org/abs/2309.08113v1)<br>:star:[code](https://github.com/yinzhicun/MetaF2N)
+* [COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability](http://arxiv.org/abs/2309.07926v1)
 
 ## Visual Localization
 * [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](http://arxiv.org/abs/2309.07471v1)
@@ -90,6 +88,7 @@
 ## 53.Computed Imaging(计算成像，如光学、几何、光场成像等)
 * [Examining Autoexposure for Challenging Scenes](http://arxiv.org/abs/2309.04542v1)
 * [Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction](http://arxiv.org/abs/2308.10694v1)<br>:star:[code](https://github.com/cvg/VP-Estimation-with-Prior-Gravity)
+* [Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes](http://arxiv.org/abs/2309.08588v1)<br>:house:[project](https://fabiendelattre.com/robust-rotation-estimation)
 
 <a name="52"/>
 
@@ -157,6 +156,7 @@
 * [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
 * [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
 * [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
+* [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](http://arxiv.org/abs/2309.08596v1)<br>:star:[code](https://wengflow.github.io/robust-e-nerf)
 * [Pose-Free Neural Radiance Fields via Implicit Pose Regularization](http://arxiv.org/abs/2308.15049v1)
 * [Canonical Factors for Hybrid Neural Fields](http://arxiv.org/abs/2308.15461v1)<br>:star:[code](https://brentyi.github.io/tilted/)
 * [Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor](http://arxiv.org/abs/2308.14383v1)<br>:star:[code](https://zju3dv.github.io/tof_slam/)
@@ -590,6 +590,7 @@
   * [3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation](http://arxiv.org/abs/2308.10123v1)<br>:star:[code](https://github.com/edz-o/3DNBF)<br>:star:[code](https://3dnbf.github.io/)
   * [Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video](http://arxiv.org/abs/2308.10305v1)<br>:star:[code](https://kasvii.github.io/PMCE)<br>:star:[code](https://github.com/kasvii/PMCE)
   * [EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild](http://arxiv.org/abs/2308.16894v1)<br>:house:[project](https://ait.ethz.ch/emdb)
+  * [PoseFix: Correcting 3D Human Poses with Natural Language](http://arxiv.org/abs/2309.08480v1)
 * 人体网格恢复
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
   * [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
@@ -629,6 +630,8 @@
 * [On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement](http://arxiv.org/abs/2307.12027v1)<br>:star:[code](https://github.com/Luciennnnnnn/DualFormer)
 * [Dual Aggregation Transformer for Image Super-Resolution](http://arxiv.org/abs/2308.03364v1)<br>:star:[code](https://github.com/zhengchen1999/DAT)
 * [Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution](http://arxiv.org/abs/2308.05022v1)<br>:star:[code](https://github.com/AVC2-UESTC/CRAFT-SR.git)
+* [MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces](http://arxiv.org/abs/2309.08113v1)<br>:star:[code](https://github.com/yinzhicun/MetaF2N)
+
 
 <a name="15"/>
 
@@ -651,6 +654,7 @@
 ## 14.Image/Video Composition(图像/视频压缩)
 * 图像压缩
   * [TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition](http://arxiv.org/abs/2307.12493v1)<br>:star:[code](https://github.com/Shilin-LU/TF-ICON)
+  * [COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability](http://arxiv.org/abs/2309.07926v1)
 
 <a name="13"/>
 
