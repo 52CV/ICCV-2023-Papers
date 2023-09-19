@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计593+5 篇。 
+计598+13 篇。 
 
 ## 目录
 
@@ -48,12 +48,21 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月18日新增5篇。
-* [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](http://arxiv.org/abs/2309.08596v1)<br>:star:[code](https://wengflow.github.io/robust-e-nerf)
-* [Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes](http://arxiv.org/abs/2309.08588v1)<br>:house:[project](https://fabiendelattre.com/robust-rotation-estimation)
-* [PoseFix: Correcting 3D Human Poses with Natural Language](http://arxiv.org/abs/2309.08480v1)
-* [MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces](http://arxiv.org/abs/2309.08113v1)<br>:star:[code](https://github.com/yinzhicun/MetaF2N)
-* [COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability](http://arxiv.org/abs/2309.07926v1)
+## 💥💥💥9月19日新增13篇。
+* [MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing](https://arxiv.org/abs/2308.14036)<br>:star:[code](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)<br>:thumbsup:[ICCV2023 | 更快、更灵活的 Transformer图像去雾网络](https://mp.weixin.qq.com/s/nZ9WFBci0WyeBe1Fyi3rnA)
+* [GEDepth: Ground Embedding for Monocular Depth Estimation](http://arxiv.org/abs/2309.09975v1)
+* [Unsupervised Open-Vocabulary Object Localization in Videos](http://arxiv.org/abs/2309.09858v1)
+* [Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering](http://arxiv.org/abs/2309.09724v1)
+* [RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation](http://arxiv.org/abs/2309.09301v1)<br>:star:[code](https://github.com/adwardlee/RenderIH)
+* [LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation](http://arxiv.org/abs/2309.09294v1)
+* [MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer](http://arxiv.org/abs/2309.09067v1)
+* [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](http://arxiv.org/abs/2309.08942v1)<br>:star:[code](https://github.com/GentlesJan/AffordPose)
+* [In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval](http://arxiv.org/abs/2309.08928v1)<br>:star:[code](https://github.com/ninatu/in_style)
+* [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](http://arxiv.org/abs/2309.08816v1)<br>:star:[code](https://github.com/facebookresearch/EgoObjects)
+* [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
+* [BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus](http://arxiv.org/abs/2309.08690v1)
+* [Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild](http://arxiv.org/abs/2309.08644v1)<br>:house:[project](https://www.youtube.com/@potr3d)
+
 
 ## Visual Localization
 * [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](http://arxiv.org/abs/2309.07471v1)
@@ -176,6 +185,7 @@
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)<br>:thumbsup:[ICCV2023 首个城市级别的基于航空点云的房屋建模数据集 Building3D](https://mp.weixin.qq.com/s/gKFByZ8ud2aNlG7C7t2-2Q)
   * [LaRS: A Diverse Panoptic Maritime Obstacle Detection Dataset and Benchmark](http://arxiv.org/abs/2308.09618v1)<br>:star:[code](https://lojzezust.github.io/lars-dataset)
+  * [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](http://arxiv.org/abs/2309.08816v1)<br>:star:[code](https://github.com/facebookresearch/EgoObjects)
   * [Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge for Generic Image Representations](http://arxiv.org/abs/2309.01858v1)<br>:house:[project](https://cmp.felk.cvut.cz/univ_emb/)
   * [ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes](http://arxiv.org/abs/2308.11417v1)<br>:house:[project](https://youtu.be/E6P9e2r6M8I)<br>:star:[code](https://cy94.github.io/scannetpp/)
   * [Learning Optical Flow from Event Camera with Rendered Dataset](https://arxiv.org/abs/2303.11011)
@@ -203,6 +213,7 @@
 * [SwinLSTM:Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM](http://arxiv.org/abs/2308.09891v1)<br>:star:[code](https://github.com/SongTang-x/SwinLSTM)
 * [Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers](http://arxiv.org/abs/2308.13494v1)
 * [Contrastive Feature Masking Open-Vocabulary Vision Transformer](http://arxiv.org/abs/2309.00775v1)
+* [MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer](http://arxiv.org/abs/2309.09067v1)
 
 <a name="40"/>
 
@@ -353,6 +364,7 @@
 * 手物交互
   * [EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding](http://arxiv.org/abs/2309.02423v1)<br>:house:[project](https://mvig-rhos.com/ego_pca)
   * [Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips](http://arxiv.org/abs/2309.05663v1)<br>:star:[code](https://judyye.github.io/diffhoi-www/)
+  * [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](http://arxiv.org/abs/2309.08942v1)<br>:star:[code](https://github.com/GentlesJan/AffordPose)
 
 <a name="30"/>
 
@@ -591,6 +603,7 @@
   * [Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video](http://arxiv.org/abs/2308.10305v1)<br>:star:[code](https://kasvii.github.io/PMCE)<br>:star:[code](https://github.com/kasvii/PMCE)
   * [EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild](http://arxiv.org/abs/2308.16894v1)<br>:house:[project](https://ait.ethz.ch/emdb)
   * [PoseFix: Correcting 3D Human Poses with Natural Language](http://arxiv.org/abs/2309.08480v1)
+  * [Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild](http://arxiv.org/abs/2309.08644v1)<br>:house:[project](https://www.youtube.com/@potr3d)
 * 人体网格恢复
   * [JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery](http://arxiv.org/abs/2307.16377v1)
   * [Distribution-Aligned Diffusion for Human Mesh Recovery](http://arxiv.org/abs/2308.13369v1)<br>:star:[code](https://gongjia0208.github.io/HMDiff/)
@@ -606,13 +619,15 @@
   * [Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction](http://arxiv.org/abs/2308.06554v1)<br>:star:[code](https://github.com/hygenie1228/CycleAdapt_RELEASE)
 * 3D手部姿态估计
   * [OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision](http://arxiv.org/abs/2308.10146v1)
+  * [RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation](http://arxiv.org/abs/2309.09301v1)<br>:star:[code](https://github.com/adwardlee/RenderIH)
 * 手-物建模
   * [CHORD: Category-level Hand-held Object Reconstruction via Shape Deformation](http://arxiv.org/abs/2308.10574v1)<br>:star:[code](https://kailinli.github.io/CHORD)
   * [Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction](http://arxiv.org/abs/2309.02965v1)
   * [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](http://arxiv.org/abs/2308.14082v1)<br>:star:[code](https://github.com/binghui-z/InterPrior_pytorch)
 * 手部重建
   * [Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images](http://arxiv.org/abs/2308.11015v1)
-
+* 手势生成
+  * [LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation](http://arxiv.org/abs/2309.09294v1)
 
 <a name="17"/>
 
@@ -644,6 +659,7 @@
 * 文本-视频检索
   * [Helping Hands: An Object-Aware Ego-Centric Video Recognition Model](http://arxiv.org/abs/2308.07918v1)
   * [Prompt Switch: Efficient CLIP Adaptation for Text-Video Retrieval](http://arxiv.org/abs/2308.07648v1)
+  * [In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval](http://arxiv.org/abs/2309.08928v1)<br>:star:[code](https://github.com/ninatu/in_style)
 * 视频-文本检索  
   * [Multi-event Video-Text Retrieval](http://arxiv.org/abs/2308.11551v1)<br>:star:[code](https://github.com/gengyuanmax/MeVTR)
 * 视频检索
@@ -811,6 +827,8 @@
   * [Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising](http://arxiv.org/abs/2308.04682v1)
   * [Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches](http://arxiv.org/abs/2308.06776v1)
   * [Multi-view Self-supervised Disentanglement for General Image Denoising](http://arxiv.org/abs/2309.05049v1)
+* 图像去雾
+  * [MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing](https://arxiv.org/abs/2308.14036)<br>:star:[code](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)<br>:thumbsup:[ICCV2023 | 更快、更灵活的 Transformer图像去雾网络](https://mp.weixin.qq.com/s/nZ9WFBci0WyeBe1Fyi3rnA)
 * 质量评估
   * [Test Time Adaptation for Blind Image Quality Assessment](http://arxiv.org/abs/2307.14735v1)
 * 图像和谐化
@@ -916,6 +934,7 @@
 * 目标定位
   * [Generative Prompt Model for Weakly Supervised Object Localization](http://arxiv.org/abs/2307.09756v1)<br>:star:[code](https://github.com/callsys/GenPromp)
   * [Unsupervised Object Localization with Representer Point Selection](http://arxiv.org/abs/2309.04172v1)
+  * [Unsupervised Open-Vocabulary Object Localization in Videos](http://arxiv.org/abs/2309.09858v1)
 * 影子检测
   * [SILT: Shadow-aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels](http://arxiv.org/abs/2308.12064v1)
 
@@ -945,6 +964,8 @@
   * [Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network](http://arxiv.org/abs/2308.05605v1)
   * [Calibrating Panoramic Depth Estimation for Practical Localization and Mapping](http://arxiv.org/abs/2308.14005v1)
   * [Two-in-One Depth: Bridging the Gap Between Monocular and Binocular Self-supervised Depth Estimation](http://arxiv.org/abs/2309.00933v1)<br>:star:[code](https://github.com/ZM-Zhou/TiO-Depth_pytorch)
+  * [Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering](http://arxiv.org/abs/2309.09724v1)
+  * [GEDepth: Ground Embedding for Monocular Depth Estimation](http://arxiv.org/abs/2309.09975v1)
 * 深度补全  
   * [AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion](http://arxiv.org/abs/2309.01624v1)
 * Stereo Matching
@@ -957,6 +978,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
+* [BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus](http://arxiv.org/abs/2309.08690v1)
 * [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
 * [Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?](http://arxiv.org/abs/2309.06891v1)<br>:star:[code](https://github.com/billpsomas/simpool)
 * [Beyond Skin Tone: A Multidimensional Measure of Apparent Skin Color](http://arxiv.org/abs/2309.05148v1)
