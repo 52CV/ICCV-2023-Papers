@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计598+13 篇。 
+计611+7 篇。 
 
 ## 目录
 
@@ -48,20 +48,14 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月19日新增13篇。
-* [MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing](https://arxiv.org/abs/2308.14036)<br>:star:[code](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)<br>:thumbsup:[ICCV2023 | 更快、更灵活的 Transformer图像去雾网络](https://mp.weixin.qq.com/s/nZ9WFBci0WyeBe1Fyi3rnA)
-* [GEDepth: Ground Embedding for Monocular Depth Estimation](http://arxiv.org/abs/2309.09975v1)
-* [Unsupervised Open-Vocabulary Object Localization in Videos](http://arxiv.org/abs/2309.09858v1)
-* [Robust Geometry-Preserving Depth Estimation Using Differentiable Rendering](http://arxiv.org/abs/2309.09724v1)
-* [RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation](http://arxiv.org/abs/2309.09301v1)<br>:star:[code](https://github.com/adwardlee/RenderIH)
-* [LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation](http://arxiv.org/abs/2309.09294v1)
-* [MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer](http://arxiv.org/abs/2309.09067v1)
-* [AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose](http://arxiv.org/abs/2309.08942v1)<br>:star:[code](https://github.com/GentlesJan/AffordPose)
-* [In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval](http://arxiv.org/abs/2309.08928v1)<br>:star:[code](https://github.com/ninatu/in_style)
-* [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](http://arxiv.org/abs/2309.08816v1)<br>:star:[code](https://github.com/facebookresearch/EgoObjects)
-* [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
-* [BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus](http://arxiv.org/abs/2309.08690v1)
-* [Towards Robust and Smooth 3D Multi-Person Pose Estimation from Monocular Videos in the Wild](http://arxiv.org/abs/2309.08644v1)<br>:house:[project](https://www.youtube.com/@potr3d)
+## 💥💥💥9月20日新增7篇。
+* [Sound Source Localization is All about Cross-Modal Alignment](http://arxiv.org/abs/2309.10724v1)
+* [Locally Stylized Neural Radiance Fields](http://arxiv.org/abs/2309.10684v1)
+* [NDDepth: Normal-Distance Assisted Monocular Depth Estimation](http://arxiv.org/abs/2309.10592v1)
+* [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](http://arxiv.org/abs/2309.10431v1)<br>:star:[code](https://github.com/Roywangj/AdaptPoint)
+* [SideGAN: 3D-Aware Generative Model for Improved Side-View Image Synthesis](http://arxiv.org/abs/2309.10388v1)
+* [Unified Coarse-to-Fine Alignment for Video-Text Retrieval](http://arxiv.org/abs/2309.10091v1)<br>:star:[code](https://github.com/Ziyang412/UCoFiA)
+* [Preserving Tumor Volumes for Unsupervised Medical Image Registration](http://arxiv.org/abs/2309.10153v1)<br>:star:[code](https://dddraxxx.github.io/Volume-Preserving-Registration/)
 
 
 ## Visual Localization
@@ -80,6 +74,7 @@
 ## 55.sound(语音)
 * [DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding](http://arxiv.org/abs/2308.07787v1)
 * [Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation](http://arxiv.org/abs/2308.10306v1)
+* [Sound Source Localization is All about Cross-Modal Alignment](http://arxiv.org/abs/2309.10724v1)
 * 去混响
   * [AdVerb: Visually Guided Audio Dereverberation](http://arxiv.org/abs/2308.12370v1)<br>:house:[project](https://gamma.umd.edu/researchdirections/speech/adverb)
 * 唇语识别
@@ -163,6 +158,7 @@
 
 ## 43.Neural Radiance Fields
 * [Dynamic Mesh-Aware Radiance Fields](http://arxiv.org/abs/2309.04581v1)
+* [Locally Stylized Neural Radiance Fields](http://arxiv.org/abs/2309.10684v1)
 * [Generalizable Neural Fields as Partially Observed Neural Processes](http://arxiv.org/abs/2309.06660v1)
 * [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](http://arxiv.org/abs/2309.04410v1)<br>:house:[project](https://www.mmlab-ntu.com/project/deformtoon3d/)<br>:star:[code](https://github.com/junzhezhang/DeformToon3D)
 * [Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion](http://arxiv.org/abs/2309.08596v1)<br>:star:[code](https://wengflow.github.io/robust-e-nerf)
@@ -555,6 +551,7 @@
   * [Density-invariant Features for Distant Point Cloud Registration](http://arxiv.org/abs/2307.09788v1)
   * [SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration]未公开
   * [PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration](http://arxiv.org/abs/2308.04782v1)<br>:star:[code](https://github.com/phdymz/PointMBF)
+  * [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](http://arxiv.org/abs/2309.10431v1)<br>:star:[code](https://github.com/Roywangj/AdaptPoint)
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
@@ -662,6 +659,7 @@
   * [In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval](http://arxiv.org/abs/2309.08928v1)<br>:star:[code](https://github.com/ninatu/in_style)
 * 视频-文本检索  
   * [Multi-event Video-Text Retrieval](http://arxiv.org/abs/2308.11551v1)<br>:star:[code](https://github.com/gengyuanmax/MeVTR)
+  * [Unified Coarse-to-Fine Alignment for Video-Text Retrieval](http://arxiv.org/abs/2309.10091v1)<br>:star:[code](https://github.com/Ziyang412/UCoFiA)
 * 视频检索
   * [Simple Baselines for Interactive Video Retrieval with Questions and Answers](http://arxiv.org/abs/2308.10402v1)<br>:star:[code](https://github.com/kevinliang888/IVR-QA-baselines)
 
@@ -691,6 +689,7 @@
 * [ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis](http://arxiv.org/abs/2308.13324v1)
 * 医学影像配准
   * [Towards Saner Deep Image Registration](http://arxiv.org/abs/2307.09696v1)<br>:star:[code](https://github.com/tuffr5/Saner-deep-registration)
+  * [Preserving Tumor Volumes for Unsupervised Medical Image Registration](http://arxiv.org/abs/2309.10153v1)<br>:star:[code](https://dddraxxx.github.io/Volume-Preserving-Registration/)
 * 医学报告生成
   * [PRIOR: Prototype Representation Joint Learning from Medical Images and Reports](http://arxiv.org/abs/2307.12577v1)<br>:star:[code](https://github.com/QtacierP/PRIOR)
 * 切片分类
@@ -712,6 +711,7 @@
   * [MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers](http://arxiv.org/abs/2308.11096v1)
 * 图像合成
   * [Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration](http://arxiv.org/abs/2307.09621v1)
+  * [SideGAN: 3D-Aware Generative Model for Improved Side-View Image Synthesis](http://arxiv.org/abs/2309.10388v1)
 * 文本-图像合成
   * [Dense Text-to-Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1)<br>:star:[code](https://github.com/naver-ai/DenseDiffusion)
   * [ITI-GEN: Inclusive Text-to-Image Generation](http://arxiv.org/abs/2309.05569v1)<br>:star:[code](https://czhang0528.github.io/iti-gen)
@@ -959,6 +959,7 @@
     * [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](http://arxiv.org/abs/2308.05733v1)<br>:star:[code](https://aim-uofa.github.io/FrozenRecon/)
 * 深度估计
   * [MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation](http://arxiv.org/abs/2307.14336v1)
+  * [NDDepth: Normal-Distance Assisted Monocular Depth Estimation](http://arxiv.org/abs/2309.10592v1)
   * [V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints](http://arxiv.org/abs/2308.08715v1)
   * [Robust Monocular Depth Estimation under Challenging Conditions](http://arxiv.org/abs/2308.09711v1)<br>:star:[code](https://md4all.github.io)
   * [Self-Supervised Monocular Depth Estimation by Direction-aware Cumulative Convolution Network](http://arxiv.org/abs/2308.05605v1)
