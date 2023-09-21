@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计611+7 篇。 
+计618+7 篇。 
 
 ## 目录
 
@@ -48,14 +48,14 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月20日新增7篇。
-* [Sound Source Localization is All about Cross-Modal Alignment](http://arxiv.org/abs/2309.10724v1)
-* [Locally Stylized Neural Radiance Fields](http://arxiv.org/abs/2309.10684v1)
-* [NDDepth: Normal-Distance Assisted Monocular Depth Estimation](http://arxiv.org/abs/2309.10592v1)
-* [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](http://arxiv.org/abs/2309.10431v1)<br>:star:[code](https://github.com/Roywangj/AdaptPoint)
-* [SideGAN: 3D-Aware Generative Model for Improved Side-View Image Synthesis](http://arxiv.org/abs/2309.10388v1)
-* [Unified Coarse-to-Fine Alignment for Video-Text Retrieval](http://arxiv.org/abs/2309.10091v1)<br>:star:[code](https://github.com/Ziyang412/UCoFiA)
-* [Preserving Tumor Volumes for Unsupervised Medical Image Registration](http://arxiv.org/abs/2309.10153v1)<br>:star:[code](https://dddraxxx.github.io/Volume-Preserving-Registration/)
+## 💥💥💥9月21日新增7篇。
+* [SkeleTR: Towrads Skeleton-based Action Recognition in the Wild](http://arxiv.org/abs/2309.11445v1)
+* [Generalized Few-Shot Point Cloud Segmentation Via Geometric Words](http://arxiv.org/abs/2309.11222v1)<br>:star:[code](https://github.com/Pixie8888/GFS-3DSeg_GWs)
+* [AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration](http://arxiv.org/abs/2309.11170v1)
+* [Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation](http://arxiv.org/abs/2309.11160v1)<br>:star:[code](https://github.com/nankepan/VIPMT)
+* [GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation](http://arxiv.org/abs/2309.11145v1)<br>:star:[code](https://github.com/xmed-lab/GraphEcho)
+* [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
+* [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
 
 
 ## Visual Localization
@@ -290,6 +290,7 @@
 * [Masked Motion Predictors are Strong 3D Action Representation Learners](http://arxiv.org/abs/2308.07092v1)<br>:star:[code](https://github.com/maoyunyao/MAMP)
 * 基于骨架的动作识别
   * [LAC -- Latent Action Composition for Skeleton-based Action Segmentation](http://arxiv.org/abs/2308.14500v1)
+  * [SkeleTR: Towrads Skeleton-based Action Recognition in the Wild](http://arxiv.org/abs/2309.11445v1)
 * 开集动作识别
   * [SOAR: Scene-debiasing Open-set Action Recognition](http://arxiv.org/abs/2309.01265v1)<br>:star:[code](https://github.com/yhZhai/SOAR)
 * 小样本动作识别
@@ -319,6 +320,7 @@
   * [Knowing Where to Focus: Event-aware Transformer for Video Grounding](http://arxiv.org/abs/2308.06947v1)<br>:star:[code](https://github.com/jinhyunj/EaTR)
 * 视频分割
   * [XMem++: Production-level Video Segmentation From Few Annotated Frames](http://arxiv.org/abs/2307.15958v1)
+  * [GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation](http://arxiv.org/abs/2309.11145v1)<br>:star:[code](https://github.com/xmed-lab/GraphEcho)
   * [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](http://arxiv.org/abs/2308.08544v1)<br>:star:[code](https://henghuiding.github.io/MeViS)<br>:star:[code](https://henghuiding.github.io/MeViS/)
   * [MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](http://arxiv.org/abs/2308.11185v1)
   * [Tracking Anything with Decoupled Video Segmentation](http://arxiv.org/abs/2309.03903v1)<br>:star:[code](https://hkchengrex.github.io/Tracking-Anything-with-DEVA)
@@ -552,11 +554,13 @@
   * [SIRA-PCR: Sim-to-Real Adaptation for 3D Point Cloud Registration]未公开
   * [PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration](http://arxiv.org/abs/2308.04782v1)<br>:star:[code](https://github.com/phdymz/PointMBF)
   * [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](http://arxiv.org/abs/2309.10431v1)<br>:star:[code](https://github.com/Roywangj/AdaptPoint)
+  * [AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration](http://arxiv.org/abs/2309.11170v1)
 * 点云分割
   * [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](http://arxiv.org/abs/2307.10782v1)
   * [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2307.10316v1)
   * [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](http://arxiv.org/abs/2307.13251v1)<br>:star:[code](https://github.com/VinAIResearch/GaPro)
-    * [Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2308.11166v1)<br>:star:[code](https://github.com/SmiletoE/HPAL)
+  * [Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation](http://arxiv.org/abs/2308.11166v1)<br>:star:[code](https://github.com/SmiletoE/HPAL)
+  * [Generalized Few-Shot Point Cloud Segmentation Via Geometric Words](http://arxiv.org/abs/2309.11222v1)<br>:star:[code](https://github.com/Pixie8888/GFS-3DSeg_GWs)
 * 点云补全
   * [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](http://arxiv.org/abs/2307.14726v1)<br>:star:[code](https://github.com/CuiRuikai/Partial2Complete)
 * 3D点云
@@ -796,6 +800,7 @@
   * [DVIS: Decoupled Video Instance Segmentation Framework](https://arxiv.org/pdf/2306.03413.pdf)<br>:star:[code](https://github.com/zhang-tao-whu/DVIS)<br>:thumbsup:[ICCV 2023 | 发挥offline方法的潜力，武大&快手提出解耦合的视频实例分割框架DVIS](https://mp.weixin.qq.com/s/_MlryCfg_rRMZMfgINPwXw)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
+  * [Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation](http://arxiv.org/abs/2309.11160v1)<br>:star:[code](https://github.com/nankepan/VIPMT)
   * [Temporal Collection and Distribution for Referring Video Object Segmentation](http://arxiv.org/abs/2309.03473v1)<br>:star:[code](https://toneyaya.github.io/tempcd/)
   * [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)<br>:star:[code](https://github.com/wudongming97/OnlineRefer)
   * [Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation](http://arxiv.org/abs/2308.06693v1)<br>:star:[code](https://github.com/DLUT-yyc/Isomer)
@@ -979,6 +984,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
+* [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
 * [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
 * [BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus](http://arxiv.org/abs/2309.08690v1)
 * [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
