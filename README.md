@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计618+7 篇。 
+计623+4 篇。 
 
 ## 目录
 
@@ -48,14 +48,12 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月21日新增7篇。
-* [SkeleTR: Towrads Skeleton-based Action Recognition in the Wild](http://arxiv.org/abs/2309.11445v1)
-* [Generalized Few-Shot Point Cloud Segmentation Via Geometric Words](http://arxiv.org/abs/2309.11222v1)<br>:star:[code](https://github.com/Pixie8888/GFS-3DSeg_GWs)
-* [AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration](http://arxiv.org/abs/2309.11170v1)
-* [Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation](http://arxiv.org/abs/2309.11160v1)<br>:star:[code](https://github.com/nankepan/VIPMT)
-* [GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation](http://arxiv.org/abs/2309.11145v1)<br>:star:[code](https://github.com/xmed-lab/GraphEcho)
-* [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
-* [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
+## 💥💥💥9月22日新增4篇。
+* [Active Stereo Without Pattern Projector](http://arxiv.org/abs/2309.12315v1)<br>:star:[code](https://vppstereo.github.io)<br>:star:[code](https://github.com/bartn8/vppstereo)
+* [TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance](http://arxiv.org/abs/2309.12314v1)<br>:house:[project](https://aka.ms/tinyclip)
+* [TCOVIS: Temporally Consistent Online Video Instance Segmentation](http://arxiv.org/abs/2309.11857v1)<br>:star:[code](https://github.com/jun-long-li/TCOVIS)
+* [Meta OOD Learning for Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705v1)
+
 
 
 ## Visual Localization
@@ -219,6 +217,7 @@
   * [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](http://arxiv.org/abs/2308.02983v1)<br>:star:[code](https://github.com/xcyao00/FOD)
 * OOD
   * [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](http://arxiv.org/abs/2308.12213v1)<br>:star:[code](https://github.com/xmed-lab/CLIPN)
+  * [Meta OOD Learning for Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705v1)
 
 <a name="39"/>
 
@@ -798,6 +797,7 @@
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
   * [DVIS: Decoupled Video Instance Segmentation Framework](https://arxiv.org/pdf/2306.03413.pdf)<br>:star:[code](https://github.com/zhang-tao-whu/DVIS)<br>:thumbsup:[ICCV 2023 | 发挥offline方法的潜力，武大&快手提出解耦合的视频实例分割框架DVIS](https://mp.weixin.qq.com/s/_MlryCfg_rRMZMfgINPwXw)
+  * [TCOVIS: Temporally Consistent Online Video Instance Segmentation](http://arxiv.org/abs/2309.11857v1)<br>:star:[code](https://github.com/jun-long-li/TCOVIS)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
   * [Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation](http://arxiv.org/abs/2309.11160v1)<br>:star:[code](https://github.com/nankepan/VIPMT)
@@ -987,6 +987,8 @@
 * [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
 * [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
 * [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
+* [Active Stereo Without Pattern Projector](http://arxiv.org/abs/2309.12315v1)<br>:star:[code](https://vppstereo.github.io)<br>:star:[code](https://github.com/bartn8/vppstereo)
+* [TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance](http://arxiv.org/abs/2309.12314v1)<br>:house:[project](https://aka.ms/tinyclip)
 * [BANSAC: A dynamic BAyesian Network for adaptive SAmple Consensus](http://arxiv.org/abs/2309.08690v1)
 * [Tree-Structured Shading Decomposition](http://arxiv.org/abs/2309.07122v1)<br>:house:[project](https://chen-geng.com/inv-shade-trees)
 * [Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?](http://arxiv.org/abs/2309.06891v1)<br>:star:[code](https://github.com/billpsomas/simpool)
