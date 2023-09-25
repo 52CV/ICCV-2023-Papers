@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计623+4 篇。 
+计627+4 篇。 
 
 ## 目录
 
@@ -48,11 +48,11 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月22日新增4篇。
-* [Active Stereo Without Pattern Projector](http://arxiv.org/abs/2309.12315v1)<br>:star:[code](https://vppstereo.github.io)<br>:star:[code](https://github.com/bartn8/vppstereo)
-* [TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance](http://arxiv.org/abs/2309.12314v1)<br>:house:[project](https://aka.ms/tinyclip)
-* [TCOVIS: Temporally Consistent Online Video Instance Segmentation](http://arxiv.org/abs/2309.11857v1)<br>:star:[code](https://github.com/jun-long-li/TCOVIS)
-* [Meta OOD Learning for Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705v1)
+## 💥💥💥9月25日新增4篇。
+* [DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image](http://arxiv.org/abs/2309.12594v1)
+* [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://arxiv.org/abs/2309.12530v1)
+* [SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap](http://arxiv.org/abs/2309.12382v1)<br>:star:[code](https://github.com/naver-ai/scob)
+* [Cross-Modal Translation and Alignment for Survival Analysis](http://arxiv.org/abs/2309.12855v1)
 
 
 
@@ -501,6 +501,7 @@
   * [Flatness-Aware Minimization for Domain Generalization](http://arxiv.org/abs/2307.11108v1)
   * [DomainDrop: Suppressing Domain-Sensitive Channels for Domain Generalization](http://arxiv.org/abs/2308.10285v1)<br>:star:[code](https://github.com/lingeringlight/DomainDrop)
   * [Domain Generalization via Balancing Training Difficulty and Model Capability](http://arxiv.org/abs/2309.00844v1)
+  * [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://arxiv.org/abs/2309.12530v1)
   * [Understanding Hessian Alignment for Domain Generalization](http://arxiv.org/abs/2308.11778v1)<br>:star:[code](https://github.com/huawei-noah/Federated-Learning/tree/main/HessianAlignment)
   * [Domain Generalization via Rationale Invariance](http://arxiv.org/abs/2308.11158v1)<br>:star:[code](https://github.com/liangchen527/RIDG)
   * [PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization](http://arxiv.org/abs/2307.15199v1)<br>:house:[project](https://promptstyler.github.io/)
@@ -534,6 +535,7 @@
   * [Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning](http://arxiv.org/abs/2309.01083v1)<br>:star:[code](https://github.com/FudanVI/FudanOCR/tree/main/image-ids-CTR)
 * 文档理解
   * [Attention Where It Matters: Rethinking Visual Document Understanding with Selective Region Concentration](http://arxiv.org/abs/2309.01131v1)
+  * [SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap](http://arxiv.org/abs/2309.12382v1)<br>:star:[code](https://github.com/naver-ai/scob)
 * 字体生成
   * [Few shot font generation via transferring similarity guided global style and quantization local style](http://arxiv.org/abs/2309.00827v1)<br>:star:[code](https://github.com/awei669/VQ-Font)
 
@@ -946,6 +948,7 @@
 <a name="2"/>
 
 ## 2.3D(三维重建\三维视觉)
+* [DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image](http://arxiv.org/abs/2309.12594v1)
 * [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
 * [OmnimatteRF: Robust Omnimatte with 3D Background Modeling](http://arxiv.org/abs/2309.07749v1)<br>:star:[code](https://omnimatte-rf.github.io/)
@@ -984,6 +987,7 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [Cross-Modal Translation and Alignment for Survival Analysis](http://arxiv.org/abs/2309.12855v1)
 * [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
 * [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
 * [Segmentation of Tubular Structures Using Iterative Training with Tailored Samples](http://arxiv.org/abs/2309.08727v1)
