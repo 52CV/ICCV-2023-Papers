@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计627+4 篇。 
+计631+19 篇。 
 
 ## 目录
 
@@ -48,11 +48,26 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月25日新增4篇。
-* [DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image](http://arxiv.org/abs/2309.12594v1)
-* [A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance](http://arxiv.org/abs/2309.12530v1)
-* [SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap](http://arxiv.org/abs/2309.12382v1)<br>:star:[code](https://github.com/naver-ai/scob)
-* [Cross-Modal Translation and Alignment for Survival Analysis](http://arxiv.org/abs/2309.12855v1)
+## 💥💥💥9月27日新增19篇。
+* [UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation](http://arxiv.org/abs/2309.14335v1)<br>:star:[code](https://unitedhuman.github.io/)<br>:star:[code](https://github.com/UnitedHuman/UnitedHuman)
+* [Tiled Multiplane Images for Practical 3D Photography](http://arxiv.org/abs/2309.14291v1)
+* [Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation](http://arxiv.org/abs/2309.14241v1)<br>:star:[code](https://github.com/yxiwang/IDM)
+* [Automatic Animation of Hair Blowing in Still Portrait Photos](http://arxiv.org/abs/2309.14207v1)<br>:star:[code](https://nevergiveu.github.io/AutomaticHairBlowing/)
+* [DISeR: Designing Imaging Systems with Reinforcement Learning](http://arxiv.org/abs/2309.13851v1)<br>:star:[code](https://tzofi.github.io/diser)
+* [Causal-DFQ: Causality Guided Data-free Network Quantization](http://arxiv.org/abs/2309.13682v1)<br>:star:[code](https://github.com/42Shawn/Causal-DFQ)
+* [LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning](http://arxiv.org/abs/2309.13556v1)<br>:star:[code](https://github.com/lingorX/LogicSeg/)
+* [LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation](http://arxiv.org/abs/2309.13523v1)<br>:star:[code](https://github.com/JHLee0513/LiDARUDA)
+* [Order-preserving Consistency Regularization for Domain Adaptation and Generalization](http://arxiv.org/abs/2309.13258v1)
+* [Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation](http://arxiv.org/abs/2309.13248v1)<br>:star:[code](https://github.com/kfan21/EoRaS)
+* [Generating Visual Scenes from Touch](http://arxiv.org/abs/2309.15117v1)<br>:star:[code](https://fredfyyang.github.io/vision-from-touch/)
+* [DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation](http://arxiv.org/abs/2309.15109v1)
+* [RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation](http://arxiv.org/abs/2309.15082v1)<br>:star:[code](https://github.com/danqu130/RPEFlow)<br>:star:[code](https://npucvr.github.io/RPEFlow)
+* [Improving Unsupervised Visual Program Inference with Code Rewriting Families](http://arxiv.org/abs/2309.14972v1)<br>:star:[code](https://bardofcodes.github.io/coref/)
+* [PHRIT: Parametric Hand Representation with Implicit Template](http://arxiv.org/abs/2309.14916v1)
+* [Nearest Neighbor Guidance for Out-of-Distribution Detection](http://arxiv.org/abs/2309.14888v1)<br>:star:[code](https://github.com/roomo7time/nnguide)
+* [Structure Invariant Transformation for better Adversarial Transferability](http://arxiv.org/abs/2309.14700v1)<br>:star:[code](https://github.com/xiaosen-wang/SIT)
+* [NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space](http://arxiv.org/abs/2309.14616v1)<br>:star:[code](https://jiawei-yao0812.github.io/NDC-Scene/)<br>:star:[code](https://github.com/Jiawei-Yao0812/NDCScene)
+* [Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving](http://arxiv.org/abs/2309.14491v1)
 
 
 
@@ -66,6 +81,8 @@
 ## scene flow estimation(场景流估计)
 * [EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity](http://arxiv.org/abs/2309.01296v1)
 
+## Semantic Scene Completion(语义场景补全)
+* [NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space](http://arxiv.org/abs/2309.14616v1)<br>:star:[code](https://jiawei-yao0812.github.io/NDC-Scene/)<br>:star:[code](https://github.com/Jiawei-Yao0812/NDCScene)
 
 <a name="55"/>
 
@@ -200,6 +217,7 @@
 <a name="41"/>
 
 ## 41.Vision Transformers
+* [Structure Invariant Transformation for better Adversarial Transferability](http://arxiv.org/abs/2309.14700v1)<br>:star:[code](https://github.com/xiaosen-wang/SIT)
 * [SG-Former: Self-guided Transformer with Evolving Token Reallocation](http://arxiv.org/abs/2308.12216v1)<br>:star:[code](https://github.com/OliverRensu/SG-Former)
 * [Pre-training Vision Transformers with Very Limited Synthesized Images](http://arxiv.org/abs/2307.14710v1)
 * [SMMix: Self-Motivated Image Mixing for Vision Transformers](https://arxiv.org/abs/2212.12977)
@@ -218,6 +236,7 @@
 * OOD
   * [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](http://arxiv.org/abs/2308.12213v1)<br>:star:[code](https://github.com/xmed-lab/CLIPN)
   * [Meta OOD Learning for Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705v1)
+  * [Nearest Neighbor Guidance for Out-of-Distribution Detection](http://arxiv.org/abs/2309.14888v1)<br>:star:[code](https://github.com/roomo7time/nnguide)
 
 <a name="39"/>
 
@@ -319,6 +338,7 @@
   * [Knowing Where to Focus: Event-aware Transformer for Video Grounding](http://arxiv.org/abs/2308.06947v1)<br>:star:[code](https://github.com/jinhyunj/EaTR)
 * 视频分割
   * [XMem++: Production-level Video Segmentation From Few Annotated Frames](http://arxiv.org/abs/2307.15958v1)
+  * [Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation](http://arxiv.org/abs/2309.13248v1)<br>:star:[code](https://github.com/kfan21/EoRaS)
   * [GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation](http://arxiv.org/abs/2309.11145v1)<br>:star:[code](https://github.com/xmed-lab/GraphEcho)
   * [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](http://arxiv.org/abs/2308.08544v1)<br>:star:[code](https://henghuiding.github.io/MeViS)<br>:star:[code](https://henghuiding.github.io/MeViS/)
   * [MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](http://arxiv.org/abs/2308.11185v1)
@@ -381,6 +401,7 @@
 ## 29.Autonomous vehicles(自动驾驶)
 * 自动驾驶
   * [Improving Online Lane Graph Extraction by Object-Lane Clustering](http://arxiv.org/abs/2307.10947v1)
+  * [Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving](http://arxiv.org/abs/2309.14491v1)
   * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](http://arxiv.org/abs/2308.00398v1)<br>:star:[code](https://github.com/OpenDriveLab/DriveAdapter)
   * [Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving](http://arxiv.org/abs/2309.04422v1)<br>:house:[project](https://www.vis.xyz/pub/vtd)
   * [Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack](http://arxiv.org/abs/2308.11894v1)
@@ -459,6 +480,7 @@
   * [FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning](http://arxiv.org/abs/2308.09160v1)
 * Reinforcement Learning(强化学习)
   * [Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation](http://arxiv.org/abs/2308.01194v1)
+  * [DISeR: Designing Imaging Systems with Reinforcement Learning](http://arxiv.org/abs/2309.13851v1)<br>:star:[code](https://tzofi.github.io/diser)
   * [Learning to Identify Critical States for Reinforcement Learning from Videos](http://arxiv.org/abs/2308.07795v1)<br>:star:[code](https://github.com/AI-Initiative-KAUST/VideoRLCS)
 * 迁移学习
   * [Disposable Transfer Learning for Selective Source Task Unlearning](http://arxiv.org/abs/2308.09971v1)
@@ -477,6 +499,7 @@
 ## 25.Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 量化
   * [EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization](http://arxiv.org/abs/2307.10554v1)
+  * [Causal-DFQ: Causality Guided Data-free Network Quantization](http://arxiv.org/abs/2309.13682v1)<br>:star:[code](https://github.com/42Shawn/Causal-DFQ)
 * 剪枝
   * [Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning](http://arxiv.org/abs/2308.07209v1)
 * 轻量级网络
@@ -485,12 +508,15 @@
   * [DOT: A Distillation-Oriented Trainer](https://arxiv.org/abs/2307.08436)
   * [Cumulative Spatial Knowledge Distillation for Vision Transformers](https://arxiv.org/abs/2307.08500)
   * [Multi-Label Knowledge Distillation](http://arxiv.org/abs/2308.06453v1)<br>:star:[code](https://github.com/penghui-yang/L2D)
+  * [DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation](http://arxiv.org/abs/2309.15109v1)
 
 <a name="24"/>
 
 ## 24.Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 域适应
   * [Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples](http://arxiv.org/abs/2307.10062v1)
+  * [Order-preserving Consistency Regularization for Domain Adaptation and Generalization](http://arxiv.org/abs/2309.13258v1)
+  * [LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation](http://arxiv.org/abs/2309.13523v1)<br>:star:[code](https://github.com/JHLee0513/LiDARUDA)
   * [Unsupervised Domain Adaptive Detection with Network Stability Analysis](http://arxiv.org/abs/2308.08182v1)<br>:star:[code](https://github.com/tiankongzhang/NSA)
   * [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](http://arxiv.org/abs/2308.09139v1)<br>:star:[code](https://github.com/giaczara/dallv)
   * [Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation](http://arxiv.org/abs/2308.14023v1)<br>:house:[project](http://val.cds.iisc.ac.in/DSiT-SFDA)
@@ -522,6 +548,7 @@
 * [Explicit Motion Disentangling for Efficient Optical Flow Estimation]未公开
 * [VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)<br>:star:[code](https://github.com/XiaoyuShi97/VideoFlow)<br>:thumbsup:[ICCV2023|港中文MMLab提出多帧光流估计模型VideoFlow，充分挖掘时序线索，Sintel与KITTI榜单排名第一](https://mp.weixin.qq.com/s/jsHDk055nSCmkJ8TXch_Lg)
 * [MPI-Flow: Learning Realistic Optical Flow with Multiplane Images](http://arxiv.org/abs/2309.06714v1)<br>:star:[code](https://github.com/Sharpiless/MPI-Flow)
+* [RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation](http://arxiv.org/abs/2309.15082v1)<br>:star:[code](https://github.com/danqu130/RPEFlow)<br>:star:[code](https://npucvr.github.io/RPEFlow)
 
 <a name="22"/>
 
@@ -630,6 +657,9 @@
   * [Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images](http://arxiv.org/abs/2308.11015v1)
 * 手势生成
   * [LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation](http://arxiv.org/abs/2309.09294v1)
+* 人体合成
+  * [UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation](http://arxiv.org/abs/2309.14335v1)<br>:star:[code](https://unitedhuman.github.io/)<br>:star:[code](https://github.com/UnitedHuman/UnitedHuman)
+
 
 <a name="17"/>
 
@@ -771,6 +801,7 @@
   * [Self-Calibrated Cross Attention Network for Few-Shot Segmentation](http://arxiv.org/abs/2308.09294v1)<br>:star:[code](https://github.com/Sam1224/SCCAN)
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
+  * [Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation](http://arxiv.org/abs/2309.14241v1)<br>:star:[code](https://github.com/yxiwang/IDM)
   * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
   * [Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation](http://arxiv.org/abs/2308.05493v1)
@@ -948,6 +979,7 @@
 <a name="2"/>
 
 ## 2.3D(三维重建\三维视觉)
+* [Tiled Multiplane Images for Practical 3D Photography](http://arxiv.org/abs/2309.14291v1)
 * [DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image](http://arxiv.org/abs/2309.12594v1)
 * [HoloFusion: Towards Photo-realistic 3D Generative Modeling](http://arxiv.org/abs/2308.14244v1)<br>:star:[code](https://holodiffusion.github.io/holofusion)
 * [PlaneRecTR: Unified Query learning for 3D Plane Recovery from a Single View](http://arxiv.org/abs/2307.13756v1)<br>:house:[project](https://youtu.be/YBB7totHGJg)<br>:star:[code](https://github.com/SJingjia/PlaneRecTR)
@@ -987,6 +1019,11 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [PHRIT: Parametric Hand Representation with Implicit Template](http://arxiv.org/abs/2309.14916v1)
+* [Improving Unsupervised Visual Program Inference with Code Rewriting Families](http://arxiv.org/abs/2309.14972v1)<br>:star:[code](https://bardofcodes.github.io/coref/)
+* [Generating Visual Scenes from Touch](http://arxiv.org/abs/2309.15117v1)<br>:star:[code](https://fredfyyang.github.io/vision-from-touch/)
+* [LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning](http://arxiv.org/abs/2309.13556v1)<br>:star:[code](https://github.com/lingorX/LogicSeg/)
+* [Automatic Animation of Hair Blowing in Still Portrait Photos](http://arxiv.org/abs/2309.14207v1)<br>:star:[code](https://nevergiveu.github.io/AutomaticHairBlowing/)
 * [Cross-Modal Translation and Alignment for Survival Analysis](http://arxiv.org/abs/2309.12855v1)
 * [Contrastive Pseudo Learning for Open-World DeepFake Attribution](http://arxiv.org/abs/2309.11132v1)
 * [Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation](http://arxiv.org/abs/2309.11081v1)
