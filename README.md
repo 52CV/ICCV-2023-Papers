@@ -26,7 +26,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-计631+19 篇。 
+计650+3 篇。 
 
 ## 目录
 
@@ -48,26 +48,11 @@
 |[53.Computed Imaging(计算成像，如光学、几何、光场成像等)](#53)|[54.Gaze Estimation](#54)|[55.sound(语音)](#55)|
 
 
-## 💥💥💥9月27日新增19篇。
-* [UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation](http://arxiv.org/abs/2309.14335v1)<br>:star:[code](https://unitedhuman.github.io/)<br>:star:[code](https://github.com/UnitedHuman/UnitedHuman)
-* [Tiled Multiplane Images for Practical 3D Photography](http://arxiv.org/abs/2309.14291v1)
-* [Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation](http://arxiv.org/abs/2309.14241v1)<br>:star:[code](https://github.com/yxiwang/IDM)
-* [Automatic Animation of Hair Blowing in Still Portrait Photos](http://arxiv.org/abs/2309.14207v1)<br>:star:[code](https://nevergiveu.github.io/AutomaticHairBlowing/)
-* [DISeR: Designing Imaging Systems with Reinforcement Learning](http://arxiv.org/abs/2309.13851v1)<br>:star:[code](https://tzofi.github.io/diser)
-* [Causal-DFQ: Causality Guided Data-free Network Quantization](http://arxiv.org/abs/2309.13682v1)<br>:star:[code](https://github.com/42Shawn/Causal-DFQ)
-* [LOGICSEG: Parsing Visual Semantics with Neural Logic Learning and Reasoning](http://arxiv.org/abs/2309.13556v1)<br>:star:[code](https://github.com/lingorX/LogicSeg/)
-* [LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation](http://arxiv.org/abs/2309.13523v1)<br>:star:[code](https://github.com/JHLee0513/LiDARUDA)
-* [Order-preserving Consistency Regularization for Domain Adaptation and Generalization](http://arxiv.org/abs/2309.13258v1)
-* [Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation](http://arxiv.org/abs/2309.13248v1)<br>:star:[code](https://github.com/kfan21/EoRaS)
-* [Generating Visual Scenes from Touch](http://arxiv.org/abs/2309.15117v1)<br>:star:[code](https://fredfyyang.github.io/vision-from-touch/)
-* [DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation](http://arxiv.org/abs/2309.15109v1)
-* [RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation](http://arxiv.org/abs/2309.15082v1)<br>:star:[code](https://github.com/danqu130/RPEFlow)<br>:star:[code](https://npucvr.github.io/RPEFlow)
-* [Improving Unsupervised Visual Program Inference with Code Rewriting Families](http://arxiv.org/abs/2309.14972v1)<br>:star:[code](https://bardofcodes.github.io/coref/)
-* [PHRIT: Parametric Hand Representation with Implicit Template](http://arxiv.org/abs/2309.14916v1)
-* [Nearest Neighbor Guidance for Out-of-Distribution Detection](http://arxiv.org/abs/2309.14888v1)<br>:star:[code](https://github.com/roomo7time/nnguide)
-* [Structure Invariant Transformation for better Adversarial Transferability](http://arxiv.org/abs/2309.14700v1)<br>:star:[code](https://github.com/xiaosen-wang/SIT)
-* [NDC-Scene: Boost Monocular 3D Semantic Scene Completion in Normalized Device Coordinates Space](http://arxiv.org/abs/2309.14616v1)<br>:star:[code](https://jiawei-yao0812.github.io/NDC-Scene/)<br>:star:[code](https://github.com/Jiawei-Yao0812/NDCScene)
-* [Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving](http://arxiv.org/abs/2309.14491v1)
+## 💥💥💥9月28日新增3篇。
+* [Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation](http://arxiv.org/abs/2309.15575v1)<br>:star:[code](https://github.com/Bostoncake/C-VisDiT)
+* [NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions](http://arxiv.org/abs/2309.15426v1)<br>:star:[code](https://oppo-us-research.github.io/NeuRBF-website/)
+* [DECO: Dense Estimation of 3D Human-Scene Contact In The Wild](http://arxiv.org/abs/2309.15273v1)<br>:house:[project](https://deco.is.tue.mpg.de)
+
 
 
 
@@ -516,6 +501,7 @@
 * 域适应
   * [Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples](http://arxiv.org/abs/2307.10062v1)
   * [Order-preserving Consistency Regularization for Domain Adaptation and Generalization](http://arxiv.org/abs/2309.13258v1)
+  * [Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation](http://arxiv.org/abs/2309.15575v1)<br>:star:[code](https://github.com/Bostoncake/C-VisDiT)
   * [LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation](http://arxiv.org/abs/2309.13523v1)<br>:star:[code](https://github.com/JHLee0513/LiDARUDA)
   * [Unsupervised Domain Adaptive Detection with Network Stability Analysis](http://arxiv.org/abs/2308.08182v1)<br>:star:[code](https://github.com/tiankongzhang/NSA)
   * [The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation](http://arxiv.org/abs/2308.09139v1)<br>:star:[code](https://github.com/giaczara/dallv)
@@ -1019,6 +1005,8 @@
 <a name="1"/>
 
 ## 1.其它(others)
+* [NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions](http://arxiv.org/abs/2309.15426v1)<br>:star:[code](https://oppo-us-research.github.io/NeuRBF-website/)
+* [DECO: Dense Estimation of 3D Human-Scene Contact In The Wild](http://arxiv.org/abs/2309.15273v1)<br>:house:[project](https://deco.is.tue.mpg.de)
 * [PHRIT: Parametric Hand Representation with Implicit Template](http://arxiv.org/abs/2309.14916v1)
 * [Improving Unsupervised Visual Program Inference with Code Rewriting Families](http://arxiv.org/abs/2309.14972v1)<br>:star:[code](https://bardofcodes.github.io/coref/)
 * [Generating Visual Scenes from Touch](http://arxiv.org/abs/2309.15117v1)<br>:star:[code](https://fredfyyang.github.io/vision-from-touch/)
