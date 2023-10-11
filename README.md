@@ -61,6 +61,9 @@
 ## Spiking Neural Networks
 * [Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/papers/Meng_Towards_Memory-_and_Time-Efficient_Backpropagation_for_Training_Spiking_Neural_Networks_ICCV_2023_paper.pdf)
 
+## Dense Prediction(密集预测)
+* [Multi-Task Learning with Knowledge Distillation for Dense Prediction](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Multi-Task_Learning_with_Knowledge_Distillation_for_Dense_Prediction_ICCV_2023_paper.pdf)
+
 ## Data Augmentation(数据增强)
 * [HybridAugment++: Unified Frequency Spectra Perturbations for Model Robustness](http://arxiv.org/abs/2307.11823v1)
 * [MixBag: Bag-Level Data Augmentation for Learning from Label Proportions](http://arxiv.org/abs/2308.08822v1)
@@ -70,6 +73,7 @@
 ## Active Learning(主动学习)
 * [TiDAL: Learning Training Dynamics for Active Learning](http://arxiv.org/abs/2210.06788)
 * [HAL3D: Hierarchical Active Learning for Fine-Grained 3D Part Labeling](http://arxiv.org/abs/2301.10460)
+* [Skip-Plan: Procedure Planning in Instructional Videos via Condensed Action Space Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Skip-Plan_Procedure_Planning_in_Instructional_Videos_via_Condensed_Action_Space_ICCV_2023_paper.pdf)
 
 ## Clustering(聚类)
 * [Cross-view Topology Based Consistent and Complementary Information for Deep Multi-view Clustering](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Cross-view_Topology_Based_Consistent_and_Complementary_Information_for_Deep_Multi-view_ICCV_2023_paper.pdf)
@@ -160,6 +164,7 @@
 * [Urban Radiance Field Representation with Deformable Neural Mesh Primitives](http://arxiv.org/abs/2307.10776v1)<br>:house:[project](https://dnmp.github.io/)
 * [FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis](http://arxiv.org/abs/2306.17723)
 * [SAMPLING: Scene-adaptive Hierarchical Multiplane Images Representation for Novel View Synthesis from a Single Image](http://arxiv.org/abs/2309.06323)
+* [A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction](http://arxiv.org/abs/2301.06782)
 
 <a name="51"/>
 
@@ -206,6 +211,7 @@
 * [Compositional Feature Augmentation for Unbiased Scene Graph Generation](http://arxiv.org/abs/2308.06712v1)
 * [Vision Relation Transformer for Unbiased Scene Graph Generation](http://arxiv.org/abs/2308.09472v1)
 * [TextPSG: Panoptic Scene Graph Generation from Textual Descriptions](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhao_TextPSG_Panoptic_Scene_Graph_Generation_from_Textual_Descriptions_ICCV_2023_paper.pdf)
+* [HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation](http://arxiv.org/abs/2303.15994)
 
 <a name="44"/>
 
@@ -223,6 +229,7 @@
 
 ## 43.Neural Radiance Fields
 * [StegaNeRF: Embedding Invisible Information within Neural Radiance Fields](http://arxiv.org/abs/2212.01602)
+* [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2023/papers/Barron_Zip-NeRF_Anti-Aliased_Grid-Based_Neural_Radiance_Fields_ICCV_2023_paper.pdf)
 * [NeRFrac: Neural Radiance Fields through Refractive Surface](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhan_NeRFrac_Neural_Radiance_Fields_through_Refractive_Surface_ICCV_2023_paper.pdf)
 * [MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos](http://arxiv.org/abs/2212.13056)
 * [Reference-guided Controllable Inpainting of Neural Radiance Fields](http://arxiv.org/abs/2304.09677)
@@ -248,6 +255,7 @@
 ## 42.Dataset/Benchmark
 * 数据集
   * [Building3D: An Urban-Scale Dataset and Benchmarks for Learning Roof Structures from Point Clouds](https://arxiv.org/pdf/2307.11914.pdf)<br>:sunflower:[dataset](https://building3d.ucalgary.ca/#)<br>:thumbsup:[ICCV2023 首个城市级别的基于航空点云的房屋建模数据集 Building3D](https://mp.weixin.qq.com/s/gKFByZ8ud2aNlG7C7t2-2Q)
+  * [RealGraph: A Multiview Dataset for 4D Real-world Context Graph Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_RealGraph_A_Multiview_Dataset_for_4D_Real-world_Context_Graph_Generation_ICCV_2023_paper.pdf)
   * [Snow Removal in Video: A New Dataset and A Novel Method](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Snow_Removal_in_Video_A_New_Dataset_and_A_Novel_ICCV_2023_paper.pdf)
   * [SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes](http://arxiv.org/abs/2304.05170)
   * [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](http://arxiv.org/abs/2307.07961)
@@ -315,6 +323,7 @@
   * [Meta OOD Learning for Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705v1)
   * [Nearest Neighbor Guidance for Out-of-Distribution Detection](http://arxiv.org/abs/2309.14888v1)<br>:star:[code](https://github.com/roomo7time/nnguide)
   * [Understanding the Feature Norm for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Understanding_the_Feature_Norm_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf)
+  * [Meta OOD Learning For Continuously Adaptive OOD Detection](http://arxiv.org/abs/2309.11705)
 
 <a name="39"/>
 
@@ -325,7 +334,9 @@
 <a name="38"/>
 
 ## 38.Vision-Language(视觉语言)
+* [A Retrospect to Multi-prompt Learning across Vision and Language](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_A_Retrospect_to_Multi-prompt_Learning_across_Vision_and_Language_ICCV_2023_paper.pdf)
 * [CiT: Curation in Training for Effective Vision-Language Data](http://arxiv.org/abs/2301.02241)
+* [Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models](http://arxiv.org/abs/2303.06571)
 * [Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models](http://arxiv.org/abs/2303.06628)
 * [Perceptual Grouping in Contrastive Vision-Language Models](http://arxiv.org/abs/2210.09996)
 * [Black Box Few-Shot Adaptation for Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf)
@@ -461,9 +472,11 @@
 * 视频分类
   * [ReGen: A good Generative Zero-Shot Video Classifier Should be Rewarded](https://openaccess.thecvf.com/content/ICCV2023/papers/Bulat_ReGen_A_good_Generative_Zero-Shot_Video_Classifier_Should_be_Rewarded_ICCV_2023_paper.pdf)
   * [Gram-based Attentive Neural Ordinary Differential Equations Network for Video Nystagmography Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Gram-based_Attentive_Neural_Ordinary_Differential_Equations_Network_for_Video_Nystagmography_ICCV_2023_paper.pdf)
+  * [Few-Shot Video Classification via Representation Fusion and Promotion Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Few-Shot_Video_Classification_via_Representation_Fusion_and_Promotion_Learning_ICCV_2023_paper.pdf)
 * 视频合成
   * [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](http://arxiv.org/abs/2308.16909v1)<br>:house:[project](https://www.mmlab-ntu.com/project/styleinv/index.html)<br>:star:[code](https://github.com/johannwyh/StyleInV)
   * [Mixed Neural Voxels for Fast Multi-view Video Synthesis](http://arxiv.org/abs/2212.00190)
+  * [WALDO: Future Video Synthesis Using Object Layer Decomposition and Parametric Flow Prediction](http://arxiv.org/abs/2211.14308)
 * 视频稳定
   * [Fast Full-frame Video Stabilization with Iterative Optimization](http://arxiv.org/abs/2307.12774v1)
 * Video Grounding(视频定位)
@@ -490,6 +503,7 @@
   * [ProPainter: Improving Propagation and Transformer for Video Inpainting](http://arxiv.org/abs/2309.03897v1)<br>:star:[code](https://github.com/sczhou/ProPainter)
 * 视频表示学习
   * [MGMAE: Motion Guided Masking for Video Masked Autoencoding](http://arxiv.org/abs/2308.10794v1)
+  * [Spatio-Temporal Crop Aggregation for Video Representation Learning](http://arxiv.org/abs/2211.17042)
 * VAD
   * [TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection](http://arxiv.org/abs/2308.11072v1)<br>:star:[code](https://joefioresi718.github.io/TeD-SPAD_webpage/)
   * [Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
@@ -561,7 +575,9 @@
 * 轨迹预测
   * [ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation](http://arxiv.org/abs/2307.14187v1)<br>:star:[code](https://KUIS-AI.github.io/adapt)
   * [Fast Inference and Update of Probabilistic Density Estimation on Trajectory Prediction](http://arxiv.org/abs/2308.08824v1)<br>:star:[code](https://github.com/meaten/FlowChain-ICCV2023)
+  * [Sparse Instance Conditioned Multimodal Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Sparse_Instance_Conditioned_Multimodal_Trajectory_Prediction_ICCV_2023_paper.pdf)
   * [Trajectory Unified Transformer for Pedestrian Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Trajectory_Unified_Transformer_for_Pedestrian_Trajectory_Prediction_ICCV_2023_paper.pdf)
+  * [BiFF: Bi-level Future Fusion with Polyline-based Coordinate for Interactive Trajectory Prediction](http://arxiv.org/abs/2306.14161)
   * [Joint Metrics Matter: A Better Standard for Trajectory Forecasting](http://arxiv.org/abs/2305.06292)
 * 车道线
   * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)<br>:star:[code](https://github.com/megvii-research/PETR.git)
@@ -587,6 +603,7 @@
   * [NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects](http://arxiv.org/abs/2305.14345)
 * 自监督学习
   * [Stable and Causal Inference for Discriminative Self-supervised Deep Visual Representations](http://arxiv.org/abs/2308.08321v1)
+  * [Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Contactless_Pulse_Estimation_Leveraging_Pseudo_Labels_and_Self-Supervision_ICCV_2023_paper.pdf)
   * [An Embarrassingly Simple Backdoor Attack on Self-supervised Learning](http://arxiv.org/abs/2210.07346)
   * [Learning by Sorting: Self-supervised Learning with Group Ordering Constraints](http://arxiv.org/abs/2301.02009)
   * [Representation Uncertainty in Self-Supervised Learning as Variational Inference](http://arxiv.org/abs/2203.11437)
@@ -622,6 +639,7 @@
     * [An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability](http://arxiv.org/abs/2308.02897v1)
     * [Tracing the Origin of Adversarial Attack for Forensic Investigation and Deterrence](http://arxiv.org/abs/2301.01218)
     * [LEA2: A Lightweight Ensemble Adversarial Attack via Non-overlapping Vulnerable Frequency Regions](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_LEA2_A_Lightweight_Ensemble_Adversarial_Attack_via_Non-overlapping_Vulnerable_Frequency_ICCV_2023_paper.pdf)
+    * [RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World](http://arxiv.org/abs/2307.07653)
   * 对抗训练  
     * [Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning](http://arxiv.org/abs/2308.02533v1)<br>:star:[code](https://github.com/microsoft/robustlearn)  
     * [Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2308.16454v1)
@@ -658,11 +676,14 @@
   * [NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning](http://arxiv.org/abs/2308.09297v1)<br>:star:[code](https://github.com/TamashaM/NAPA-VQ.git)
   * [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf)
   * [Online Continual Learning on Hierarchical Label Expansion](http://arxiv.org/abs/2308.14374)
+  * [Few-shot Continual Infomax Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Few-shot_Continual_Infomax_Learning_ICCV_2023_paper.pdf)
+  * [NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Malepathirana_NAPA-VQ_Neighborhood-Aware_Prototype_Augmentation_with_Vector_Quantization_for_Continual_Learning_ICCV_2023_paper.pdf)
 * 增量学习 
   * [When Prompt-based Incremental Learning Does Not Meet Strong Pretraining](http://arxiv.org/abs/2308.10445v1)<br>:star:[code](https://github.com/TOM-tym/APG)
 * Federated Learning(联邦学习)
   * [ProtoFL: Unsupervised Federated Learning via Prototypical Distillation](http://arxiv.org/abs/2307.12450v1)
   * [PGFed: Personalize Each Client's Global Objective for Federated Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Luo_PGFed_Personalize_Each_Clients_Global_Objective_for_Federated_Learning_ICCV_2023_paper.pdf)
+  * [Communication-efficient Federated Learning with Single-Step Synthetic Features Compressor for Faster Convergence](http://arxiv.org/abs/2302.13562)
   * [Towards Instance-adaptive Inference for Federated Learning](http://arxiv.org/abs/2308.06051)
   * [Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation](http://arxiv.org/abs/2308.15367v1)
   * [FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning](http://arxiv.org/abs/2308.09160v1)
@@ -692,6 +713,8 @@
   * [Distribution-Consistent Modal Recovering for Incomplete Multimodal Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Distribution-Consistent_Modal_Recovering_for_Incomplete_Multimodal_Learning_ICCV_2023_paper.pdf)
 * 对比学习
   * [Contrastive Learning Relies More on Spatial Inductive Bias Than Supervised Learning: An Empirical Study](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhong_Contrastive_Learning_Relies_More_on_Spatial_Inductive_Bias_Than_Supervised_ICCV_2023_paper.pdf)
+* 机器遗忘
+  * [MUter: Machine Unlearning on Adversarially Trained Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_MUter_Machine_Unlearning_on_Adversarially_Trained_Models_ICCV_2023_paper.pdf)
 
 <a name="25"/>
 
@@ -724,6 +747,7 @@
 ## 24.Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 域适应
   * [Unsupervised Accuracy Estimation of Deep Visual Models using Domain-Adaptive Adversarial Perturbation without Source Samples](http://arxiv.org/abs/2307.10062v1)
+  * [Universal Domain Adaptation via Compressive Attention Matching](http://arxiv.org/abs/2304.11862)
   * [GeT: Generative Target Structure Debiasing for Domain Adaptation](http://arxiv.org/abs/2308.10205)
   * [Homeomorphism Alignment for Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Homeomorphism_Alignment_for_Unsupervised_Domain_Adaptation_ICCV_2023_paper.pdf)
   * [Order-preserving Consistency Regularization for Domain Adaptation and Generalization](http://arxiv.org/abs/2309.13258v1)
@@ -801,9 +825,11 @@
 
 ## 21.Point Cloud(点云)
 * [Self-Ordering Point Clouds](http://arxiv.org/abs/2304.00961)
+* [Efficient LiDAR Point Cloud Oversegmentation Network](https://openaccess.thecvf.com/content/ICCV2023/papers/Hui_Efficient_LiDAR_Point_Cloud_Oversegmentation_Network_ICCV_2023_paper.pdf)
 * [CO-PILOT: Dynamic Top-Down Point Cloud with Conditional Neighborhood Aggregation for Multi-Gigapixel Histopathology Image Representation](https://openaccess.thecvf.com/content/ICCV2023/papers/Nakhli_CO-PILOT_Dynamic_Top-Down_Point_Cloud_with_Conditional_Neighborhood_Aggregation_for_ICCV_2023_paper.pdf)
 * [Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Zha_Instance-aware_Dynamic_Prompt_Tuning_for_Pre-trained_Point_Cloud_Models_ICCV_2023_paper.pdf)
 * [Ponder: Point Cloud Pre-training via Neural Rendering](http://arxiv.org/abs/2301.00157)
+* [SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator](http://arxiv.org/abs/2307.08492)
 * [EPiC: Ensemble of Partial Point Clouds for Robust Classification](http://arxiv.org/abs/2303.11419)
 * [Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos](http://arxiv.org/abs/2308.09247v1)
 * [Masked Spatio-Temporal Structure Prediction for Self-supervised Learning on Point Cloud Videos](http://arxiv.org/abs/2308.09245v1)
@@ -871,12 +897,15 @@
 ## 19.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * [View Consistent Purification for Accurate Cross-View Localization](http://arxiv.org/abs/2308.08110v1)
 * [Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2308.15081v1)<br>:star:[code](https://github.com/Hengwei-Zhao96/T-HOneCls)
+* 遥感图像分割
+  * [Seeing Beyond the Patch: Scale-Adaptive Semantic Segmentation of High-resolution Remote Sensing Imagery based on Reinforcement Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Seeing_Beyond_the_Patch_Scale-Adaptive_Semantic_Segmentation_of_High-resolution_Remote_ICCV_2023_paper.pdf)
 * 无人机跟踪
   * [Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)
 
 <a name="18"/>
 
 ## 18.Human Pose Estimation
+* [BaRe-ESA: A Riemannian Framework for Unregistered Human Body Shapes](https://openaccess.thecvf.com/content/ICCV2023/papers/Hartman_BaRe-ESA_A_Riemannian_Framework_for_Unregistered_Human_Body_Shapes_ICCV_2023_paper.pdf)
 * 人体姿态估计
   * [DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation](http://arxiv.org/abs/2307.16687v1)
   * [SEFD: Learning to Distill Complex Pose and Occlusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_SEFD_Learning_to_Distill_Complex_Pose_and_Occlusion_ICCV_2023_paper.pdf)
@@ -889,6 +918,7 @@
   * [Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation](http://arxiv.org/abs/2308.07313v1)<br>:star:[code](https://github.com/Michel-liu/GroupPose-Paddle)<br>:star:[code](https://github.com/Michel-liu/GroupPose)
 * 3D人体姿态估计
   * [3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation](http://arxiv.org/abs/2308.10123v1)<br>:star:[code](https://github.com/edz-o/3DNBF)<br>:star:[code](https://3dnbf.github.io/)
+  * [Test-time Personalizable Forecasting of 3D Human Poses](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_Test-time_Personalizable_Forecasting_of_3D_Human_Poses_ICCV_2023_paper.pdf)
   * [Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation](http://arxiv.org/abs/2309.04756)
   * [HopFIR: Hop-wise GraphFormer with Intragroup Joint Refinement for 3D Human Pose Estimation](http://arxiv.org/abs/2302.14581)
   * [Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video](http://arxiv.org/abs/2308.10305v1)<br>:star:[code](https://kasvii.github.io/PMCE)<br>:star:[code](https://github.com/kasvii/PMCE)
@@ -910,6 +940,7 @@
   * [Weakly-supervised 3D Pose Transfer with Keypoints](http://arxiv.org/abs/2307.13459v1)
   * [WaveIPT: Joint Attention and Flow Alignment in the Wavelet domain for Pose Transfer](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_WaveIPT_Joint_Attention_and_Flow_Alignment_in_the_Wavelet_domain_ICCV_2023_paper.pdf)
   * [Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer](http://arxiv.org/abs/2307.07754)
+  * [MAPConNet: Self-supervised 3D Pose Transfer with Mesh and Point Contrastive Learning](http://arxiv.org/abs/2304.13819)
 * 三维人体重建
   * [Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction](http://arxiv.org/abs/2308.00799v1)Meta
   * [Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models](http://arxiv.org/abs/2305.11870)
@@ -943,6 +974,9 @@
   * [TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis](http://arxiv.org/abs/2305.00976)
   * [Guided Motion Diffusion for Controllable Human Motion Synthesis](https://openaccess.thecvf.com/content/ICCV2023/papers/Karunratanakul_Guided_Motion_Diffusion_for_Controllable_Human_Motion_Synthesis_ICCV_2023_paper.pdf)
   * [MotionBERT: A Unified Perspective on Learning Human Motion Representations](http://arxiv.org/abs/2210.06551)
+  * [Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Fg-T2M_Fine-Grained_Text-Driven_Human_Motion_Generation_via_Diffusion_Model_ICCV_2023_paper.pdf)
+* 人体姿态异常检测
+  * [Normalizing Flows for Human Pose Anomaly Detection](http://arxiv.org/abs/2211.10946)
 
 <a name="17"/>
 
@@ -961,6 +995,7 @@
 ## 16.Super-Resolution(超分辨率)
 * [Self-Supervised Burst Super-Resolution](https://openaccess.thecvf.com/content/ICCV2023/papers/Bhat_Self-Supervised_Burst_Super-Resolution_ICCV_2023_paper.pdf)
 * [Who Are You Referring To? Coreference Resolution In Image Narrations](http://arxiv.org/abs/2211.14563)
+* [Boosting Single Image Super-Resolution via Partial Channel Shifting](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Boosting_Single_Image_Super-Resolution_via_Partial_Channel_Shifting_ICCV_2023_paper.pdf)
 * [Reconstructed Convolution Module Based Look-Up Tables for Efficient Image Super-Resolution](http://arxiv.org/abs/2307.08544)
 * [Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution](http://arxiv.org/abs/2302.08058)
 * [Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution](http://arxiv.org/abs/2303.09650)
@@ -976,6 +1011,7 @@
 <a name="15"/>
 
 ## 15.Image/Video Retrieval(图像/视频检索)
+* [Zero-Shot Composed Image Retrieval with Textual Inversion](http://arxiv.org/abs/2303.15247)
 * [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf)
 * [Learning Spatial-context-aware Global Visual Feature Representation for Instance Image Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_Spatial-context-aware_Global_Visual_Feature_Representation_for_Instance_Image_Retrieval_ICCV_2023_paper.pdf)
 * [U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds](http://arxiv.org/abs/2308.06383v1)
@@ -994,6 +1030,7 @@
   * [Unified Coarse-to-Fine Alignment for Video-Text Retrieval](http://arxiv.org/abs/2309.10091v1)<br>:star:[code](https://github.com/Ziyang412/UCoFiA)
 * 视频检索
   * [Simple Baselines for Interactive Video Retrieval with Questions and Answers](http://arxiv.org/abs/2308.10402v1)<br>:star:[code](https://github.com/kevinliang888/IVR-QA-baselines)
+  * [VADER: Video Alignment Differencing and Retrieval](http://arxiv.org/abs/2303.13193)
 
 <a name="14"/>
 
@@ -1015,7 +1052,8 @@
 * [With a Little Help from your own Past: Prototypical Memory Networks for Image Captioning](http://arxiv.org/abs/2308.12383v1)<br>:star:[code](https://github.com/aimagelab/PMA-Net)
 * 更改字幕
   * [Self-supervised Cross-view Representation Reconstruction for Change Captioning](https://openaccess.thecvf.com/content/ICCV2023/papers/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.pdf)
-
+* 视频字幕
+  * [Exploring Group Video Captioning with Efficient Relational Approximation](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Exploring_Group_Video_Captioning_with_Efficient_Relational_Approximation_ICCV_2023_paper.pdf)
 
 <a name="12"/>
 
@@ -1026,6 +1064,7 @@
 * [Taxonomy Adaptive Cross-Domain Adaptation in Medical Imaging via Optimization Trajectory Distillation](http://arxiv.org/abs/2307.14709v1)
 * [Dual Meta-Learning with Longitudinally Generalized Regularization for One-Shot Brain Tissue Segmentation Across the Human Lifespan](http://arxiv.org/abs/2308.06774v1)<br>:star:[code](https://github.com/ladderlab-xjtu/DuMeta)
 * [ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis](http://arxiv.org/abs/2308.13324v1)
+* [MRM: Masked Relation Modeling for Medical Image Pre-Training with Genetics](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_MRM_Masked_Relation_Modeling_for_Medical_Image_Pre-Training_with_Genetics_ICCV_2023_paper.pdf)
 * 医学影像配准
   * [Towards Saner Deep Image Registration](http://arxiv.org/abs/2307.09696v1)<br>:star:[code](https://github.com/tuffr5/Saner-deep-registration)
   * [Preserving Tumor Volumes for Unsupervised Medical Image Registration](http://arxiv.org/abs/2309.10153v1)<br>:star:[code](https://dddraxxx.github.io/Volume-Preserving-Registration/)
@@ -1034,6 +1073,7 @@
   * [Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation](http://arxiv.org/abs/2303.15932)
 * 医学影像分割
   * [CauSSL: Causality-inspired Semi-supervised Learning for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Miao_CauSSL_Causality-inspired_Semi-supervised_Learning_for_Medical_Image_Segmentation_ICCV_2023_paper.pdf)
+  * [Dynamic Snake Convolution Based on Topological Geometric Constraints for Tubular Structure Segmentation](http://arxiv.org/abs/2307.08388)
 * 切片分类
   * [Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification](http://arxiv.org/abs/2307.15254v1)<br>:star:[code](https://github.com/DearCaat/MHIM-MIL)
 * 细胞核检测
@@ -1093,6 +1133,7 @@
   * [GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Qin_GlueGen_Plug_and_Play_Multi-modal_Encoders_for_X-to-image_Generation_ICCV_2023_paper.pdf)
 * 扩散
   * [DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport](http://arxiv.org/abs/2307.11308v1)<br>:star:[code](https://github.com/cognaclee/DPM-OT)
+  * [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://openaccess.thecvf.com/content/ICCV2023/papers/Chou_Diffusion-SDF_Conditional_Generative_Modeling_of_Signed_Distance_Functions_ICCV_2023_paper.pdf)
   * [Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data](https://openaccess.thecvf.com/content/ICCV2023/papers/Szymanowicz_Viewset_Diffusion_0-Image-Conditioned_3D_Generative_Models_from_2D_Data_ICCV_2023_paper.pdf)
   * [AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration](http://arxiv.org/abs/2309.10438)
   * [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](http://arxiv.org/abs/2303.11396)
@@ -1114,6 +1155,12 @@
   * [Story Visualization by Online Text Augmentation with Context Memory](http://arxiv.org/abs/2308.07575v1)
 * AIGC
   * [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/pdf/2304.01116.pdf)<br>:house:[project](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)<br>:thumbsup:[ICCV 2023|重塑人体动作生成，融合扩散模型与检索策略的新范式ReMoDiffuse来了](https://mp.weixin.qq.com/s/IOuqsd0e6tj_qFnxpRPaEA)
+* 布局生成
+  * [LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models](http://arxiv.org/abs/2303.11589)
+  * [CC3D: Layout-Conditioned Generation of Compositional 3D Scenes](http://arxiv.org/abs/2303.12074)
+  * [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
+  * [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](http://arxiv.org/abs/2307.09693v1)
+
 
 <a name="9"/>
 
@@ -1128,9 +1175,12 @@
 * [Learning Concise and Descriptive Attributes for Visual Recognition](http://arxiv.org/abs/2308.03685v1)
 * [Get the Best of Both Worlds: Improving Accuracy and Transferability by Grassmann Class Representation](http://arxiv.org/abs/2308.01547v1)<br>:star:[code](https://github.com/innerlee/GCR)
 * [What do neural networks learn in image classification? A frequency shortcut perspective](http://arxiv.org/abs/2307.09829v1)
+* 零样本图像分类
+  * [What Does a Platypus Look Like? Generating Customized Prompts for Zero-Shot Image Classification](http://arxiv.org/abs/2209.03320)
 * 多标签图像分类
   * [CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](http://arxiv.org/abs/2307.16634v1)
   * [Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels](http://arxiv.org/abs/2304.10539)
+  * [PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification](http://arxiv.org/abs/2307.09066)
 * 细粒度识别
   * [Learning Gabor Texture Features for Fine-Grained Recognition](http://arxiv.org/abs/2308.05396v1)
 * 长尾识别
@@ -1141,6 +1191,7 @@
 <a name="8"/>
 
 ## 8.Image Segmentation(图像分割)
+* [Zero-guidance Segmentation Using Zero Segment Labels](http://arxiv.org/abs/2303.13396)
 * [Video State-Changing Object Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_Video_State-Changing_Object_Segmentation_ICCV_2023_paper.pdf)
 * [Locating Noise is Halfway Denoising for Semi-Supervised Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_Locating_Noise_is_Halfway_Denoising_for_Semi-Supervised_Segmentation_ICCV_2023_paper.pdf)
 * [MasQCLIP for Open-Vocabulary Universal Image Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_MasQCLIP_for_Open-Vocabulary_Universal_Image_Segmentation_ICCV_2023_paper.pdf)
@@ -1200,6 +1251,7 @@
 * 全景分割
   * [Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning](http://arxiv.org/abs/2307.14786v1)
   * [Open-vocabulary Panoptic Segmentation with Embedding Modulation](http://arxiv.org/abs/2303.11324)
+  * [4D Panoptic Segmentation as Invariant and Equivariant Field Prediction](http://arxiv.org/abs/2303.15651)
   * [EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation](http://arxiv.org/abs/2304.14291)
   * [Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport](http://arxiv.org/abs/2308.01779v1)<br>:star:[code](https://github.com/LiWentomng/Point2Mask)
   * [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](http://arxiv.org/abs/2308.01686v1)<br>:star:[code](https://github.com/zhangzw12319/lcps.git)
@@ -1209,6 +1261,7 @@
   * [TCOVIS: Temporally Consistent Online Video Instance Segmentation](http://arxiv.org/abs/2309.11857v1)<br>:star:[code](https://github.com/jun-long-li/TCOVIS)
 * VOS
   * [Spectrum-guided Multi-granularity Referring Video Object Segmentation](http://arxiv.org/abs/2307.13537v1)<br>:star:[code](https://github.com/bo-miao/SgMg)
+  * [Unsupervised Video Object Segmentation with Online Adversarial Self-Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Su_Unsupervised_Video_Object_Segmentation_with_Online_Adversarial_Self-Tuning_ICCV_2023_paper.pdf)
   * [Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation](http://arxiv.org/abs/2309.11160v1)<br>:star:[code](https://github.com/nankepan/VIPMT)
   * [Temporal Collection and Distribution for Referring Video Object Segmentation](http://arxiv.org/abs/2309.03473v1)<br>:star:[code](https://toneyaya.github.io/tempcd/)
   * [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)<br>:star:[code](https://github.com/wudongming97/OnlineRefer)
@@ -1239,6 +1292,7 @@
 * 图像/视频修复
   * [Rethinking Fast Fourier Convolution in Image Inpainting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chu_Rethinking_Fast_Fourier_Convolution_in_Image_Inpainting_ICCV_2023_paper.pdf)
   * [Semantic-Aware Dynamic Parameter for Video Inpainting Transformer](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.pdf)
+  * [MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices](https://openaccess.thecvf.com/content/ICCV2023/papers/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.pdf)
 * 图像/视频增强
   * [Lighting up NeRF via Unsupervised Decomposition and Enhancement](http://arxiv.org/abs/2307.10664v1)<br>:house:[project](https://whyy.site/paper/llnerf)
   * [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf)<br>:star:[code](https://github.com/Ysz2022/NeRCo)<br>:thumbsup:[ICCV2023 | 将隐式神经表征用于“低光增强”，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s/nkalW0aZqkoIZHW5SX91Ag)
@@ -1248,8 +1302,9 @@
   * [ExposureDiffusion: Learning to Expose for Low-light Image Enhancement](http://arxiv.org/abs/2307.07710)
   * [NIR-assisted Video Enhancement via Unpaired 24-hour Data](https://openaccess.thecvf.com/content/ICCV2023/papers/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.pdf)
   * [Low-Light Image Enhancement with Multi-Stage Residue Quantization and Brightness-Aware Attention](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Low-Light_Image_Enhancement_with_Multi-Stage_Residue_Quantization_and_Brightness-Aware_Attention_ICCV_2023_paper.pdf)
-* 图像去雨
+* 图像/视频去雨
   * [Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks](http://arxiv.org/abs/2308.14153v1)
+  * [Unsupervised Video Deraining with An Event Camera](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.pdf)
 * 图像去噪
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
   * [Denoising Diffusion Autoencoders are Unified Self-supervised Learners](http://arxiv.org/abs/2303.09769)
@@ -1319,6 +1374,7 @@
   * [TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective](http://arxiv.org/abs/2308.10133v1)<br>:star:[code](https://github.com/DanJun6737/TransFace)
   * [How to Boost Face Recognition with StyleGAN?](https://openaccess.thecvf.com/content/ICCV2023/papers/Sevastopolskiy_How_to_Boost_Face_Recognition_with_StyleGAN_ICCV_2023_paper.pdf)
   * [Privacy-Preserving Face Recognition Using Random Frequency Components](http://arxiv.org/abs/2308.10461v1)<br>:star:[code](https://github.com/Tencent/TFace)
+  * [ICD-Face: Intra-class Compactness Distillation for Face Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Yu_ICD-Face_Intra-class_Compactness_Distillation_for_Face_Recognition_ICCV_2023_paper.pdf)
 * 人脸聚类
   * [Face Clustering via Graph Convolutional Networks with Confidence Edges](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Face_Clustering_via_Graph_Convolutional_Networks_with_Confidence_Edges_ICCV_2023_paper.pdf)
 * 人脸合成
@@ -1330,6 +1386,7 @@
     * [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://arxiv.org/abs/2308.16758v1)
   * 3D 人脸动画
     * [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](http://arxiv.org/abs/2303.11089)
+    * [Imitator: Personalized Speech-driven 3D Facial Animation](http://arxiv.org/abs/2301.00023)
   * 3D 人脸重建
     * [Template Inversion Attack against Face Recognition Systems using 3D Face Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Shahreza_Template_Inversion_Attack_against_Face_Recognition_Systems_using_3D_Face_ICCV_2023_paper.pdf)
 * 人脸质量评估
@@ -1353,6 +1410,7 @@
 * [Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-Trackers](http://arxiv.org/abs/2307.04129)
 * 多目标跟踪
   * [MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking](http://arxiv.org/abs/2307.15700v1)<br>:star:[code](https://github.com/MCG-NJU/MeMOTR)
+  * [DARTH: Holistic Test-time Adaptation for Multiple Object Tracking](https://openaccess.thecvf.com/content/ICCV2023/papers/Segu_DARTH_Holistic_Test-time_Adaptation_for_Multiple_Object_Tracking_ICCV_2023_paper.pdf)
   * [Uncertainty-aware Unsupervised Multi-Object Tracking](http://arxiv.org/abs/2307.15409v1)
   * [TrackFlow: Multi-Object Tracking with Normalizing Flows](http://arxiv.org/abs/2308.11513v1)
   * [3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking](http://arxiv.org/abs/2308.06635v1)<br>:star:[code](https://github.com/dsx0511/3DMOTFormer)
@@ -1378,6 +1436,7 @@
 ## 3.Object Detection(目标检测)
 * [DIRE for Diffusion-Generated Image Detection]()http://arxiv.org/abs/2303.09295
 * [Shift from Texture-bias to Shape-bias: Edge Deformation-based Augmentation for Robust Object Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Shift_from_Texture-bias_to_Shape-bias_Edge_Deformation-based_Augmentation_for_Robust_ICCV_2023_paper.pdf)
+* [Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection](http://arxiv.org/abs/2204.02964)
 * [Periodically Exchange Teacher-Student for Source-Free Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Periodically_Exchange_Teacher-Student_for_Source-Free_Object_Detection_ICCV_2023_paper.pdf)
 * [CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection](http://arxiv.org/abs/2309.01093v1)
 * [A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_A_Dynamic_Dual-Processing_Object_Detection_Framework_Inspired_by_the_Brains_ICCV_2023_paper.pdf)
@@ -1426,6 +1485,7 @@
   * [CoIn: Contrastive Instance Feature Mining for Outdoor 3D Object Detection with Very Limited Annotations](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_CoIn_Contrastive_Instance_Feature_Mining_for_Outdoor_3D_Object_Detection_ICCV_2023_paper.pdf)
 * 开放词汇目标检测
   * [EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment](http://arxiv.org/abs/2309.01151v1)<br>:star:[code](https://chengshiest.github.io/edadet)
+  * [Open-Vocabulary Object Detection With an Open Corpus](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Open-Vocabulary_Object_Detection_With_an_Open_Corpus_ICCV_2023_paper.pdf)
 * 弱监督目标检测
   * [ALWOD: Active Learning for Weakly-Supervised Object Detection](http://arxiv.org/abs/2309.07914v1)<br>:star:[code](https://github.com/seqam-lab/ALWOD)
 * 半监督目标检测
@@ -1463,6 +1523,7 @@
 * 三维重建
   * [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](http://arxiv.org/abs/2307.10984v1)<br>:star:[code](https://github.com/YvanYin/Metric3D)
   * [LIST: Learning Implicitly from Spatial Transformers for Single-View 3D Reconstruction](http://arxiv.org/abs/2307.12194v1)
+  * [Neural-PBIR Reconstruction of Shape, Material, and Illumination](http://arxiv.org/abs/2304.13445)
   * [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](http://arxiv.org/abs/2304.06714)
   * [LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses](http://arxiv.org/abs/2304.00054)
   * [Long-Range Grouping Transformer for Multi-View 3D Reconstruction](http://arxiv.org/abs/2308.08724v1)<br>:star:[code](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
@@ -1502,15 +1563,31 @@
   * [Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching](http://arxiv.org/abs/2307.14071v1)
   * [Learning Depth Estimation for Transparent and Mirror Surfaces](http://arxiv.org/abs/2307.15052v1)<br>:star:[code](https://cvlab-unibo.github.io/Depth4ToM)
   * [ELFNet: Evidential Local-global Fusion for Stereo Matching](http://arxiv.org/abs/2308.00728v1)<br>:star:[code](https://github.com/jimmy19991222/ELFNet)
-* 3D形状生成
-  *[Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
+* 三维生成
+  * 3D形状生成
+    * [Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
+  * 文本-3D生成
+    * [DreamBooth3D: Subject-Driven Text-to-3D Generation](http://arxiv.org/abs/2303.13508)
 
 <a name="1"/>
 
 ## 1.其它(others)
+* [Dataset Quantization](http://arxiv.org/abs/2308.10524)
+* [Scene as Occupancy](http://arxiv.org/abs/2306.02851)
 * [Towards Models that Can See and Read](http://arxiv.org/abs/2301.07389)
+* [ParCNetV2: Oversized Kernel with Enhanced Attention](http://arxiv.org/abs/2211.07157)
+* [Efficiently Robustify Pre-Trained Models](http://arxiv.org/abs/2309.07499)
+* [DIME-FM : DIstilling Multimodal and Efficient Foundation Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Sun_DIME-FM__DIstilling_Multimodal_and_Efficient_Foundation_Models_ICCV_2023_paper.pdf)
+* [Overcoming Forgetting Catastrophe in Quantization-Aware Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Overcoming_Forgetting_Catastrophe_in_Quantization-Aware_Training_ICCV_2023_paper.pdf)
+* [Adverse Weather Removal with Codebook Priors](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf)
+* [MAP: Towards Balanced Generalization of IID and OOD through Model-Agnostic Adapters](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAP_Towards_Balanced_Generalization_of_IID_and_OOD_through_Model-Agnostic_ICCV_2023_paper.pdf)
+* [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://openaccess.thecvf.com/content/ICCV2023/papers/Haque_Instruct-NeRF2NeRF_Editing_3D_Scenes_with_Instructions_ICCV_2023_paper.pdf)
+* [COOL-CHIC: Coordinate-based Low Complexity Hierarchical Image Codec](https://openaccess.thecvf.com/content/ICCV2023/papers/Ladune_COOL-CHIC_Coordinate-based_Low_Complexity_Hierarchical_Image_Codec_ICCV_2023_paper.pdf)
+* [Chop & Learn: Recognizing and Generating Object-State Compositions](http://arxiv.org/abs/2309.14339)
 * [CORE: Cooperative Reconstruction for Multi-Agent Perception](http://arxiv.org/abs/2307.11514)
+* [Gramian Attention Heads are Strong yet Efficient Vision Learners](https://openaccess.thecvf.com/content/ICCV2023/papers/Ryu_Gramian_Attention_Heads_are_Strong_yet_Efficient_Vision_Learners_ICCV_2023_paper.pdf)
 * [Improving Zero-Shot Generalization for CLIP with Synthesized Prompts](http://arxiv.org/abs/2307.07397)
+* [E3Sym: Leveraging E(3) Invariance for Unsupervised 3D Planar Reflective Symmetry Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_E3Sym_Leveraging_E3_Invariance_for_Unsupervised_3D_Planar_Reflective_Symmetry_ICCV_2023_paper.pdf)
 * [Towards Improved Input Masking for Convolutional Neural Networks](http://arxiv.org/abs/2211.14646)
 * [SIGMA: Scale-Invariant Global Sparse Shape Matching](http://arxiv.org/abs/2308.08393)
 * [Pluralistic Aging Diffusion Autoencoder](http://arxiv.org/abs/2303.11086)
@@ -1619,7 +1696,6 @@
 * [Semantic Attention Flow Fields for Monocular Dynamic Scene Decomposition](https://openaccess.thecvf.com/content/ICCV2023/papers/Liang_Semantic_Attention_Flow_Fields_for_Monocular_Dynamic_Scene_Decomposition_ICCV_2023_paper.pdf)
 * [Time-to-Contact Map by Joint Estimation of Up-to-Scale Inverse Depth and Global Motion using a Single Event Camera](https://openaccess.thecvf.com/content/ICCV2023/papers/Nunes_Time-to-Contact_Map_by_Joint_Estimation_of_Up-to-Scale_Inverse_Depth_and_ICCV_2023_paper.pdf)
 * [Cross-modal Latent Space Alignment for Image to Avatar Translation](https://openaccess.thecvf.com/content/ICCV2023/papers/de_Guevara_Cross-modal_Latent_Space_Alignment_for_Image_to_Avatar_Translation_ICCV_2023_paper.pdf)
-* [CC3D: Layout-Conditioned Generation of Compositional 3D Scenes](http://arxiv.org/abs/2303.12074)
 * [Partition-And-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Partition-And-Debias_Agnostic_Biases_Mitigation_via_a_Mixture_of_Biases-Specific_Experts_ICCV_2023_paper.pdf)
 * [Learning to Transform for Generalizable Instance-wise Invariance](https://openaccess.thecvf.com/content/ICCV2023/papers/Singhal_Learning_to_Transform_for_Generalizable_Instance-wise_Invariance_ICCV_2023_paper.pdf)
 * [DeePoint: Visual Pointing Recognition and Direction Estimation](http://arxiv.org/abs/2304.06977)
@@ -1665,7 +1741,6 @@
 * [MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree](http://arxiv.org/abs/2308.13735v1)
 * [Late Stopping: Avoiding Confidently Learning from Mislabeled Examples](http://arxiv.org/abs/2308.13862v1)
 * [Motion-Guided Masking for Spatiotemporal Representation Learning](http://arxiv.org/abs/2308.12962v1)
-* [A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions](http://arxiv.org/abs/2308.12700v1)
 * [Self-supervised Learning of Implicit Shape Representation with Dense Correspondence for Deformable Objects](http://arxiv.org/abs/2308.12590v1)<br>:star:[code](https://iscas3dv.github.io/deformshape)
 * [SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal Targets](http://arxiv.org/abs/2308.11880v1)<br>:star:[code](https://github.com/csimo005/SUMMIT)
 * [DR-Tune: Improving Fine-tuning of Pretrained Visual Models by Distribution Regularization with Semantic Calibration](http://arxiv.org/abs/2308.12058v1)<br>:star:[code](https://github.com/weeknan/DR-Tune)
@@ -1718,7 +1793,6 @@
 * [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](http://arxiv.org/abs/2307.13929v1)
 * [Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network](http://arxiv.org/abs/2307.13254v1)
 * [Rethinking Data Distillation: Do Not Overlook Calibration](http://arxiv.org/abs/2307.12463v1)
-* [GlobalMapper: Arbitrary-Shaped Urban Layout Generation](http://arxiv.org/abs/2307.09693v1)
 * [Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV](http://arxiv.org/abs/2307.10713v1)<br>:star:[code](https://github.com/jspenmar/slowtv_monodepth)
 * [Towards Viewpoint-Invariant Visual Recognition via Adversarial Training](http://arxiv.org/abs/2307.10235v1)
 * [Tuning Pre-trained Model via Moment Probing](http://arxiv.org/abs/2307.11342v1)<br>:star:[code](https://github.com/mingzeG/Moment-Probing)
