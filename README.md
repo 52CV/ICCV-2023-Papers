@@ -1077,6 +1077,7 @@
 * [MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces](http://arxiv.org/abs/2309.08113v1)<br>:star:[code](https://github.com/yinzhicun/MetaF2N)
 * [HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)
 * [Lightweight Image Super-Resolution with Superpixel Token Interaction](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Lightweight_Image_Super-Resolution_with_Superpixel_Token_Interaction_ICCV_2023_paper.pdf)
+* [MSRA-SR: Image Super-resolution Transformer with Multi-scale Shared Representation Acquisition](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_MSRA-SR_Image_Super-resolution_Transformer_with_Multi-scale_Shared_Representation_Acquisition_ICCV_2023_paper.pdf)
 * 视频超分辨率
   * [MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution](http://arxiv.org/abs/2307.07988)
 
@@ -1187,6 +1188,7 @@
 * [Beyond Image Borders: Learning Feature Extrapolation for Unbounded Image Composition](http://arxiv.org/abs/2309.12042)
 * 图像生成
   * [MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers](http://arxiv.org/abs/2308.11096v1)
+  * [Generative Multiplane Neural Radiance for 3D-Aware Image Generation](http://arxiv.org/abs/2304.01172)
   * [EGC: Image Generation and Classification via a Diffusion Energy-Based Model](http://arxiv.org/abs/2304.02012)
   * [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.pdf)
   * [3D-aware Image Generation using 2D Diffusion Models](http://arxiv.org/abs/2303.17905)
@@ -1219,6 +1221,7 @@
   * [GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Qin_GlueGen_Plug_and_Play_Multi-modal_Encoders_for_X-to-image_Generation_ICCV_2023_paper.pdf)
 * 扩散
   * [DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport](http://arxiv.org/abs/2307.11308v1)<br>:star:[code](https://github.com/cognaclee/DPM-OT)
+  * [The Stable Signature: Rooting Watermarks in Latent Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf)
   * [Improving Sample Quality of Diffusion Models Using Self-Attention Guidance](http://arxiv.org/abs/2210.00939)
   * [Ablating Concepts in Text-to-Image Diffusion Models](http://arxiv.org/abs/2303.13516)
   * [Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models](http://arxiv.org/abs/2305.10474)
@@ -1312,6 +1315,7 @@
 * 语义分割
   * [A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation](http://arxiv.org/abs/2307.12574v1)
   * [DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models](http://arxiv.org/abs/2303.11681)
+  * [Boosting Semantic Segmentation from the Perspective of Explicit Class Embeddings](http://arxiv.org/abs/2308.12894)
   * [Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation](http://arxiv.org/abs/2309.14241v1)<br>:star:[code](https://github.com/yxiwang/IDM)
   * [CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation](http://arxiv.org/abs/2307.15942v1)<br>:star:[code](https://github.com/XiaRho/CMDA)
   * [To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation](http://arxiv.org/abs/2307.15063v1)<br>:star:[code](https://marcbotet.github.io/hamlet-web/)
@@ -1362,6 +1366,8 @@
   * [EDAPS: Enhanced Domain-Adaptive Panoptic Segmentation](http://arxiv.org/abs/2304.14291)
   * [Point2Mask: Point-supervised Panoptic Segmentation via Optimal Transport](http://arxiv.org/abs/2308.01779v1)<br>:star:[code](https://github.com/LiWentomng/Point2Mask)
   * [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](http://arxiv.org/abs/2308.01686v1)<br>:star:[code](https://github.com/zhangzw12319/lcps.git)
+* 开放词汇部分分割
+  * [Going Denser with Open-Vocabulary Part Segmentation](http://arxiv.org/abs/2305.11173)
 * VIS
   * [CTVIS: Consistent Training for Online Video Instance Segmentation](http://arxiv.org/abs/2307.12616v1)<br>:star:[code](https://github.com/KainingYing/CTVIS)
   * [DVIS: Decoupled Video Instance Segmentation Framework](https://arxiv.org/pdf/2306.03413.pdf)<br>:star:[code](https://github.com/zhang-tao-whu/DVIS)<br>:thumbsup:[ICCV 2023 | 发挥offline方法的潜力，武大&快手提出解耦合的视频实例分割框架DVIS](https://mp.weixin.qq.com/s/_MlryCfg_rRMZMfgINPwXw)
@@ -1419,6 +1425,7 @@
   * [Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks](http://arxiv.org/abs/2308.14153v1)
   * [Unsupervised Video Deraining with An Event Camera](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Unsupervised_Video_Deraining_with_An_Event_Camera_ICCV_2023_paper.pdf)
 * 图像去噪
+  * [Delta Denoising Score](http://arxiv.org/abs/2304.07090)
   * [Random Sub-Samples Generation for Self-Supervised Real Image Denoising](http://arxiv.org/abs/2307.16825v1)<br>:star:[code](https://github.com/p1y2z3/SDAP)
   * [Denoising Diffusion Autoencoders are Unified Self-supervised Learners](http://arxiv.org/abs/2303.09769)
   * [Noise2Info: Noisy Image to Information of Noise for Self-Supervised Image Denoising](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.pdf)
@@ -1668,6 +1675,7 @@
   * 三维场景重建
     * [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](http://arxiv.org/abs/2308.05733v1)<br>:star:[code](https://aim-uofa.github.io/FrozenRecon/)
     * [Spacetime Surface Regularization for Neural Dynamic Scene Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Choe_Spacetime_Surface_Regularization_for_Neural_Dynamic_Scene_Reconstruction_ICCV_2023_paper.pdf)
+    * [DG-Recon: Depth-Guided Neural 3D Scene Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Ju_DG-Recon_Depth-Guided_Neural_3D_Scene_Reconstruction_ICCV_2023_paper.pdf)
 * 深度估计
   * [MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation](http://arxiv.org/abs/2307.14336v1)
   * [3D Distillation: Improving Self-Supervised Monocular Depth Estimation on Reflective Surfaces](https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_3D_Distillation_Improving_Self-Supervised_Monocular_Depth_Estimation_on_Reflective_Surfaces_ICCV_2023_paper.pdf)
@@ -1700,7 +1708,8 @@
     * [Learning Versatile 3D Shape Generation with Improved AR Models](https://arxiv.org/pdf/2303.14700.pdf)
   * 文本-3D生成
     * [DreamBooth3D: Subject-Driven Text-to-3D Generation](http://arxiv.org/abs/2303.13508)
-
+* MVS
+  * [Hierarchical Prior Mining for Non-local Multi-View Stereo](http://arxiv.org/abs/2303.09758)
 
 <a name="1"/>
 
