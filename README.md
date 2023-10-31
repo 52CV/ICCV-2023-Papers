@@ -63,6 +63,7 @@
 * [Tracking Everything Everywhere All at Once](https://browse.arxiv.org/pdf/2306.05422.pdf)<br>:house:[project](https://github.com/qianqianwang68/omnimotion)
 
 <br>:thumbsup:[ICCV 2023 数据集分享（含水下图像视频、阴影去除、目标检测跟踪分割、交互、超分等）](https://mp.weixin.qq.com/s/XK943x4INOGHzD5Kvvo_Hw)
+<br>:thumbsup:[ICCV 2023 数据集分享（含动人物姿态、自动驾驶、遥感、去雪、人脸、VOS等）](https://zhuanlan.zhihu.com/p/660344176)
 
 <a name="78"/>
 
